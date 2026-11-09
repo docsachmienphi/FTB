@@ -10,6 +10,8 @@ cover_brand: "PUMA"
 cover_years: "1948 - 2026"
 cover_fate: "Born from a family fight"
 cover_class: "c-default"
+redirect_from:
+  - "/stories/how-puma-started/"
 ---
 
 In the small German town of Herzogenaurach, people meet in a strange way. Before you say hello, you look down - at their shoes. For more than 60 years, those shoes told the whole town whose side you were on.

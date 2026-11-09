@@ -10,6 +10,8 @@ cover_brand: "PEPSI"
 cover_years: "1898 - 2026"
 cover_fate: "Bankrupt twice, still standing"
 cover_class: "c-pepsi"
+redirect_from:
+  - "/stories/entire-history-of-pepsi/"
 ---
 
 Let me ask you something. Which do you like more, Pepsi or Coca-Cola? Today they are two of the most famous drinks in the world, standing side by side.

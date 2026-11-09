@@ -10,6 +10,8 @@ cover_brand: "ADIDAS"
 cover_years: "1949 - 2026"
 cover_fate: "He began three times"
 cover_class: "c-adidas"
+redirect_from:
+  - "/stories/how-adidas-started/"
 ---
 
 A man sits on a bicycle in a laundry room in Germany, pedaling for hours. The bicycle never moves one metre. But its wheels power a machine, and slowly, under a quiet shoemaker's hands, the first shoes are born.

@@ -29,7 +29,7 @@ cover_class: "[c-coca / c-nike / c-amazon / c-adidas / c-toyota / c-pepsi / c-de
 <!-- HOW TO USE:
 1. Copy this file into _posts/
 2. Rename it: YYYY-MM-DD-slug.md  (example: 2026-11-10-how-nike-started.md)
-   The slug becomes the URL: fromthebeginning.xyz/stories/how-nike-started/
+   The slug becomes the URL: fromthebeginning.xyz/stories/history-of-nike/
 3. Replace youtube_id with the real ID (the part after watch?v= in the YouTube link)
 4. Reuse your existing FTB blog file: its Title = title, Search description = description,
    Permalink = slug, Labels = tags, Post body = content below the front matter above.

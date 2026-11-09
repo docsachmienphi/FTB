@@ -10,6 +10,8 @@ cover_brand: "HEINZ"
 cover_years: "1869 - 2026"
 cover_fate: "He paid everyone back"
 cover_class: "c-default"
+redirect_from:
+  - "/stories/entire-history-of-heinz/"
 ---
 
 Have you ever turned a Heinz ketchup bottle upside down and waited for the sauce to come out? Nothing happens. So you tap the little number 57. And slowly, the ketchup begins to move.

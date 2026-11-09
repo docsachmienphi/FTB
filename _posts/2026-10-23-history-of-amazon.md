@@ -10,6 +10,8 @@ cover_brand: "AMAZON"
 cover_years: "1994 - 2026"
 cover_fate: "It began with doors"
 cover_class: "c-amazon"
+redirect_from:
+  - "/stories/entire-history-of-amazon/"
 ---
 
 In 1994, Jeff Bezos had a life most people would dream of. A great job in New York. A good salary. A safe future. Then he walked away from all of it, to sell books on a strange new thing called the internet, when almost nobody had bought anything online.

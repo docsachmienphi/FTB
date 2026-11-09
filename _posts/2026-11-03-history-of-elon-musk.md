@@ -10,6 +10,8 @@ cover_brand: "ELON MUSK"
 cover_years: "1971 - 2026"
 cover_fate: "He nearly lost everything"
 cover_class: "c-default"
+redirect_from:
+  - "/stories/entire-history-of-elon-musk/"
 ---
 
 In 2008, Elon Musk stood between two failing dreams. His rocket company had launched three rockets, and all three had failed. His electric car company was running out of money, and so was he. One more failure, and everything could end.

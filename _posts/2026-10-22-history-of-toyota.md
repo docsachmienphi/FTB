@@ -10,6 +10,8 @@ cover_brand: "TOYOTA"
 cover_years: "1937 - 2026"
 cover_fate: "It began with a loom"
 cover_class: "c-toyota"
+redirect_from:
+  - "/stories/entire-history-of-toyota/"
 ---
 
 In the 1930s, a Japanese engineer took apart an American Chevrolet, piece by piece, to learn how to build a car. His name was Kiichiro Toyoda. He did not yet know how to make an engine. He only knew how to learn.

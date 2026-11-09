@@ -10,6 +10,8 @@ cover_brand: "NIKE"
 cover_years: "1964 - 2026"
 cover_fate: "Shoes sold from a car"
 cover_class: "c-nike"
+redirect_from:
+  - "/stories/entire-history-of-nike/"
 ---
 
 Have you ever dreamed of owning a pair of Nike shoes? But that famous curved mark did not begin in a giant factory. It began with a young man selling shoes from the back of his car.

@@ -11,6 +11,8 @@ cover_brand: "COCA-COLA"
 cover_years: "1886 - 2026"
 cover_fate: "The founder died poor"
 cover_class: "c-coca"
+redirect_from:
+  - "/stories/how-coca-cola-started/"
 ---
 
 Imagine a hot day in the middle of a war. A young soldier stands far from home, in noise and fear. Someone hands him a cold bottle. Five cents. He drinks, and for one quiet moment, the war feels far away. He is home again.

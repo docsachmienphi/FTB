@@ -10,6 +10,8 @@ cover_brand: "FOOTBALL BOOT"
 cover_years: "1526 - 2026"
 cover_fate: "Heavy leather to 99 grams"
 cover_class: "c-default"
+redirect_from:
+  - "/stories/history-of-the-football-boot/"
 ---
 
 Can a pair of shoes win a World Cup?
