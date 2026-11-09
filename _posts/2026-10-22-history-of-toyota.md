@@ -9,6 +9,8 @@ tags: [Toyota, Kiichiro-Toyoda, Sakichi-Toyoda]
 cover_brand: "TOYOTA"
 cover_years: "1937 - 2026"
 cover_fate: "It began with a loom"
+image: /assets/images/toyota/toyota-teacher.jpg
+cover_thumb: /assets/images/toyota/toyota-thumbnail.jpg
 cover_class: "c-toyota"
 redirect_from:
   - "/stories/entire-history-of-toyota/"
@@ -16,13 +18,19 @@ redirect_from:
 
 In the 1930s, a Japanese engineer took apart an American Chevrolet, piece by piece, to learn how to build a car. His name was Kiichiro Toyoda. He did not yet know how to make an engine. He only knew how to learn.
 
+<figure><img src="/assets/images/toyota/toyota-measuring.jpg" alt="Kiichiro Toyoda measuring an engine part with calipers at a workbench, an old car behind him" loading="lazy"><figcaption>He did not know how to make an engine. Not yet. So he measured, and learned.</figcaption></figure>
+
 Decades later, the story turned around: General Motors, the giant behind Chevrolet, would study Toyota to learn to make better cars. This is how Toyota started: not with a car, but with a wooden loom.
 
 ## The Boy Who Watched His Mother Weave
 
 The story begins in 1867, in a small Japanese village, where Sakichi Toyoda was born. His father worked as a carpenter. His mother made cloth, moving a wooden loom by hand for hours. The work was slow, and the boy watched - and asked a simple question: can this machine work better?
 
+<figure><img src="/assets/images/toyota/toyota-broken-thread.jpg" alt="Hands mending a broken thread on a wooden hand loom while young Sakichi Toyoda watches closely" loading="lazy"><figcaption>A broken thread, a stopped loom, a watching boy: the whole Toyota idea begins here.</figcaption></figure>
+
 In 1890, Sakichi finished a wooden hand loom of his own design; a patent followed in 1891. When a thread broke, an ordinary loom kept working and ruined the cloth. Sakichi's looms stopped by themselves the moment a thread broke - a small problem stopped before it became big. Years later, his whole company would live by that idea. By 1926, the family founded Toyoda Automatic Loom Works in Kariya.
+
+<figure><img src="/assets/images/toyota/toyota-loom.jpg" alt="Sakichi Toyoda demonstrating his automatic loom to amazed workers in the loom works" loading="lazy"><figcaption>The loom that stopped by itself: Sakichi's invention, and the seed of everything after.</figcaption></figure>
 
 ## Money From Cloth, Eyes on Cars
 
@@ -30,13 +38,21 @@ His son Kiichiro, born in 1894, studied engineering and joined the family busine
 
 His father died in 1930, never seeing a Toyota car. In 1933, Kiichiro opened an automobile division inside the loom company. He did not start with his own design. He started by learning.
 
+<figure><img src="/assets/images/toyota/toyota-father-son.jpg" alt="Young Kiichiro measuring a loom shuttle while his father Sakichi watches beside him" loading="lazy"><figcaption>Father and son at the bench: the loom maker's patience, passed to the car maker.</figcaption></figure>
+
 ## Taking Apart a Chevrolet
 
 His team took apart an American Chevrolet, measured every part, and asked how it was made - dirty hands, heavy tools, endless questions.
 
+<figure><img src="/assets/images/toyota/toyota-engine-block.jpg" alt="Kiichiro Toyoda and a worker studying a large engine block on a workbench, looms behind them" loading="lazy"><figcaption>Piece by piece, part by part: an American engine on a Japanese workbench, and a hundred questions.</figcaption></figure>
+
 The hardest part was the engine block. Again and again, they poured hot metal into molds - and the blocks cooled the wrong way and came out broken. Their first tested engine, in 1934, was weaker than the Chevrolet engine they had studied. So they changed the design and tried again, until it reached about 65 horsepower - stronger than its teacher.
 
+<figure><img src="/assets/images/toyota/toyota-foundry.jpg" alt="Workers pouring molten metal in the foundry while cracked engine blocks lie in front and Kiichiro watches" loading="lazy"><figcaption>The blocks kept cracking. They poured again. Failure by failure, the engine grew stronger than its teacher.</figcaption></figure>
+
 In 1936, the first car people could buy, the Model AA, was ready. A public competition gave it a new name: Toyota - eight strokes in Japanese writing, and eight was a lucky number. In August 1937, Toyota Motor Company stood on its own.
+
+<figure><img src="/assets/images/toyota/toyota-name.jpg" alt="A painted sign changing the family name Toyoda into Toyota" loading="lazy"><figcaption>One letter changed: Toyoda becomes Toyota, eight lucky strokes, a name the whole world could say.</figcaption></figure>
 
 ## The Man Who Had to Leave
 
@@ -44,15 +60,23 @@ War came, and Toyota built trucks for the army. After the war ended in 1945, Jap
 
 He planned to return. He never did. On March 27, 1952, Kiichiro died, only 57 years old. Three years later came the Crown, a new car for Japan. The founder was gone; others would carry his dream forward.
 
+<figure><img src="/assets/images/toyota/toyota-crown.jpg" alt="A new Toyota Crown shown to Japanese families in a bright showroom, a small boy touching the car" loading="lazy"><figcaption>1955: the Crown. Kiichiro never saw it. His dream had learned to walk without him.</figcaption></figure>
+
 ## The Supermarket Idea
 
 Toyota had little money and a small home market. It could not copy the American way, with mountains of parts in store rooms. An engineer named Taiichi Ohno found an idea in an American supermarket: the store replaced only what customers took from the shelf. Nothing more.
 
+<figure><img src="/assets/images/toyota/toyota-ohno.jpg" alt="Taiichi Ohno standing on the factory floor with a stopwatch and notebook, beside piles of parts" loading="lazy"><figcaption>Taiichi Ohno, stopwatch in hand, counting what the factory truly needed - and nothing more.</figcaption></figure>
+
 Workers asked for parts only when they needed them, using small cards called kanban. Make only what is needed, when it is needed. And when a worker saw a serious problem, the line could stop - Sakichi's old idea, from the loom that stopped at a broken thread. Over the years, these habits became the Toyota Production System. In 1966 came the small, affordable Corolla. When oil prices rose in the 1970s, the world wanted cars using less fuel - and Toyota's were ready.
+
+<figure><img src="/assets/images/toyota/toyota-stop-line.jpg" alt="A Toyota worker raising his hand to stop the production line, an older manager walking past the looms behind" loading="lazy"><figcaption>Any worker could stop the whole line - the old loom's idea, alive on the factory floor.</figcaption></figure>
 
 ## The Student Becomes the Teacher
 
 In 1982, General Motors closed a troubled factory in Fremont, California, and thousands lost their jobs. Then GM made a surprising choice: reopening the plant with Toyota, its rival, as a partner. From 1984, many of the same workers built cars the Toyota way - and the plant became famous for quality. The student of the Chevrolet had become the teacher.
+
+<figure><img src="/assets/images/toyota/toyota-teacher.jpg" alt="A Toyota teacher showing American visitors the production line in Fremont, California" loading="lazy"><figcaption>Fremont, California: the student of the Chevrolet, now teaching General Motors' own workers.</figcaption></figure>
 
 In December 1997 came the Prius, one of the first mass-produced hybrid cars. But success brought a hard test: in 2009 and 2010, Toyota recalled millions of cars over safety problems. In February 2010, Akio Toyoda - Kiichiro's grandson - stood before American lawmakers and said sorry. The company had spent decades earning people's trust. Now it had to earn it again.
 
@@ -67,6 +91,8 @@ In December 1997 came the Prius, one of the first mass-produced hybrid cars. But
 ## Not Yet
 
 Think of Kiichiro standing beside that Chevrolet, looking at an engine he did not know how to make. He did not know. Not yet. But he was willing to learn.
+
+<figure><img src="/assets/images/toyota/toyota-kiichiro.jpg" alt="Kiichiro Toyoda standing in his small workshop, hand resting on a bench of pistons and gears" loading="lazy"><figcaption>Kiichiro in his shed, among the parts of a dream he would never see finished. He began anyway.</figcaption></figure>
 
 My friend, maybe there is a dream in your life that still feels too big. Maybe you have tried, and things did not work out. Kiichiro's story offers one quiet answer: you do not have to know everything today. You only have to be willing to learn - piece by piece, failure by failure.
 
