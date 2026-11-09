@@ -4,7 +4,7 @@ title: From The Beginning - How Companies Were Built
 description: "The entire history of famous companies and founders, told slowly in simple English. Coca-Cola, Nike, Adidas, Amazon and more."
 ---
 
-<div class="hero hero-banner">
+<div class="hero">
 <div class="kicker">Stories of how things began</div>
 <h1>Every great company started small.</h1>
 <p>Warm stories about how companies were built, how founders began with almost nothing, and how small ideas grew to change the world. Told slowly, in simple and clear English.</p>
