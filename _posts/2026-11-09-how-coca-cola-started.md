@@ -16,6 +16,8 @@ Imagine a hot day in the middle of a war. A young soldier stands far from home, 
 
 That bottle travelled across an ocean to reach him. But the man who invented the drink never saw any of it. He died poor, only two years after he created it. This is how Coca-Cola started.
 
+<figure><img src="/assets/images/coca/coca-soldier-drink.jpg" alt="A young soldier in the Second World War drinking a cold bottle of Coca-Cola, his eyes closed"><figcaption>A young soldier, far from home, drinks a cold Coca-Cola. For one quiet moment, the war feels far away.</figcaption></figure>
+
 ## A Wounded Man in a Backyard
 
 His name was John Pemberton. He was a pharmacist in Atlanta, Georgia. In 1865, near the end of the American Civil War, a sword cut across his chest. The wound closed on the outside, but the pain stayed. Doctors gave him morphine, and soon he could not live without it.
@@ -24,15 +26,18 @@ More than money, more than fame, Pemberton wanted one thing: to be free of the p
 
 So in the spring of 1886, in his backyard, he stood over an old brass kettle, stirring a dark syrup. He was not trying to build an empire. He was trying to cure himself.
 
+<figure><img src="/assets/images/coca/coca-pemberton-lab.jpg" alt="John Pemberton working quietly among leaves, bottles and a lamp in his small pharmacy"><figcaption>John Pemberton in his small pharmacy, searching among leaves and bottles for a cure for his own pain.</figcaption></figure>
+
 ## Five Cents a Glass
 
 On May 8, 1886, Pemberton carried his syrup to Jacobs' Pharmacy in Atlanta. There, it was mixed with cold soda water and sold as a health drink. The price was five cents a glass.
 
 On the first day, he sold about nine glasses. Nine. In the first year, the drink earned about 50 dollars - and Pemberton spent more than 70 dollars telling people about it.
 
+<figure><img src="/assets/images/coca/coca-first-taste.jpg" alt="A young customer tasting a glass of Coca-Cola at the pharmacy counter while John Pemberton watches"><figcaption>The first taste: a customer tries the new drink at Jacobs' Pharmacy, while Pemberton watches and hopes.</figcaption></figure>
+
 His bookkeeper, Frank Robinson, gave the drink its name: Coca-Cola. Robinson had beautiful handwriting, and he wrote the name in soft, flowing letters. Look at a bottle today. You can still see his handwriting.
 
-<figure><img src="/assets/images/coca/coca-handwriting.jpg" alt="A hand writing the name Coca-Cola in flowing script in an old ledger, by lamplight in 1886"><figcaption>Frank Robinson writes the name Coca-Cola for the first time - the same flowing letters you can still see on every bottle today.</figcaption></figure>
 
 ## The Dream for Sale
 
@@ -46,6 +51,8 @@ The man who took the drink was Asa Candler, another Atlanta pharmacist. Candler 
 
 Putting Coca-Cola in bottles was not a new idea. In 1894, a candy shop owner in Mississippi, Joseph Biedenharn, had already bottled it for his customers. He even sent Candler a case as a gift. Candler thanked him - and did nothing.
 
+<figure><img src="/assets/images/coca/coca-crate-office.jpg" alt="A crate of bottled Coca-Cola being carried into Asa Candler's office"><figcaption>A case of bottled Coca-Cola arrives at Asa Candler's office - the idea he thanked, and almost ignored.</figcaption></figure>
+
 Five years later, on July 21, 1899, two young lawyers from Chattanooga walked into Candler's office. They asked for the right to bottle Coca-Cola across most of America. Candler did not believe in bottles. So he named a price he thought was small.
 
 One dollar.
@@ -58,7 +65,6 @@ Success brought copycats - drinks with names like Koka-Nola and Toka-Cola. So in
 
 The Root Glass Company answered with a green bottle of soft curves and ribs. And here is a small secret: the designers copied its shape from a picture of a cocoa pod - a fruit that was never in the drink, not then, not now. From 1916, you could hold a bottle in the dark and know: this is Coca-Cola.
 
-<figure><img src="/assets/images/coca/coca-bottle.jpg" alt="The green Coca-Cola contour bottle standing in warm light, with plain bottles blurred behind it"><figcaption>The contour bottle of 1916: one bottle that stands apart from all the others, known by touch alone.</figcaption></figure>
 
 ## A Taste of Home
 
@@ -66,7 +72,7 @@ In 1923, a new leader, Robert Woodruff, took over. He wanted Coca-Cola "within a
 
 The company kept that promise. Bottling plants followed the soldiers. And for a young man far from home, one cold bottle tasted like home - which is why this story began with one.
 
-<figure><img src="/assets/images/coca/coca-soldier.jpg" alt="A young soldier in the Second World War holding a cold green bottle of Coca-Cola and smiling quietly"><figcaption>One cold bottle, far from home: for many young soldiers, that small taste meant home.</figcaption></figure>
+<figure><img src="/assets/images/coca/coca-hands-bottle.jpg" alt="A cold bottle of Coca-Cola being handed to a young soldier"><figcaption>"Someone hands him a cold bottle." The small promise that followed the soldiers across the world.</figcaption></figure>
 
 The story did not stop there. In Germany, cut off from the syrup during the war, the local team created a new drink from what they had: Fanta. In 1985, the company changed its famous taste and called it New Coke - and after just 79 days of public anger, the old taste came back. And in 1988, investor Warren Buffett looked at the company and quietly bought more than a billion dollars of its shares. The whole world saw a drink. He saw something that would never be forgotten.
 
