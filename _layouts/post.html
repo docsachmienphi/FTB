@@ -1,0 +1,16 @@
+---
+layout: default
+---
+<article class="post">
+  <h1>{{ page.title }}</h1>
+  {% if page.youtube_id %}
+  <div class="video-wrap">
+    <iframe src="https://www.youtube.com/embed/{{ page.youtube_id }}" title="{{ page.title }}" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  </div>
+  <p class="watch-cta"><a class="btn" href="https://www.youtube.com/watch?v={{ page.youtube_id }}" target="_blank" rel="noopener">Watch on YouTube</a></p>
+  {% endif %}
+  {{ content }}
+  <hr>
+  <h2>Watch the Full Story</h2>
+  <p>Enjoyed this story? Watch the full video and more stories of how things began on <a href="{{ site.youtube_channel }}">From The Beginning</a>. The stories are told slowly, in simple and clear English.</p>
+</article>

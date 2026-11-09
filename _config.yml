@@ -1,0 +1,15 @@
+title: From The Beginning
+description: "Warm, slow stories in simple English about how companies were built, how founders began, and how great inventions started."
+url: "https://fromthebeginning.xyz"
+baseurl: ""
+lang: en
+author: From The Beginning
+youtube_channel: "https://www.youtube.com/@FromTheBeginning9"
+permalink: /stories/:title/
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+exclude:
+  - episode-template.md
+  - README.md

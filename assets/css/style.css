@@ -1,0 +1,53 @@
+/* From The Beginning - Design v2 (applied 2026-11-09)
+   Warm storybook identity: paper cream, deep brown header, gold accent.
+   Story covers follow the FTB thumbnail language: brand + year range + fate line. */
+:root{--paper:#FBF5E9;--paper2:#F4EAD3;--ink:#221A10;--ink2:#5A4B35;--gold:#B7791F;--gold2:#D9A441;--dark:#1D150C;--card:#FFFDF7;--line:#E7D9BC}
+*{box-sizing:border-box}
+body{margin:0;font-family:Georgia,'Times New Roman',serif;background:var(--paper);color:var(--ink);line-height:1.75;font-size:18px}
+.site-header{display:flex;justify-content:space-between;align-items:center;padding:16px 5%;background:var(--dark);flex-wrap:wrap;gap:12px;position:sticky;top:0;z-index:10}
+.logo{font-size:1.35rem;font-weight:bold;color:#F7EDD7;text-decoration:none;letter-spacing:.01em}
+nav a{margin-left:18px;color:#EDE0C4;text-decoration:none;font-family:Arial,sans-serif;font-size:.95rem}
+nav a:hover{color:var(--gold2)}
+main{max-width:860px;margin:0 auto;padding:36px 20px 60px}
+.hero{text-align:center;padding:44px 24px;background:radial-gradient(700px 300px at 75% -10%,rgba(217,164,65,.35),transparent 60%),linear-gradient(160deg,#241A0F,#171008 75%);color:#F8EFDB;border-radius:20px;margin-bottom:30px}
+.hero h1{font-size:2.5rem;line-height:1.15;margin:0 0 12px}
+.hero p{color:#E8D9B8}
+.btn{display:inline-block;background:linear-gradient(180deg,var(--gold2),var(--gold));color:#1D150C;padding:12px 26px;border-radius:999px;text-decoration:none;font-family:Arial,sans-serif;font-weight:bold}
+.card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:22px;margin:16px 0;box-shadow:0 6px 22px rgba(60,42,10,.06);transition:transform .18s,box-shadow .18s}
+.card:hover{transform:translateY(-3px);box-shadow:0 12px 28px rgba(60,42,10,.12)}
+.card h3{margin-top:0;font-size:1.3rem;line-height:1.3}
+.card a{color:var(--ink);text-decoration:none}
+.card a:hover{color:var(--gold)}
+.video-wrap{position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:14px;margin:22px 0;background:#000}
+.video-wrap iframe{position:absolute;inset:0;width:100%;height:100%}
+footer{text-align:center;padding:30px 20px;background:var(--dark);color:#CBB586;font-size:.95rem}
+footer a{color:var(--gold2)}
+h1{line-height:1.22;font-family:'Playfair Display',Georgia,serif}h2{margin-top:38px;line-height:1.3;font-family:'Playfair Display',Georgia,serif}
+.post p{margin-bottom:16px}
+.watch-cta{text-align:center}
+.logo{font-family:'Playfair Display',Georgia,serif}.logo span{color:var(--gold2)}
+.hero .kicker{font-family:Arial,sans-serif;letter-spacing:.28em;font-size:.75rem;color:var(--gold2);text-transform:uppercase;margin-bottom:10px}
+.btn-ghost{background:transparent;color:#F8EFDB;border:1.5px solid #8A744C;margin-left:10px}
+.timeline{display:flex;justify-content:center;margin:38px auto 4px;max-width:640px;font-family:Arial,sans-serif}
+.timeline .dot{text-align:center;flex:1;position:relative;color:#CBB586;font-size:.8rem}
+.timeline .dot::before{content:"";display:block;width:11px;height:11px;border-radius:50%;background:var(--gold2);margin:0 auto 7px;box-shadow:0 0 0 4px rgba(217,164,65,.18)}
+.timeline .dot:not(:last-child)::after{content:"";position:absolute;top:5px;left:calc(50% + 10px);right:calc(-50% + 10px);height:2px;background:linear-gradient(90deg,rgba(217,164,65,.7),rgba(217,164,65,.25))}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:20px;margin:20px 0}
+.story{background:var(--card);border:1px solid var(--line);border-radius:16px;overflow:hidden;box-shadow:0 6px 22px rgba(60,42,10,.07);cursor:pointer;transition:transform .18s,box-shadow .18s}
+.story:hover{transform:translateY(-4px);box-shadow:0 14px 30px rgba(60,42,10,.13)}
+.cover{height:150px;display:flex;flex-direction:column;justify-content:flex-end;padding:14px 16px;color:#FFF7E6}
+.cover .brand{font-family:'Playfair Display',Georgia,serif;font-weight:800;font-size:1.7rem;line-height:1;text-shadow:0 2px 12px rgba(0,0,0,.35)}
+.cover .years{font-family:Arial,sans-serif;font-weight:800;letter-spacing:.12em;font-size:.8rem}
+.cover .fate{font-family:Arial,sans-serif;font-size:.78rem;background:rgba(0,0,0,.32);align-self:flex-start;padding:3px 10px;border-radius:999px;margin-top:7px}
+.c-coca{background:linear-gradient(150deg,#8E1F1F,#C13333 55%,#E07840)}
+.c-nike{background:linear-gradient(150deg,#20303F,#3E6076 55%,#D9A441)}
+.c-amazon{background:linear-gradient(150deg,#232F3E,#37475A 55%,#FF9900)}
+.c-adidas{background:linear-gradient(150deg,#101418,#2C3A44 55%,#7FA6B8)}
+.c-toyota{background:linear-gradient(150deg,#4A1113,#8E1F1F 55%,#C9A86A)}
+.c-pepsi{background:linear-gradient(150deg,#12275A,#2456A6 55%,#D84A4A)}
+.c-default{background:linear-gradient(150deg,#4A3820,#8A6A30 55%,#D9A441)}
+.story-body{padding:14px 16px 18px}
+.story-body h3{font-size:1.12rem;line-height:1.3;margin:0 0 6px;font-family:'Playfair Display',Georgia,serif}
+.story-body p{font-size:.93rem;color:var(--ink2);margin:0}
+.story .meta{font-family:Arial,sans-serif;font-size:.74rem;color:var(--gold);font-weight:bold;letter-spacing:.06em;text-transform:uppercase;margin-bottom:7px}
+@media(max-width:560px){.btn-ghost{margin-left:0;margin-top:10px}.timeline .dot{font-size:.66rem}}
