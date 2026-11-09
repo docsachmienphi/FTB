@@ -5,6 +5,8 @@ description: "About the From The Beginning channel: warm stories in simple Engli
 permalink: /about/
 ---
 
+![From The Beginning banner](/assets/images/banner.jpg)
+
 # About From The Beginning
 
 From The Beginning tells the stories of how things were built, from the very beginning.
