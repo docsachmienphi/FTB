@@ -11,6 +11,8 @@ Hello, my friend. Welcome.
 
 Every famous company you know was once nothing. No big office. No famous name. Just one person, in a small place, with an idea - and a long road ahead.
 
+<figure class="host-photo"><img src="/assets/images/joseph.jpg" alt="Joseph, the host of From The Beginning, sitting at his podcast desk"><figcaption>Joseph - your host and storyteller</figcaption></figure>
+
 **From The Beginning** is a YouTube channel that goes back to that small place. We tell the story of how companies were built, from the very first day: the first product, the first failure, the first small win, and the moment everything changed.
 
 ## Why beginnings?
