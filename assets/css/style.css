@@ -72,3 +72,8 @@ h1{line-height:1.22;font-family:'Playfair Display',Georgia,serif}h2{margin-top:3
 .yt-facade:hover .yt-play,.yt-facade:focus .yt-play{background:#c00;transform:translate(-50%,-50%) scale(1.07)}
 
 .post-cover{width:100%;height:auto;display:block;border-radius:16px;margin:4px 0 20px;box-shadow:0 10px 30px rgba(60,42,10,.16)}
+
+.pagination{display:flex;gap:8px;justify-content:center;align-items:center;flex-wrap:wrap;margin:28px 0 8px;font-family:Arial,sans-serif}
+.pagination a,.pagination span{padding:8px 15px;border:1px solid var(--line);border-radius:999px;background:var(--card);color:var(--ink);text-decoration:none;font-size:.92rem;line-height:1}
+.pagination a:hover{border-color:var(--gold);color:var(--gold)}
+.pagination .current{background:linear-gradient(180deg,var(--gold2),var(--gold));border-color:var(--gold);color:#1D150C;font-weight:bold}

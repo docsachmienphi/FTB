@@ -19,12 +19,12 @@ description: "The entire history of famous companies and founders, told slowly i
 </div>
 </div>
 
-## Latest Stories
+<h2>Latest Stories</h2>
 
-Read a short version of each story, then watch the full story on YouTube.
+<p>Read a short version of each story, then watch the full story on YouTube.</p>
 
 <div class="grid">
-{% for post in site.posts %}
+{% for post in paginator.posts %}
 <div class="story" onclick="location.href='{{ post.url }}'">
 {% if post.cover_thumb %}<div class="cover cover-thumb"><img src="{{ post.cover_thumb }}" alt="" loading="lazy"></div>{% else %}<div class="cover {{ post.cover_class | default: 'c-default' }}{% if post.cover_image %} has-img{% endif %}">{% if post.cover_image %}<img class="cover-img" src="{{ post.cover_image }}" alt="" loading="lazy">{% endif %}<div class="years">{{ post.cover_years }}</div><div class="brand">{{ post.cover_brand | default: post.title }}</div>{% if post.cover_fate %}<div class="fate">{{ post.cover_fate }}</div>{% endif %}</div>{% endif %}
 <div class="story-body"><div class="meta">{{ post.categories | first | replace: '-', ' ' }}</div><h3>{{ post.title }}</h3><p>{{ post.description }}</p></div>
@@ -32,14 +32,24 @@ Read a short version of each story, then watch the full story on YouTube.
 {% endfor %}
 </div>
 
-## Why From The Beginning?
+{% if paginator.total_pages > 1 %}
+<nav class="pagination" aria-label="Story pages">
+{% if paginator.previous_page %}<a class="pg-btn" href="{{ paginator.previous_page_path }}">← Previous</a>{% endif %}
+{% for p in (1..paginator.total_pages) %}{% if p == paginator.page %}<span class="pg-num current">{{ p }}</span>{% elsif p == 1 %}<a class="pg-num" href="/">1</a>{% else %}<a class="pg-num" href="{{ site.paginate_path | replace: ':num', p }}">{{ p }}</a>{% endif %}{% endfor %}
+{% if paginator.next_page %}<a class="pg-btn" href="{{ paginator.next_page_path }}">Next →</a>{% endif %}
+</nav>
+{% endif %}
 
-Every big company was once a small idea in a kitchen, a garage, or a backyard. A sick pharmacist stirring syrup. Two brothers making shoes. A man selling books from his garage.
+<h2>Why From The Beginning?</h2>
 
-On this website you can read a short version of each story, learn the most surprising facts, and then watch the full story on YouTube.
+<p>Every big company was once a small idea in a kitchen, a garage, or a backyard. A sick pharmacist stirring syrup. Two brothers making shoes. A man selling books from his garage.</p>
 
-## Popular Topics
+<p>On this website you can read a short version of each story, learn the most surprising facts, and then watch the full story on YouTube.</p>
 
-- Company History: Coca-Cola, Nike, Adidas, Amazon, Toyota, Pepsi
-- Founder Stories: the people behind the brands, and what they wanted
-- Great Inventions: how famous things were invented
+<h2>Popular Topics</h2>
+
+<ul>
+<li>Company History: Coca-Cola, Nike, Adidas, Amazon, Toyota, Pepsi</li>
+<li>Founder Stories: the people behind the brands, and what they wanted</li>
+<li>Great Inventions: how famous things were invented</li>
+</ul>

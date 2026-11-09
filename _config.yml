@@ -6,11 +6,14 @@ lang: en
 author: From The Beginning
 youtube_channel: "https://www.youtube.com/@FromTheBeginning9"
 permalink: /stories/:title/
+paginate: 12
+paginate_path: "/page:num/"
 markdown: kramdown
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-redirect-from
+  - jekyll-paginate
 exclude:
   - episode-template.md
   - README.md
