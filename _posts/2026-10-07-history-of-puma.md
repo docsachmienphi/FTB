@@ -16,7 +16,7 @@ redirect_from:
 
 In the small German town of Herzogenaurach, people meet in a strange way. Before you say hello, you look down - at their shoes. For more than 60 years, those shoes told the whole town whose side you were on.
 
-A small river runs through the town. On one side of it stood Adidas. On the other side stood Puma. And the two men who built those companies were brothers. They had worked side by side for over 20 years. Then they stopped speaking - and never truly spoke again. This is how Puma started: not in a boardroom, but in a broken family.
+A small river runs through the town. On one side of it stood [Adidas](/stories/history-of-adidas/). On the other side stood Puma. And the two men who built those companies were brothers. They had worked side by side for over 20 years. Then they stopped speaking - and never truly spoke again. This is how Puma started: not in a boardroom, but in a broken family.
 
 ## The Maker and the Seller
 

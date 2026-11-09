@@ -46,7 +46,7 @@ With no leather left, Adi made shoes from the ruins once more: rubber from fuel 
 
 After the war, Rudolf spent a year in a prison camp, believing his own brother had betrayed him. Nobody knows if it was true - but Rudolf believed it. In 1948, the brothers divided everything - the machines, the money, even the workers, who had to choose a side.
 
-A small river, the Aurach, runs through the town. Rudolf moved to the south side and started Puma. Adi stayed on the north side. He chose a new name: Adidas - Adi from his name, Das from Dassler - registered in 1949 with 47 workers.
+A small river, the Aurach, runs through the town. Rudolf moved to the south side and started [Puma](/stories/history-of-puma/). Adi stayed on the north side. He chose a new name: Adidas - Adi from his name, Das from Dassler - registered in 1949 with 47 workers.
 
 Herzogenaurach became the town of bent necks, where people looked at your shoes before saying hello.
 

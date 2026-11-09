@@ -80,6 +80,8 @@ The company kept that promise. Bottling plants followed the soldiers. And for a 
 
 The story did not stop there. In Germany, cut off from the syrup during the war, the local team created a new drink from what they had: Fanta. In 1985, the company changed its famous taste and called it New Coke - and after just 79 days of public anger, the old taste came back. And in 1988, investor Warren Buffett looked at the company and quietly bought more than a billion dollars of its shares. The whole world saw a drink. He saw something that would never be forgotten.
 
+And Coca-Cola did not stand alone for long. Seven years after Pemberton's first glass, another pharmacist, in a small North Carolina town, mixed a rival drink of his own. That is [the story of Pepsi](/stories/history-of-pepsi/).
+
 <div class="lessons" markdown="1">
 ## What This Story Teaches Us
 

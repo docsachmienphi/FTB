@@ -42,7 +42,7 @@ The game was rough, too. In 1863, the Football Association was formed in England
 
 ## Two Brothers Change the Boot
 
-In a small German town, two brothers started the companies that changed the boot forever: Adidas and Puma. Their race to build the better boot pushed design forward faster than ever.
+In a small German town, two brothers started the companies that changed the boot forever: [Adidas](/stories/history-of-adidas/) and [Puma](/stories/history-of-puma/). Their race to build the better boot pushed design forward faster than ever.
 
 Adi Dassler looked at football's oldest problem: the ground changes. Dry grass one week, deep mud the next. His answer was simple and clever: studs that could be screwed in and out, changed for the weather. On that rainy day in Bern in 1954, West Germany changed its studs for the wet ground - and won the Miracle of Bern.
 

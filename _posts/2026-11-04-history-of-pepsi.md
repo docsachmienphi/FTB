@@ -16,11 +16,11 @@ redirect_from:
 
 Let me ask you something. Which do you like more, Pepsi or Coca-Cola? Today they are two of the most famous drinks in the world, standing side by side.
 
-Coca-Cola came first. Pepsi arrived years later, lost its creator, and went bankrupt twice. So how did a drink that nearly died find a way to stand beside the most famous drink on Earth? This is how Pepsi started.
+[Coca-Cola](/stories/history-of-coca-cola/) came first. Pepsi arrived years later, lost its creator, and went bankrupt twice. So how did a drink that nearly died find a way to stand beside the most famous drink on Earth? This is how Pepsi started.
 
 ## Brad's Drink
 
-In 1893, in the small town of New Bern, North Carolina, a young pharmacist named Caleb Bradham worked behind his drugstore counter. Seven years earlier, Coca-Cola had been created in Atlanta.
+In 1893, in the small town of New Bern, North Carolina, a young pharmacist named Caleb Bradham worked behind his drugstore counter. Seven years earlier, [Coca-Cola](/stories/history-of-coca-cola/) had been created in Atlanta.
 
 He had once dreamed of becoming a doctor, but money trouble in his family changed his plans, and he studied pharmacy instead. In those days, people met friends at the pharmacy soda fountain for a cold drink. Bradham loved to experiment, and in 1893 he created a sweet, bubbling drink his customers called Brad's Drink.
 
