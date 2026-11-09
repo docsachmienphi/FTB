@@ -10,6 +10,7 @@ cover_brand: "PUMA"
 cover_years: "1948 - 2026"
 cover_fate: "Born from a family fight"
 image: /assets/images/puma/puma-pele.jpg
+cover_thumb: /assets/images/puma/puma-thumbnail.jpg
 cover_class: "c-default"
 redirect_from:
   - "/stories/how-puma-started/"
