@@ -4,6 +4,7 @@ title: "How Coca-Cola Started: The Pharmacist Who Died Poor"
 description: "How Coca-Cola started in a backyard in Atlanta in 1886 - and how a wounded pharmacist's five-cent drink, sold for 2,300 dollars, travelled the whole world."
 date: 2026-10-21
 youtube_id: "YFsRb8SbN50"
+image: /assets/images/coca/coca-hands-bottle.jpg
 categories: [Company-History, Founder-Stories]
 tags: [Coca-Cola, John-Pemberton, Asa-Candler]
 cover_brand: "COCA-COLA"
