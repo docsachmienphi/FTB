@@ -10,7 +10,7 @@ cover_brand: "NIKE"
 cover_years: "1964 - 2026"
 cover_fate: "Shoes sold from a car"
 cover_class: "c-nike"
-cover_image: /assets/images/nike/nike-cover-shoe.jpg
+cover_thumb: /assets/images/nike/nike-thumbnail.jpg
 image: /assets/images/nike/nike-trunk.jpg
 redirect_from:
   - "/stories/entire-history-of-nike/"
