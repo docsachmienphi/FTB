@@ -4,9 +4,27 @@ layout: default
 <article class="post">
   <h1>{{ page.title }}</h1>
   {% if page.youtube_id %}
-  <div class="video-wrap">
-    <iframe src="https://www.youtube.com/embed/{{ page.youtube_id }}" title="{{ page.title }}" frameborder="0" allowfullscreen loading="lazy"></iframe>
+  <div class="video-wrap yt-facade" data-yt="{{ page.youtube_id }}" role="button" tabindex="0" aria-label="Play the video">
+    <img src="https://i.ytimg.com/vi/{{ page.youtube_id }}/maxresdefault.jpg" alt="{{ page.title }}" loading="lazy">
+    <span class="yt-play" aria-hidden="true"></span>
   </div>
+  <noscript><div class="video-wrap"><iframe src="https://www.youtube.com/embed/{{ page.youtube_id }}" title="{{ page.title }}" frameborder="0" allowfullscreen></iframe></div></noscript>
+  <script>
+  document.querySelectorAll('.yt-facade').forEach(function(el){
+    function play(){
+      var f = document.createElement('iframe');
+      f.src = 'https://www.youtube-nocookie.com/embed/' + el.getAttribute('data-yt') + '?autoplay=1&rel=0';
+      f.title = 'YouTube video player';
+      f.setAttribute('allowfullscreen', '');
+      f.setAttribute('allow', 'accelerometer; autoplay; encrypted-media; picture-in-picture');
+      el.innerHTML = '';
+      el.classList.remove('yt-facade');
+      el.appendChild(f);
+    }
+    el.addEventListener('click', play);
+    el.addEventListener('keydown', function(e){ if(e.key === 'Enter' || e.key === ' '){ e.preventDefault(); play(); } });
+  });
+  </script>
   <p class="watch-cta"><a class="btn" href="https://www.youtube.com/watch?v={{ page.youtube_id }}" target="_blank" rel="noopener">Watch on YouTube</a></p>
   {% endif %}
   {{ content }}
