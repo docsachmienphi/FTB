@@ -10,6 +10,8 @@ cover_brand: "NIKE"
 cover_years: "1964 - 2026"
 cover_fate: "Shoes sold from a car"
 cover_class: "c-nike"
+cover_image: /assets/images/nike/nike-trunk.jpg
+image: /assets/images/nike/nike-trunk.jpg
 redirect_from:
   - "/stories/entire-history-of-nike/"
 ---
@@ -18,11 +20,15 @@ Have you ever dreamed of owning a pair of Nike shoes? But that famous curved mar
 
 He had no factory. He did not even make his own shoes. All he had was a dream: runners deserved something better. This is how Nike started.
 
+<figure><img src="/assets/images/nike/nike-trunk.jpg" alt="Young Phil Knight standing beside his car with the trunk open, full of running shoes at a track"><figcaption>Phil Knight beside his car, the trunk full of shoes. Nike began with a runner selling to runners.</figcaption></figure>
+
 ## The Runner and the Coach
 
 Philip Hampson Knight was born on February 24, 1938, in Portland, Oregon. As a boy, he was not great at sports, until his mother encouraged him to try running.
 
 At the University of Oregon, he met coach Bill Bowerman, who could never leave a shoe alone. Bowerman cut shoes apart, changed them, and gave them to runners to test. A heavy shoe made every step harder. A rough edge could cut a foot.
+
+<figure><img src="/assets/images/nike/nike-bowerman-shoe.jpg" alt="Coach Bill Bowerman holding a running shoe and talking with young Phil Knight beside a running track"><figcaption>Coach Bill Bowerman could never leave a shoe alone - and young Knight watched, and learned.</figcaption></figure>
 
 At Stanford, in 1962, he wrote a paper with one bold idea: cheap, well made Japanese shoes could beat the expensive German shoes ruling America. He flew to Japan and met the leaders of Onitsuka, maker of Tiger shoes. Asked which company he represented, he invented one on the spot: Blue Ribbon Sports.
 
@@ -32,6 +38,8 @@ On January 25, 1964, Knight met Bowerman for lunch in cold, rainy Portland. Each
 
 Knight drove to track meets, opened the trunk of his car, and laid out rows of shoes. He had run the same races and felt the same pain in his legs, so runners trusted him.
 
+<figure><img src="/assets/images/nike/nike-selling.jpg" alt="Phil Knight showing shoes from the trunk of his car to two tired young runners at a track"><figcaption>Knight opened his trunk at track meets and sold shoes face to face, to runners whose pain he knew himself.</figcaption></figure>
+
 Jeff Johnson, the first full time employee, wrote each customer's name and shoe size on a card, then wrote them personal letters about their races. He was not building a list. He was building trust. In 1966, he opened the company's first store in Santa Monica.
 
 ## The Day Nike Was Born
@@ -40,7 +48,11 @@ For years, all the shoes came from Onitsuka in Japan. By the early 1970s, they c
 
 So Knight made the hardest decision of his life: he would sell shoes under a name of his own. Jeff Johnson suggested one: Nike, after the Greek goddess of victory.
 
+<figure><img src="/assets/images/nike/nike-goddess.jpg" alt="Phil Knight at his desk looking up at a glowing vision of Nike, the winged Greek goddess of victory"><figcaption>Nike - the winged goddess of victory, whose name came to a small, struggling company just in time.</figcaption></figure>
+
 In 1971, a young design student named Carolyn Davidson drew a simple curved mark for the new shoes, and Knight paid her just 35 dollars. Today it is the Swoosh.
+
+<figure><img src="/assets/images/nike/nike-swoosh.jpg" alt="Knight and his small team leaning over a table, looking at a drawing of the simple curved Swoosh mark"><figcaption>A small team leans over a drawing of one simple curved mark - the Swoosh, drawn for 35 dollars.</figcaption></figure>
 
 ## The Waffle Iron
 
@@ -48,11 +60,15 @@ In 1971, Bowerman's team had a new track at Oregon, but the hard, slippery surfa
 
 At home, he looked at his kitchen waffle iron, with its grid of little squares. What if the bottom of a shoe had a pattern like that? He poured a rubber like material straight into the hot iron. The iron sealed shut and was ruined, but the idea would not die.
 
+<figure><img src="/assets/images/nike/nike-waffle.jpg" alt="Bill Bowerman in his kitchen pouring rubber into an open waffle iron to make a shoe sole"><figcaption>Bowerman pours rubber into his wife's waffle iron. The iron was ruined. The idea was born.</figcaption></figure>
+
 Some soles fell apart. Others were too stiff to wear. In 1972, the first waffle soled shoes appeared at the U.S. Olympic trials in Eugene, and people called them the Moon Shoes. In 1973 came the Oregon Waffle, and then the Waffle Trainer, Nike's first real hit.
 
 ## The Runner Who Never Held Back
 
 A shoe needs more than a good sole. It needs someone to believe in it. Nike found Steve Prefontaine, called Pre, who had run for Bowerman at Oregon. He raced from the front and pushed himself harder than almost anyone. People did not just watch Pre race; they felt every step.
+
+<figure><img src="/assets/images/nike/nike-pre.jpg" alt="Steve Prefontaine racing hard at the front of a race while a crowd cheers beside the track"><figcaption>Steve Prefontaine raced from the front - and people did not just watch him, they felt every step.</figcaption></figure>
 
 In 1973, Nike began backing him, and Pre mailed its shoes, with handwritten notes, to runners around the country.
 
@@ -64,7 +80,11 @@ Basketball, though, belonged to Adidas and Converse. In 1984, a young player nam
 
 In 1985, the first Air Jordan arrived. Fans watched Jordan seem to fly toward the basket, then looked down at his feet. For millions, the shoe became a small piece of their hero's dream.
 
+<figure><img src="/assets/images/nike/nike-jordan.jpg" alt="A boy tying the laces of his red and white Air Jordan shoes, with a golden vision of a basketball player flying to the basket"><figcaption>A boy ties his Air Jordans - and for a moment, he is wearing a small piece of his hero's dream.</figcaption></figure>
+
 In 1988, the words "Just Do It" appeared, and one early face of the campaign was Walt Stack, 80 years old, who ran every morning in San Francisco. You did not need to be a champion, or even young. You only needed the courage to take the first step.
+
+<figure><img src="/assets/images/nike/nike-justdoit.jpg" alt="An old man running at sunrise near the Golden Gate Bridge in San Francisco"><figcaption>One early face of "Just Do It" was 80 years old - and still running every morning.</figcaption></figure>
 
 <div class="lessons" markdown="1">
 ## What This Story Teaches Us
@@ -79,3 +99,5 @@ In 1988, the words "Just Do It" appeared, and one early face of the campaign was
 Nike grew into a giant, and giants can lose their way. Years later, it pulled away from the sports stores where runners shop, and rivals took its place on the shelves. So in 2024, Nike asked a man who had spent more than 30 years inside the company to lead it home.
 
 The ruined waffle iron was saved, like a small reminder. Phil Knight had no factory and no shoe of his own. He only had a dream, and the courage to take the first step. Every great journey begins the same way. So take yours.
+
+<figure><img src="/assets/images/nike/nike-sunrise.jpg" alt="A lone runner on an empty country road at sunrise, running toward the light"><figcaption>The race never ends. Every great journey begins with a first step.</figcaption></figure>
