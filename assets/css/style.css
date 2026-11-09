@@ -35,7 +35,11 @@ h1{line-height:1.22;font-family:'Playfair Display',Georgia,serif}h2{margin-top:3
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:20px;margin:20px 0}
 .story{background:var(--card);border:1px solid var(--line);border-radius:16px;overflow:hidden;box-shadow:0 6px 22px rgba(60,42,10,.07);cursor:pointer;transition:transform .18s,box-shadow .18s}
 .story:hover{transform:translateY(-4px);box-shadow:0 14px 30px rgba(60,42,10,.13)}
-.cover{height:150px;display:flex;flex-direction:column;justify-content:flex-end;padding:14px 16px;color:#FFF7E6}
+.cover{height:150px;display:flex;flex-direction:column;justify-content:flex-end;padding:14px 16px;color:#FFF7E6;position:relative;overflow:hidden}
+.cover-img{position:absolute;top:0;right:0;height:100%;width:47%;object-fit:cover;object-position:35% 50%;-webkit-mask-image:linear-gradient(to right,transparent 0,#000 34%);mask-image:linear-gradient(to right,transparent 0,#000 34%)}
+.cover .years,.cover .brand,.cover .fate{position:relative;z-index:1}
+.cover.has-img .brand{max-width:58%;font-size:1.5rem}
+.cover.has-img .fate{max-width:56%}
 .cover .brand{font-family:'Playfair Display',Georgia,serif;font-weight:800;font-size:1.7rem;line-height:1;text-shadow:0 2px 12px rgba(0,0,0,.35)}
 .cover .years{font-family:Arial,sans-serif;font-weight:800;letter-spacing:.12em;font-size:.8rem}
 .cover .fate{font-family:Arial,sans-serif;font-size:.78rem;background:rgba(0,0,0,.32);align-self:flex-start;padding:3px 10px;border-radius:999px;margin-top:7px}
