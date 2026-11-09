@@ -2,7 +2,6 @@
 layout: default
 ---
 <article class="post">
-  {% if page.cover_thumb %}<img class="post-cover" src="{{ page.cover_thumb }}" alt="{{ page.title }}">{% endif %}
   <h1>{{ page.title }}</h1>
   {% if page.youtube_id %}
   <div class="video-wrap yt-facade" data-yt="{{ page.youtube_id }}" role="button" tabindex="0" aria-label="Play the video">
