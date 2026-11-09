@@ -11,7 +11,7 @@ cover_brand: "COCA-COLA"
 cover_years: "1886 - 2026"
 cover_fate: "The founder died poor"
 cover_class: "c-coca"
-cover_image: /assets/images/coca/coca-hands-bottle.jpg
+cover_thumb: /assets/images/coca/coca-thumbnail.jpg
 redirect_from:
   - "/stories/how-coca-cola-started/"
 ---
