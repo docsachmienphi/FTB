@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How Heinz Started: The Man Who Paid Everyone Back"
+title: "The ENTIRE History of Heinz: The Man Who Paid Everyone Back"
 description: "The entire history of Heinz, from horseradish in clear glass to a Christmas bankruptcy, and a little notebook of debts he repaid one by one."
 date: 2026-11-05
 youtube_id: "71ir3aLPz0g"

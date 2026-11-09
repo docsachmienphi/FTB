@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How Toyota Started: It Began With a Loom"
+title: "The ENTIRE History of Toyota: It Began With a Loom"
 description: "How Toyota started: a poor weaver's son built a loom that stopped by itself, and his son took apart a Chevrolet to learn how to build a car."
 date: 2026-10-22
 youtube_id: "vHPEhMPxc5I"

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How Pepsi Started: The Drink That Refused to Die"
+title: "The ENTIRE History of Pepsi: The Drink That Refused to Die"
 description: "How Pepsi started in a small North Carolina pharmacy in 1893, went bankrupt twice, lost its founder, and found its own road beside Coca-Cola."
 date: 2026-11-04
 youtube_id: "Ob-62tqcBzc"
