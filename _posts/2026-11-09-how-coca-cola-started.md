@@ -32,6 +32,8 @@ On the first day, he sold about nine glasses. Nine. In the first year, the drink
 
 His bookkeeper, Frank Robinson, gave the drink its name: Coca-Cola. Robinson had beautiful handwriting, and he wrote the name in soft, flowing letters. Look at a bottle today. You can still see his handwriting.
 
+<figure><img src="/assets/images/coca/coca-handwriting.jpg" alt="A hand writing the name Coca-Cola in flowing script in an old ledger, by lamplight in 1886"><figcaption>Frank Robinson writes the name Coca-Cola for the first time - the same flowing letters you can still see on every bottle today.</figcaption></figure>
+
 ## The Dream for Sale
 
 Pemberton was still a sick man, and he needed money. In 1887 and 1888, piece by piece, he sold his drink to other businessmen. In total, he received about 2,300 dollars.
@@ -56,11 +58,15 @@ Success brought copycats - drinks with names like Koka-Nola and Toka-Cola. So in
 
 The Root Glass Company answered with a green bottle of soft curves and ribs. And here is a small secret: the designers copied its shape from a picture of a cocoa pod - a fruit that was never in the drink, not then, not now. From 1916, you could hold a bottle in the dark and know: this is Coca-Cola.
 
+<figure><img src="/assets/images/coca/coca-bottle.jpg" alt="The green Coca-Cola contour bottle standing in warm light, with plain bottles blurred behind it"><figcaption>The contour bottle of 1916: one bottle that stands apart from all the others, known by touch alone.</figcaption></figure>
+
 ## A Taste of Home
 
 In 1923, a new leader, Robert Woodruff, took over. He wanted Coca-Cola "within arm's reach of desire" - everywhere, for everyone. When the Second World War came, he made a promise: every man in uniform would be able to buy a Coke for five cents, wherever he was in the world.
 
 The company kept that promise. Bottling plants followed the soldiers. And for a young man far from home, one cold bottle tasted like home - which is why this story began with one.
+
+<figure><img src="/assets/images/coca/coca-soldier.jpg" alt="A young soldier in the Second World War holding a cold green bottle of Coca-Cola and smiling quietly"><figcaption>One cold bottle, far from home: for many young soldiers, that small taste meant home.</figcaption></figure>
 
 The story did not stop there. In Germany, cut off from the syrup during the war, the local team created a new drink from what they had: Fanta. In 1985, the company changed its famous taste and called it New Coke - and after just 79 days of public anger, the old taste came back. And in 1988, investor Warren Buffett looked at the company and quietly bought more than a billion dollars of its shares. The whole world saw a drink. He saw something that would never be forgotten.
 
