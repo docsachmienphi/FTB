@@ -9,6 +9,7 @@ cover_brand: "STARBUCKS"
 cover_years: "1971 - 2026"
 cover_fate: "A place to stay"
 cover_class: "c-default"
+cover_thumb: /assets/images/starbucks/starbucks-thumbnail.jpg
 redirect_from:
   - "/stories/entire-history-of-starbucks/"
 ---
