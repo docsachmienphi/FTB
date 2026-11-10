@@ -3,6 +3,7 @@ layout: post
 title: "The ENTIRE History of Starbucks: The Man Who Saw More Than Coffee"
 description: "How Starbucks began in 1971 as a tiny Seattle bean shop, and how Howard Schultz turned coffee into a place to stay, in 41,607 stores by 2026."
 date: 2026-11-10
+youtube_id: "UNO6gZvVHNY"
 categories: [Company-History, Founder-Stories]
 tags: [Starbucks, Howard-Schultz]
 cover_brand: "STARBUCKS"
@@ -10,6 +11,7 @@ cover_years: "1971 - 2026"
 cover_fate: "A place to stay"
 cover_class: "c-default"
 cover_thumb: /assets/images/starbucks/starbucks-thumbnail.jpg
+image: /assets/images/starbucks/starbucks-latte.jpg
 redirect_from:
   - "/stories/entire-history-of-starbucks/"
 ---
@@ -22,19 +24,29 @@ But the first Starbucks was not like that at all. In 1971, it was one small Seat
 
 So how did a little bean shop become a place loved around the world? This is the story of Starbucks, from the very beginning.
 
+<figure><img src="/assets/images/starbucks/starbucks-latte.jpg" alt="A cup of latte with leaf-shaped latte art, steam rising, and the green Starbucks siren logo glowing on the wall behind it"><figcaption>A warm cup, a familiar green logo. But Starbucks did not begin with lattes at all.</figcaption></figure>
+
 ## A Boy from Brooklyn
 
 Howard D. Schultz was born on July 19, 1953, in Brooklyn, New York, and grew up in a public housing building. His father, Fred, worked different jobs, and money was often tight.
 
 When Howard was seven, his father was injured while working as a delivery driver. The boy found him at home, hurt and unable to work, while the bills kept arriving. There was no help and no protection. Howard was too young to help, but he never forgot those days.
 
+<figure><img src="/assets/images/starbucks/starbucks-father.jpg" alt="Howard Schultz as a seven-year-old boy standing in a doorway, watching his injured father sit at a small table counting coins in their Brooklyn apartment"><figcaption>A father hurt, a table of coins, and a seven-year-old boy who could do nothing. Howard never forgot this room.</figcaption></figure>
+
 He loved sports, worked hard, and went to Northern Michigan University, the first in his family to graduate from college. Then, as a young salesman of kitchen equipment and coffee makers, he noticed something strange: one small Seattle customer kept ordering an unusual number of coffee makers. The company was called Starbucks.
+
+<figure><img src="/assets/images/starbucks/starbucks-graduation.jpg" alt="Young Howard Schultz in a graduation gown holding his diploma, standing with his proud parents and little brother on a green university lawn"><figcaption>The first in his family to graduate from college. A boy from Brooklyn was on his way.</figcaption></figure>
+
+<figure><img src="/assets/images/starbucks/starbucks-coffee-makers.jpg" alt="Boxes of new drip coffee makers stacked inside the small wooden Starbucks bean shop in Seattle, with sacks of coffee beans and the carved siren sign on the wall"><figcaption>One small Seattle customer kept ordering coffee makers, far more than a tiny bean shop should need. Howard had to know why.</figcaption></figure>
 
 ## Three Friends in Seattle
 
 Seattle, the city that would later give the world [Amazon](/stories/history-of-amazon/), was home to three friends who shared a simple love in 1971: good coffee.
 
 Gerald Baldwin, Gordon Bowker, and Zev Siegl loved coffee from dark-roasted beans, but it was hard to find. Each put in 1,350 dollars, and together they borrowed another 5,000 dollars. In March 1971, they opened the first Starbucks near Pike Place Market.
+
+<figure><img src="/assets/images/starbucks/starbucks-bean-shop.jpg" alt="Inside the first Starbucks store in 1971: wooden shelves of bean sacks, open bins of roasted coffee beans, and a customer buying a paper bag of beans at the counter"><figcaption>The first Starbucks sold beans, tea and spices. No lattes, no chairs, not even a place to sit.</figcaption></figure>
 
 The friends had learned from Alfred Peet, who believed Americans deserved better coffee. They named the shop Starbucks, inspired by the novel *Moby-Dick*.
 
@@ -44,7 +56,11 @@ It was also the year a small Oregon shoe company became [Nike](/stories/history-
 
 Howard first visited Starbucks in 1981. The coffee, and the founders' passion, stayed with him. In 1982, he left his secure job and joined the small company.
 
+<figure><img src="/assets/images/starbucks/starbucks-first-taste.jpg" alt="Howard Schultz tasting a small cup of dark coffee at the wooden counter of the Seattle bean shop in 1981, while one of the founders watches him across the counter"><figcaption>In 1981, Howard tasted the coffee and listened to the men who cared so deeply about it. He wanted to be part of it.</figcaption></figure>
+
 In 1983, Starbucks sent him to Italy. In a Milan coffee bar, he watched a barista greet regular customers by name. People stopped, talked, and enjoyed a few quiet minutes. In Seattle, Starbucks sold beans. In Milan, people gathered around coffee.
+
+<figure><img src="/assets/images/starbucks/starbucks-milan.jpg" alt="Howard Schultz standing in a warm Milan coffee bar in 1983, watching regular customers talk and enjoy their coffee together"><figcaption>Milan, 1983. People did not just buy coffee here. They stopped, they talked, they stayed a little longer.</figcaption></figure>
 
 Howard began to dream of a warm place between home and work, a "third place" where people could meet, or simply sit in peace. The founders were not convinced. In 1984, he tested espresso drinks in one store, and customers liked them. But the founders would not change. So in 1985, he left to build his own coffeehouse.
 
@@ -54,9 +70,13 @@ His new company was called Il Giornale. By his own account, Howard approached 24
 
 Then, in 1987, the founders decided to focus on Peet's Coffee, which they had bought, and sell Starbucks: the name, the roasting business, and six stores. Howard needed 3.8 million dollars he did not have. Another investor threatened to take the deal, so he asked Bill Gates Sr., a respected Seattle lawyer, for help. Gates Sr. helped him protect it, and in August 1987 Howard bought Starbucks.
 
+<figure><img src="/assets/images/starbucks/starbucks-vision.jpg" alt="Howard Schultz standing on a Seattle street, looking at a Starbucks coffeehouse glowing with golden light and filled with people talking together, like a vision in warm haze"><figcaption>He could already see the coffeehouse he wanted to build. He just had to survive 217 no's to build it.</figcaption></figure>
+
 ## The Promise Behind the Green Apron
 
 Howard wanted his workers to have the support his father never had. In 1988, Starbucks offered health insurance to full-time workers and eligible part-time workers. In 1991, Bean Stock gave eligible employees a chance to own shares. The people who built Starbucks, he believed, should share in its success.
+
+<figure><img src="/assets/images/starbucks/starbucks-green-apron.jpg" alt="A smiling barista in a green Starbucks apron handing a cup to a customer, while Howard Schultz teaches a young barista at the espresso machine behind the counter"><figcaption>Green aprons, trained baristas, and a quiet promise: the people building Starbucks would share in its success.</figcaption></figure>
 
 In 1992, Starbucks sold shares to the public, with 165 stores.
 
@@ -64,7 +84,11 @@ In 1992, Starbucks sold shares to the public, with 165 stores.
 
 In Southern California, customers asked for cold, blended coffee drinks. Employees experimented with ice, milk, and coffee, and the company developed the Frappuccino. Howard was not excited. The sweet, icy drink was far from his beloved espresso. But customers wanted it, and in 1995 it became a hit across the United States.
 
+<figure><img src="/assets/images/starbucks/starbucks-frappuccino.jpg" alt="Howard Schultz leaning on a Starbucks counter, tasting a tall icy Frappuccino with a serious, doubtful face, while customers enjoy their drinks around him"><figcaption>Howard was not sure about the cold, sweet drink. The customers were. The Frappuccino became a hit.</figcaption></figure>
+
 Starbucks was also learning to travel: Japan in 1996, its first store outside North America, then the United Kingdom in 1998 and China in 1999. In 2000, Howard stepped away as CEO, staying on as chairman.
+
+<figure><img src="/assets/images/starbucks/starbucks-global.jpg" alt="A rainy evening street corner in London with a glowing Starbucks store, a red double-decker bus and black taxis, and Starbucks signs shining further down the street toward a Chinatown gate"><figcaption>Japan in 1996, the United Kingdom in 1998, China in 1999. The little Seattle coffeehouse had learned to travel the world.</figcaption></figure>
 
 ## The Afternoon Starbucks Closed
 
@@ -78,9 +102,13 @@ Howard was willing to lose an afternoon of sales to bring back quality. But hund
 
 In 2012, Starbucks began writing customers' names on their cups. Hearing your own name still felt personal, even when the spelling was wrong. Mobile ordering changed things again: some still came to sit and talk, others paid on their phones and hurried on.
 
-In 2017, Kevin Johnson became CEO, and a year later Howard left as chairman. In 2020, COVID-19 emptied the tables where friends once gathered. In 2021, workers at a Buffalo store voted to form a union, asking what Howard's old promise to care for workers really meant.
+In 2017, Kevin Johnson became CEO, and a year later Howard left as chairman.
+
+<figure><img src="/assets/images/starbucks/starbucks-handover.jpg" alt="Howard Schultz shaking hands with Kevin Johnson across a boardroom table in 2017, with the green Starbucks siren logo on the wooden wall behind them"><figcaption>In 2017, Howard handed Starbucks to a new leader. The company had to learn to walk without him.</figcaption></figure> In 2020, COVID-19 emptied the tables where friends once gathered. In 2021, workers at a Buffalo store voted to form a union, asking what Howard's old promise to care for workers really meant.
 
 Howard returned in 2022. Laxman Narasimhan followed in 2023, and Brian Niccol in 2024. His plan, "Back to Starbucks," promises better coffee, more personal service, and a reason to stay. By 2026, Starbucks had 41,607 stores.
+
+<figure><img src="/assets/images/starbucks/starbucks-globe.jpg" alt="A vintage globe covered with small green Starbucks flag pins across the Americas, Europe and Asia, beside an open ledger with the number 41,607 written in it"><figcaption>41,607 stores around the world. All of it began with one small bean shop in Seattle.</figcaption></figure>
 
 <div class="lessons" markdown="1">
 ## What This Story Teaches Us
@@ -97,5 +125,7 @@ To understand what Starbucks really meant to Howard, we go back to that winter d
 Years later, Howard made a quiet promise: his workers would get the care his father never had. It was not always easy to keep, and the dream was never truly finished. Maybe it never will be.
 
 But the idea was simple from the start. We can buy coffee almost anywhere. Yet we return to the places that make us feel welcome. A friendly face. A familiar table. Someone who knows our name.
+
+<figure><img src="/assets/images/starbucks/starbucks-cafe.jpg" alt="Inside a warm Starbucks cafe in soft morning light: friends talking at wooden tables, a steaming cup in the foreground, and the green siren logo in the bright window"><figcaption>A warm light, a familiar table, and people who stay a little longer. That was the dream from the very beginning.</figcaption></figure>
 
 And now, my friend, tell me: what makes you return to your favorite coffee shop? Is it the coffee, or the way the place makes you feel?
