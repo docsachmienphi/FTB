@@ -32,7 +32,7 @@ Howard D. Schultz was born on July 19, 1953, in Brooklyn, New York, and grew up 
 
 When Howard was seven, his father was injured while working as a delivery driver. The boy found him at home, hurt and unable to work, while the bills kept arriving. There was no help and no protection. Howard was too young to help, but he never forgot those days.
 
-<figure><img src="/assets/images/starbucks/starbucks-father.jpg" alt="Howard Schultz as a seven-year-old boy standing in a doorway, watching his injured father sit at a small table counting coins in their Brooklyn apartment"><figcaption>A father hurt, a table of coins, and a seven-year-old boy who could do nothing. Howard never forgot this room.</figcaption></figure>
+<figure><img src="/assets/images/starbucks/starbucks-father.jpg" alt="Howard Schultz as a small boy standing in the shadow of a doorway, watching his father rest on a couch with his injured leg in a cast, unpaid bills piled on the small table beside him"><figcaption>His father came home hurt, his leg in a cast, the bills piling up on the table. Howard was seven, and there was nothing he could do.</figcaption></figure>
 
 He loved sports, worked hard, and went to Northern Michigan University, the first in his family to graduate from college. Then, as a young salesman of kitchen equipment and coffee makers, he noticed something strange: one small Seattle customer kept ordering an unusual number of coffee makers. The company was called Starbucks.
 
@@ -46,7 +46,7 @@ Seattle, the city that would later give the world [Amazon](/stories/history-of-a
 
 Gerald Baldwin, Gordon Bowker, and Zev Siegl loved coffee from dark-roasted beans, but it was hard to find. Each put in 1,350 dollars, and together they borrowed another 5,000 dollars. In March 1971, they opened the first Starbucks near Pike Place Market.
 
-<figure><img src="/assets/images/starbucks/starbucks-bean-shop.jpg" alt="Inside the first Starbucks store in 1971: wooden shelves of bean sacks, open bins of roasted coffee beans, and a customer buying a paper bag of beans at the counter"><figcaption>The first Starbucks sold beans, tea and spices. No lattes, no chairs, not even a place to sit.</figcaption></figure>
+<figure><img src="/assets/images/starbucks/starbucks-bean-shop.jpg" alt="The three Starbucks founders in a soft blended image: counting their money at a table on one side, and standing proudly outside their first small Seattle shop under the round wooden siren sign on the other"><figcaption>Three friends, 1,350 dollars each and 5,000 more borrowed. Baldwin, Bowker and Siegl open their little bean shop in 1971.</figcaption></figure>
 
 The friends had learned from Alfred Peet, who believed Americans deserved better coffee. They named the shop Starbucks, inspired by the novel *Moby-Dick*.
 
@@ -60,7 +60,7 @@ Howard first visited Starbucks in 1981. The coffee, and the founders' passion, s
 
 In 1983, Starbucks sent him to Italy. In a Milan coffee bar, he watched a barista greet regular customers by name. People stopped, talked, and enjoyed a few quiet minutes. In Seattle, Starbucks sold beans. In Milan, people gathered around coffee.
 
-<figure><img src="/assets/images/starbucks/starbucks-milan.jpg" alt="Howard Schultz standing in a warm Milan coffee bar in 1983, watching regular customers talk and enjoy their coffee together"><figcaption>Milan, 1983. People did not just buy coffee here. They stopped, they talked, they stayed a little longer.</figcaption></figure>
+<figure><img src="/assets/images/starbucks/starbucks-milan.jpg" alt="Howard Schultz between two worlds in a soft blended image: a Milan espresso bar with its barista and regular customers on one side, and a busy modern coffeehouse with happy customers holding Starbucks cups on the other"><figcaption>In Milan, coffee gathered people together. Howard began to dream of a warm third place between home and work.</figcaption></figure>
 
 Howard began to dream of a warm place between home and work, a "third place" where people could meet, or simply sit in peace. The founders were not convinced. In 1984, he tested espresso drinks in one store, and customers liked them. But the founders would not change. So in 1985, he left to build his own coffeehouse.
 
@@ -94,13 +94,19 @@ Starbucks was also learning to travel: Japan in 1996, its first store outside No
 
 Success, though, can grow too fast. By 2007, Starbucks had more than 15,000 stores, and the warm, personal feeling was disappearing. Then the economy fell into crisis, and customers spent less.
 
+<figure><img src="/assets/images/starbucks/starbucks-crisis.jpg" alt="A quiet Starbucks storefront under dark storm clouds, its street almost empty"><figcaption>More than 15,000 stores, but the warm, personal feeling was disappearing. Then the storm came.</figcaption></figure>
+
 In January 2008, Howard returned as CEO. On February 26, 2008, at 5:30 in the afternoon, nearly 7,100 stores across America closed their doors. Inside, baristas were practicing how to make better espresso.
+
+<figure><img src="/assets/images/starbucks/starbucks-return.jpg" alt="An older Howard Schultz walking back through the entrance of a Starbucks headquarters, while his staff watch him in silence under the green siren logo"><figcaption>In January 2008, Howard returned as CEO, ready to lose an afternoon of sales to bring back the coffee quality.</figcaption></figure>
 
 Howard was willing to lose an afternoon of sales to bring back quality. But hundreds of struggling stores also closed, and many employees lost their jobs, painful decisions for a man who had promised to care for his workers. Slowly, Starbucks recovered.
 
 ## A Company Beyond Its Founder
 
 In 2012, Starbucks began writing customers' names on their cups. Hearing your own name still felt personal, even when the spelling was wrong. Mobile ordering changed things again: some still came to sit and talk, others paid on their phones and hurried on.
+
+<figure><img src="/assets/images/starbucks/starbucks-name-cup.jpg" alt="A smiling barista in a green apron handing a coffee cup across a warm wooden counter to a happy regular customer"><figcaption>Your name on the cup, a face that knows you. Even inside a giant company, the small personal moment still mattered.</figcaption></figure>
 
 In 2017, Kevin Johnson became CEO, and a year later Howard left as chairman.
 
