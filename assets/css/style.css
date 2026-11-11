@@ -80,3 +80,8 @@ h1{line-height:1.22;font-family:'Playfair Display',Georgia,serif}h2{margin-top:3
 .host-photo{max-width:340px;margin:28px auto;text-align:center}
 .host-photo img{width:100%;height:auto;display:block;border-radius:16px;box-shadow:0 10px 28px rgba(60,42,10,.18)}
 .host-photo figcaption{font-size:.92rem;color:var(--ink2);font-style:italic;margin-top:8px}
+
+.related{margin-top:38px}
+.related-grid{grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:16px}
+.related .cover{height:118px}
+.related .cover.has-img .brand{font-size:1.25rem}
