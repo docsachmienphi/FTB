@@ -14,6 +14,19 @@ cover_thumb: /assets/images/starbucks/starbucks-thumbnail.jpg
 image: /assets/images/starbucks/starbucks-latte.jpg
 redirect_from:
   - "/stories/entire-history-of-starbucks/"
+sources:
+  - title: "HistoryLink, the Washington State encyclopedia — Starbucks in its early years, from the first small bean shop in 1971"
+    url: "https://historylink.org/file/20292"
+  - title: "HistoryLink, the Washington State encyclopedia — the morning the first Starbucks opened, March 30, 1971"
+    url: "https://www.historylink.org/File/2075"
+  - title: "CBS News — Howard Schultz, the boy from Brooklyn who built the Starbucks we know"
+    url: "https://www.cbsnews.com/news/howard-schultz-the-star-of-starbucks/"
+  - title: "FundingUniverse — the full history of Starbucks Corporation, year by year"
+    url: "https://www.fundinguniverse.com/company-histories/starbucks-corporation-history/"
+  - title: "Fox Business — the leaders of Starbucks, from Howard Schultz to the CEOs who followed him"
+    url: "https://foxbusiness.com/business-leaders/history-starbucks-ceos"
+  - title: "Nation's Restaurant News — Brian Niccol becomes CEO of Starbucks in 2024"
+    url: "https://www.nrn.com/restaurant-executives/chipotle-s-brian-niccol-named-starbucks-ceo-replacing-laxman-narasimhan"
 ---
 
 Hello, my friend. You can buy coffee almost anywhere. So why do millions of people walk into a Starbucks, and stay a little longer?

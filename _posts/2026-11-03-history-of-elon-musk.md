@@ -14,6 +14,17 @@ cover_thumb: /assets/images/elon/elon-thumbnail.jpg
 cover_class: "c-default"
 redirect_from:
   - "/stories/entire-history-of-elon-musk/"
+sources:
+  - title: "SpaceX — the official website of Elon Musk's rocket company"
+    url: "https://www.spacex.com/"
+  - title: "NASA — how NASA hired SpaceX to carry cargo to the International Space Station"
+    url: "https://www.nasa.gov/commercial-resupply-services-overview/"
+  - title: "NASA — the first time astronauts flew to space on a SpaceX rocket, in 2020"
+    url: "https://www.nasa.gov/news-release/nasa-astronauts-launch-from-america-in-historic-test-flight-of-spacex-crew-dragon/"
+  - title: "TechCrunch — a news report from September 2008, the night the fourth Falcon 1 rocket finally reached space"
+    url: "https://techcrunch.com/2008/09/29/spacex-falcon-1-makes-history-this-evening/"
+  - title: "Biography — the life of Elon Musk, from a quiet boy in South Africa to Zip2, PayPal, SpaceX, and Tesla"
+    url: "https://www.biography.com/business-leaders/elon-musk"
 ---
 
 In 2008, Elon Musk stood between two failing dreams. His rocket company had launched three rockets, and all three had failed. His electric car company was running out of money, and so was he. One more failure, and everything could end.

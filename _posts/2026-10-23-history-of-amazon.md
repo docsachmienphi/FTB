@@ -14,6 +14,17 @@ cover_thumb: /assets/images/amazon/amazon-thumbnail.jpg
 cover_class: "c-amazon"
 redirect_from:
   - "/stories/entire-history-of-amazon/"
+sources:
+  - title: "Amazon — Amazon's own page about the company and what it does today"
+    url: "https://www.aboutamazon.com/about-us"
+  - title: "Amazon — Jeff Bezos's first letter to shareholders, from 1997, where the idea of 'Day 1' began"
+    url: "https://www.aboutamazon.com/news/company-news/amazons-original-1997-letter-to-shareholders"
+  - title: "Amazon Web Services — Amazon's official page for the cloud business it started in 2006"
+    url: "https://aws.amazon.com/about-aws/"
+  - title: "Academy of Achievement — Jeff Bezos tells the story of his own life and work"
+    url: "https://achievement.org/achiever/jeffrey-p-bezos/"
+  - title: "Biography — the life of Jeff Bezos, from a boy in New Mexico and Texas to the founder of Amazon"
+    url: "https://www.biography.com/business-leaders/jeff-bezos"
 ---
 
 In 1994, Jeff Bezos had a life most people would dream of. A great job in New York. A good salary. A safe future. Then he walked away from all of it, to sell books on a strange new thing called the internet, when almost nobody had bought anything online.

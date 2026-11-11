@@ -14,6 +14,19 @@ cover_class: "c-coca"
 cover_thumb: /assets/images/coca/coca-thumbnail.jpg
 redirect_from:
   - "/stories/how-coca-cola-started/"
+sources:
+  - title: "The Coca-Cola Company — the official history of the company and the drink"
+    url: "https://www.coca-colacompany.com/about-us/history"
+  - title: "The Coca-Cola Company — how John Pemberton's new drink was born in 1886"
+    url: "https://www.coca-colacompany.com/about-us/history/the-birth-of-a-refreshing-idea"
+  - title: "The Coca-Cola Company — the true story of New Coke, the famous mistake of 1985"
+    url: "https://www.coca-colacompany.com/about-us/history/new-coke-the-most-memorable-marketing-blunder-ever"
+  - title: "New Georgia Encyclopedia — the life of John Pemberton, the pharmacist who created Coca-Cola"
+    url: "https://www.georgiaencyclopedia.org/articles/business-economy/john-stith-pemberton-1831-1888/"
+  - title: "New Georgia Encyclopedia — how the Coca-Cola Company grew from Atlanta to the world"
+    url: "https://www.georgiaencyclopedia.org/articles/business-economy/coca-cola-company/"
+  - title: "World of Coca-Cola — the company's own museum in Atlanta, with the story of the famous bottle"
+    url: "https://www.worldofcoca-cola.com/"
 ---
 
 Imagine a hot day in the middle of a war. A young soldier stands far from home, in noise and fear. Someone hands him a cold bottle. Five cents. He drinks, and for one quiet moment, the war feels far away. He is home again.

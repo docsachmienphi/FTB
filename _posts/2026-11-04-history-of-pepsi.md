@@ -14,6 +14,19 @@ cover_thumb: /assets/images/pepsi/pepsi-thumbnail.jpg
 cover_class: "c-pepsi"
 redirect_from:
   - "/stories/entire-history-of-pepsi/"
+sources:
+  - title: "North Carolina Department of Natural and Cultural Resources — how Brad's Drink became Pepsi-Cola in 1898"
+    url: "https://www.dncr.nc.gov/blog/2016/08/28/brads-drink-becomes-pepsi-cola-1898"
+  - title: "North Carolina Department of Natural and Cultural Resources — the life of Caleb Bradham, the man who created Pepsi"
+    url: "https://www.dncr.nc.gov/blog/2023/12/07/caleb-bradham-1867-1934-c-60"
+  - title: "The Birthplace of Pepsi — the official store and museum in New Bern, where Pepsi was first made"
+    url: "https://www.pepsistore.com"
+  - title: "Knowledge at Wharton, University of Pennsylvania — how Pepsi learned to respect Black customers before other companies did"
+    url: "https://knowledge.wharton.upenn.edu/article/how-corporate-america-came-to-recognize-diversity-one-pepsi-at-a-time/"
+  - title: "Hagley Museum and Library — Pepsi's own 1977 handbook for selling to Black communities"
+    url: "https://www.hagley.org/research/Pepsi-Cola-Company-1977-Black-Community-Marketing-Handbook"
+  - title: "American Business History — the full story of Pepsi, the little soft drink that refused to die"
+    url: "https://americanbusinesshistory.org/the-little-soft-drink-that-could-the-pepsi-story/"
 ---
 
 Let me ask you something. Which do you like more, Pepsi or Coca-Cola? Today they are two of the most famous drinks in the world, standing side by side.

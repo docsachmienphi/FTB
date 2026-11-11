@@ -14,6 +14,17 @@ cover_thumb: /assets/images/heinz/heinz-thumbnail.jpg
 cover_class: "c-default"
 redirect_from:
   - "/stories/entire-history-of-heinz/"
+sources:
+  - title: "Heinz — the company's own story of Henry Heinz, his mother's horseradish, and the famous number 57"
+    url: "https://www.heinz.com/our-story"
+  - title: "Kraft Heinz — the official story of 150 years of Heinz, and how Henry supported the Pure Food law of 1906"
+    url: "https://news.kraftheinzcompany.com/press-releases-details/2019/HEINZ-Relishes-150-Years/default.aspx"
+  - title: "Smithsonian Magazine — the truth about the number 57: there never really were 57 varieties"
+    url: "https://www.smithsonianmag.com/smart-news/there-never-were-57-varieties-heinz-ketchup-180965158/"
+  - title: "Heinz History Center — the Pittsburgh museum, a Smithsonian partner, that keeps the Heinz story"
+    url: "https://www.heinzhistorycenter.org/"
+  - title: "U.S. Food and Drug Administration — how Harvey Wiley and other scientists fought for pure food and won the law of 1906"
+    url: "https://www.fda.gov/about-fda/fda-history-research-tools/background-research-tools-fda-history"
 ---
 
 Have you ever turned a Heinz ketchup bottle upside down and waited for the sauce to come out? Nothing happens. So you tap the little number 57. And slowly, the ketchup begins to move.

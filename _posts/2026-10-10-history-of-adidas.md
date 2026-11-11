@@ -14,6 +14,23 @@ cover_thumb: /assets/images/adidas/adidas-thumbnail.jpg
 cover_class: "c-adidas"
 redirect_from:
   - "/stories/how-adidas-started/"
+sources:
+  - title: "Adidas — the official history of the company, from a laundry room to the whole world"
+    url: "https://www.adidas-group.com/en/about/history"
+  - title: "Adidas — a deep look at the company's history of working with athletes"
+    url: "https://www.adidas-group.com/en/magazine/innovation/the-history-of-adidas-a-background-of-collaboration-and-innovation"
+  - title: "Adidas — the life of Adi Dassler, the quiet shoemaker who founded the company"
+    url: "https://www.adidas-group.com/en/magazine/innovation/adolf-dassler-the-creative-and-innovative-leader-behind-adidas"
+  - title: "Fortune — the hatred and bitterness behind two of the world's most popular brands"
+    url: "https://fortune.com/2013/03/22/the-hatred-and-bitterness-behind-two-of-the-worlds-most-popular-brands/"
+  - title: "The National — how Jesse Owens and the 1936 Olympics helped launch Adidas and Puma"
+    url: "https://www.thenationalnews.com/lifestyle/fashion-beauty/2024/08/02/olympic-shoes-nike-basketball/"
+  - title: "BBC News — Adidas and Puma end their 60-year feud with a football match"
+    url: "http://news.bbc.co.uk/2/hi/business/8262040.stm"
+  - title: "Le Monde — Adolf and Rudolf Dassler, the two brothers behind Adidas and Puma"
+    url: "https://www.lemonde.fr/en/summer-reads/article/2026/08/16/adolf-and-rudolf-dassler-the-cain-and-abel-of-sports-shoes_6756555_183.html"
+  - title: "The National — the battling brothers and the town divided by two shoe companies"
+    url: "https://www.thenationalnews.com/lifestyle/brands-of-battling-brothers-1.513818"
 ---
 
 A man sits on a bicycle in a laundry room in Germany, pedaling for hours. The bicycle never moves one metre. But its wheels power a machine, and slowly, under a quiet shoemaker's hands, the first shoes are born.

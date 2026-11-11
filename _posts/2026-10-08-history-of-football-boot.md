@@ -14,6 +14,21 @@ cover_thumb: /assets/images/boot/boot-thumbnail.jpg
 cover_class: "c-default"
 redirect_from:
   - "/stories/history-of-the-football-boot/"
+sources:
+  - title: "TechRadar — the full evolution of football boots, from King Henry VIII to today's light racing boots"
+    url: "https://www.techradar.com/news/golden-boots-the-extraordinary-evolution-of-football-footwear/"
+  - title: "Design Museum — a guide to the big football design exhibition, with the story of studs and famous boots"
+    url: "https://designmuseum.org/asset/download?id=6705874f-108c-4a1e-9d41-cdb416252659"
+  - title: "Barnsley Museums — a short history of football boots, starting with Henry VIII's order of 1526"
+    url: "https://www.barnsley-museums.com/downloads/185/Boot-iful%20Boots.pdf"
+  - title: "Adidas — the official company history, including the screw-in studs of the 1954 World Cup final"
+    url: "https://www.adidas-group.com/en/about/history"
+  - title: "PUMA — the official timeline, including the Super Atom, one of the first boots with screw-in studs"
+    url: "https://about.puma.com/en/puma/puma-timeline"
+  - title: "ESPN — Pelé's Puma King boots at the 1970 World Cup"
+    url: "https://www.espn.ph/football/story/_/id/48945314/22-world-cup-items-previous-tournaments-22-stories"
+  - title: "ESPN — the story of Pelé tying his laces in front of the whole world in 1970"
+    url: "https://www.espn.ph/football/story/_/id/37607958/brazil-great-most-iconic-images-amazing-stats-brand-new-song"
 ---
 
 Can a pair of shoes win a World Cup?

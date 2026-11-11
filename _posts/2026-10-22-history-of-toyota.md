@@ -14,6 +14,19 @@ cover_thumb: /assets/images/toyota/toyota-thumbnail.jpg
 cover_class: "c-toyota"
 redirect_from:
   - "/stories/entire-history-of-toyota/"
+sources:
+  - title: "Toyota — the official short history of the company, from a loom maker to the world's roads"
+    url: "https://global.toyota/en/company/trajectory-of-toyota/history/"
+  - title: "Toyota — '75 Years of Toyota', the company's own deep history of Sakichi, Kiichiro, and the first cars"
+    url: "https://www.toyota-global.com/company/history_of_toyota/75years/"
+  - title: "Toyota — a year-by-year timeline of Toyota history, beginning with Sakichi Toyoda in 1867"
+    url: "https://www.toyota-global.com/company/history_of_toyota/75years/data/overall_chronological_table/1867.html"
+  - title: "Toyota — the Toyota Production System, the supermarket idea and the stopping line, explained by Toyota itself"
+    url: "https://global.toyota/en/company/vision-and-philosophy/production-system/"
+  - title: "Toyota Industries — the history of the loom company where the Toyota story began"
+    url: "https://www.toyota-industries.com/company/history/"
+  - title: "NPR, This American Life — NUMMI, the true story of the California factory where Toyota taught General Motors"
+    url: "https://www.thisamericanlife.org/403/nummi"
 ---
 
 In the 1930s, a Japanese engineer took apart an American Chevrolet, piece by piece, to learn how to build a car. His name was Kiichiro Toyoda. He did not yet know how to make an engine. He only knew how to learn.

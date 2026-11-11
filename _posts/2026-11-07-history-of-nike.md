@@ -14,6 +14,25 @@ cover_thumb: /assets/images/nike/nike-thumbnail.jpg
 image: /assets/images/nike/nike-trunk.jpg
 redirect_from:
   - "/stories/entire-history-of-nike/"
+sources:
+  - title: "Nike — how Phil Knight and Bill Bowerman started the company with a handshake"
+    url: "https://about.nike.com/en-GB/magazine/the-handshake-that-started-it-all"
+  - title: "Nike — the story of Bill Bowerman, the coach who made Nike's first shoes"
+    url: "https://about.nike.com/en/magazine/bill-bowerman-nike-s-original-innovator"
+  - title: "Nike — the history of the Swoosh logo"
+    url: "https://about.nike.com/en/magazine/nike-swoosh-logo-history"
+  - title: "Nike — the true story of the Moon Shoe and the famous waffle iron"
+    url: "https://about.nike.com/en/magazine/nike-moon-shoe-waffle-iron-true-history/"
+  - title: "Stanford Graduate School of Business — a study of how Nike sold directly to customers, 2017 to 2024"
+    url: "https://www.gsb.stanford.edu/faculty-research/case-studies/nike-going-direct-2017-2024"
+  - title: "Nike — from the 1998 annual report, how Nike answered questions about its factories"
+    url: "https://s1.q4cdn.com/806093406/files/doc_financials/1998/respons.html"
+  - title: "Nike — Elliott Hill returns as president and CEO of Nike"
+    url: "https://about.nike.com/en/newsroom/releases/nike-inc-announces-return-of-long-time-nike-veteran-elliott-hill-as-president-and-ceo"
+  - title: "Nike — Elliott Hill talks about taking the Swoosh back to its roots"
+    url: "https://about.nike.com/en/magazine/elliott-hill-ceo-of-sport-interview"
+  - title: "Nike Investor Relations — the company's latest results"
+    url: "https://investors.nike.com/news-events/press-releases/detail/575/nike-inc-reports-fiscal-2027-first-quarter-results"
 ---
 
 Have you ever dreamed of owning a pair of Nike shoes? But that famous curved mark did not begin in a giant factory. It began with a young man selling shoes from the back of his car.

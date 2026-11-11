@@ -14,6 +14,21 @@ cover_thumb: /assets/images/puma/puma-thumbnail.jpg
 cover_class: "c-default"
 redirect_from:
   - "/stories/how-puma-started/"
+sources:
+  - title: "PUMA — the official timeline of the company, from 1948 to today"
+    url: "https://about.puma.com/en/puma/puma-timeline"
+  - title: "Fortune — the family feud that created Puma and Adidas"
+    url: "https://fortune.com/2013/03/22/the-hatred-and-bitterness-behind-two-of-the-worlds-most-popular-brands/"
+  - title: "BBC News — the 2009 football match that ended 60 years of feud"
+    url: "http://news.bbc.co.uk/2/hi/business/8262040.stm"
+  - title: "Le Monde — the story of Rudolf and Adolf Dassler and their divided town"
+    url: "https://www.lemonde.fr/en/summer-reads/article/2026/08/16/adolf-and-rudolf-dassler-the-cain-and-abel-of-sports-shoes_6756555_183.html"
+  - title: "ESPN — Pelé at 80, including the day he stopped a World Cup match to tie his Puma laces"
+    url: "https://www.espn.ph/football/story/_/id/37607958/brazil-great-most-iconic-images-amazing-stats-brand-new-song"
+  - title: "ESPN — Pelé's Puma King boots and the secret pact of the 1970 World Cup"
+    url: "https://www.espn.ph/football/story/_/id/48945314/22-world-cup-items-previous-tournaments-22-stories"
+  - title: "The National — how the two brother companies finally made peace"
+    url: "https://www.thenationalnews.com/lifestyle/brands-of-battling-brothers-1.513818"
 ---
 
 In the small German town of Herzogenaurach, people meet in a strange way. Before you say hello, you look down - at their shoes. For more than 60 years, those shoes told the whole town whose side you were on.
