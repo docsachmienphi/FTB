@@ -3,45 +3,76 @@ layout: post
 title: "The ENTIRE History of Red Bull: The Drink Nobody Believed In"
 description: "How Red Bull began as Krating Daeng, a small glass bottle for tired Thai truck drivers, and how two quiet men turned it into almost fourteen billion cans a year."
 date: 2026-11-11
+youtube_id: "a2yw3yeiz44"
 categories: [Company-History, Founder-Stories]
 tags: [Red-Bull, Chaleo-Yoovidhya, Dietrich-Mateschitz]
 cover_brand: "RED BULL"
 cover_years: "1984 - 2026"
 cover_fate: "The drink nobody believed in"
 cover_class: "c-default"
+cover_thumb: /assets/images/red-bull/red-bull-thumbnail.jpg
+image: /assets/images/red-bull/red-bull-title-drop.jpg
 redirect_from:
   - "/stories/entire-history-of-red-bull/"
 ---
 
 Hello, my friend. You have been working all day. You are tired, but your work is not finished yet. So you stop at a convenience store and pick up a cold, slim can.
 
+<figure><img src="/assets/images/red-bull/red-bull-tired-workers.jpg" alt="Three tired people blended into one night image: an office worker working late, a factory worker on a night shift, and a truck driver on a dark road"><figcaption>Working all day, and the work is not finished yet. This story begins with tired people.</figcaption></figure>
+
 Many years ago, in Thailand, a man noticed that people needed the same thing. Truck drivers on long roads. Workers on long days. So he created a drink for them, in a small glass bottle. That drink would one day become Red Bull.
 
 But how did two men, from two different worlds, turn a little bottle from Thailand into a name known everywhere? This is the story of Red Bull, from the very beginning.
+
+<figure><img src="/assets/images/red-bull/red-bull-title-drop.jpg" alt="A small Thai glass bottle on a wooden table in the foreground, a giant Red Bull can rising into a golden sky above a racetrack and a stadium"><figcaption>A little bottle from Thailand, and the world it would one day reach.</figcaption></figure>
 
 ## The Boy Who Grew Up Poor
 
 The man's name was Chaleo Yoovidhya. He grew up in a poor family in Thailand. His father was Chinese, and his mother was Thai. The family raised ducks and sold fruit to earn a living.
 
+<figure><img src="/assets/images/red-bull/red-bull-ducks.jpg" alt="Young Chaleo and his family beside a pond in rural Thailand, guiding their ducks while his father sells fruit at a small stall"><figcaption>Chaleo grew up poor. His family raised ducks and sold fruit to earn a living.</figcaption></figure>
+
 Chaleo knew what it meant to work hard for very little money. As a young man, he began selling medicine. He had no business of his own, but he was learning something important: how to find customers, and how to earn their trust.
 
+<figure><img src="/assets/images/red-bull/red-bull-medicine-seller.jpg" alt="Young Chaleo in a Thai village, offering a small medicine bottle from his worn case to an old man on a porch"><figcaption>As a young man, Chaleo sold medicine, and learned how to earn people’s trust.</figcaption></figure>
+
 In 1956, he started his own company in Bangkok, T.C. Pharmaceutical, in a small rented office with very little money. He promoted his medicines through radio, cinemas, and even advertisements on taxis, and slowly the business grew. And in the 1970s, Chaleo began looking at a different kind of customer. Not someone who was sick, but someone who was simply tired.
+
+<figure><img src="/assets/images/red-bull/red-bull-promotion.jpg" alt="Chaleo speaking into a radio microphone while people gather outside a cinema and a taxi carries his medicine bottles through Bangkok"><figcaption>He promoted his medicines through radio, cinemas, and even taxis. His small business slowly grew.</figcaption></figure>
+
+<figure><img src="/assets/images/red-bull/red-bull-first-bottle.jpg" alt="A single small amber glass bottle with two red bulls and a yellow sun on its worn label, standing alone on a wooden table in a beam of light"><figcaption>One small bottle, in a quiet beam of light. Everything in this story grows from it.</figcaption></figure>
 
 ## A Drink for Tired Workers
 
 First came an energy syrup called Theoplex-D, in a small bottle with two red animals facing each other in front of a yellow sun. The picture was easier to remember than the name. People began calling it Red Bull.
 
+<figure><img src="/assets/images/red-bull/red-bull-developing-syrup.jpg" alt="Chaleo in his small workshop, carefully pouring a dark amber syrup into small glass bottles, with shelves of medicine jars behind him"><figcaption>Beyond medicine: Chaleo develops a new energy syrup in his small Bangkok workshop.</figcaption></figure>
+
+<figure><img src="/assets/images/red-bull/red-bull-theoplex-d.jpg" alt="Chaleo in his workshop holding a small finished bottle up to the light, with rows of filled bottles and two smiling customers nearby"><figcaption>Theoplex-D. The picture on the bottle was easier to remember than the name.</figcaption></figure>
+
 In the middle of the 1970s, Chaleo brought out Krating Daeng. In Thai, the name means Red Bull, from a powerful wild animal found in Asia. It came in a small glass bottle, not a can, and it had no bubbles. Imagine a truck driver stopping for a short break. He picks up the small bottle, drinks, and continues his journey. It was a simple drink for people with long working days, and Chaleo promoted it through Muay Thai, the Thai boxing his customers loved.
 
+<figure><img src="/assets/images/red-bull/red-bull-krating-daeng.jpg" alt="Crates of small Krating Daeng bottles at a Thai market stall, with the great wild gaur appearing through golden haze behind them"><figcaption>Krating Daeng means Red Bull, named for the powerful wild gaur of Asia.</figcaption></figure>
+
+<figure><img src="/assets/images/red-bull/red-bull-undiscovered.jpg" alt="Chaleo standing beside neat crates of his bottles at a quiet shopfront while workers and drivers walk past without looking"><figcaption>Making the drink was only half the job. People still had to discover it.</figcaption></figure>
+
 Slowly, drivers and workers began to recognize the two red animals. But in Europe, most people had never heard of drinks like this. One Austrian businessman would soon see a chance to change that.
+
+<figure><img src="/assets/images/red-bull/red-bull-rest-stop.jpg" alt="Chaleo holding a small bottle of Krating Daeng at a dusty rest stop while tired truck drivers rest beside their trucks behind him"><figcaption>Drivers and workers began to recognize the two red animals on the bottle.</figcaption></figure>
+
+<figure><img src="/assets/images/red-bull/red-bull-two-worlds.jpg" alt="A warm Asian night market full of small tonic bottles on one side, and a cold European street where nobody knows them on the other, with Dietrich Mateschitz walking between the two worlds"><figcaption>In Asia, drinks like this were familiar. In Europe, almost nobody had heard of them.</figcaption></figure>
 
 ## The Austrian Who Tasted It
 
 Dietrich Mateschitz grew up in Austria, studied business, and worked in marketing. By the early 1980s, he was working for Blendax, a company known for toothpaste, and his job took him on business trips to different countries. Chaleo knew how to create a product. Dietrich knew how to bring one to customers. But he had never built a worldwide company of his own.
 
+<figure><img src="/assets/images/red-bull/red-bull-young-dietrich.jpg" alt="Young Dietrich Mateschitz in three blended moments: studying at a library desk, working among toothpaste shelves, and walking through an airport with his suitcase"><figcaption>Dietrich studied business and worked in marketing. His job took him around the world.</figcaption></figure>
+
 During his travels in Asia, Dietrich came across the region's energy drinks. He later described drinking one in Thailand when he was tired from a long flight, and he wondered: might people in Europe buy something similar? There was another connection, too. Chaleo was already a business partner of Blendax in Thailand, the same company Dietrich worked for.
 
 In 1984, the two men created Red Bull GmbH in Austria. Each invested five hundred thousand dollars. They each owned forty-nine percent of the company, and Chaleo's son received the final two percent. Dietrich left his old job, put his savings behind the project, and spent the next three years creating a different version of the drink. The old glass bottle would give way to a narrow can. The familiar red animals would stay. But almost everything around them would change.
+
+<figure><img src="/assets/images/red-bull/red-bull-agreement.jpg" alt="A painted ownership diagram on aged paper: two circles of forty-nine percent, one small circle of two percent, and two stacks of banknotes of five hundred thousand dollars"><figcaption>In 1984, each man invested five hundred thousand dollars. Forty-nine percent, forty-nine percent, and two.</figcaption></figure>
 
 ## The Drink Nobody Believed In
 
@@ -49,9 +80,13 @@ The new drink had bubbles, and came in a tall, slim can with blue and silver pan
 
 Before the launch, he tested the drink with customers. The results were terrible. People disliked the taste. They even questioned the name and the logo. Almost everything about the new drink seemed wrong to them. But Dietrich refused to give up. If there was no market for Red Bull, he would try to create one himself.
 
+<figure><img src="/assets/images/red-bull/red-bull-taste-test.jpg" alt="A slim blue and silver Red Bull can on a laboratory table while the drink is poured into a glass, with notebooks and rival cans beside it"><figcaption>The taste tests were terrible. People disliked the taste, and even questioned the name and the logo.</figcaption></figure>
+
 On April 1, 1987, Red Bull finally went on sale in Austria. In its first year, the company sold around one million cans, yet still lost around one million dollars. So Dietrich let people try the drink for themselves, instead of relying only on large advertisements: free cans at student parties and in bars, and support for young athletes and unusual sporting events. Sales grew in the second and third years, and the company slowly recovered its losses.
 
 Dietrich had not proved that everyone liked the taste of Red Bull. He had proved something more useful: enough people liked the drink, and the world around it, to buy another can.
+
+<figure><img src="/assets/images/red-bull/red-bull-first-shop.jpg" alt="A small Austrian drinks shop in April 1987, a few Red Bull cans on the counter marked as new, while the shopkeeper watches a customer walk out"><figcaption>April 1987. Red Bull goes on sale in Austria, in small shops like this one.</figcaption></figure>
 
 ## From Austria to the World
 
@@ -85,11 +120,17 @@ Chaleo Yoovidhya died in March 2012. He had begun with a small business in Bangk
 
 In Austria, Dietrich was much the same: a brand famous for daring adventures and huge crowds, built by a man who kept his own life private. In October 2022, Dietrich Mateschitz died at the age of seventy-eight. Chaleo had created the original drink in Thailand. Dietrich had taken it around the world. Now, both founders were gone. But the company they built still had a future to face.
 
+<figure><img src="/assets/images/red-bull/red-bull-two-chairs.jpg" alt="Two empty chairs on a stone terrace with a small bottle and a slim can on the table between them, Bangkok temples on one side and Austrian Alps on the other"><figcaption>Two chairs, now empty. One man from Thailand, one from Austria.</figcaption></figure>
+
 ## The Legacy Lives On
 
 After Dietrich's death, his forty-nine percent stake passed to his son, Mark Mateschitz. The Yoovidhya family remained a major owner, and in 2025 the family moved its extra two percent stake into a trust company in Switzerland, while control of the company stayed much the same. A new leadership team was introduced, and life at Red Bull continued.
 
+<figure><img src="/assets/images/red-bull/red-bull-headquarters.jpg" alt="Red Bull trucks carrying cases of cans on the road below the company’s lakeside headquarters in Fuschl, Austria, at sunrise"><figcaption>After the founders, life at Red Bull continued, from its home beside the lake in Fuschl.</figcaption></figure>
+
 In 2025, the company sold almost fourteen billion cans in 178 countries, and nearly twenty-two thousand people worked for Red Bull. And in 2026, working with Ford, Red Bull Powertrains began supplying engines for its own racing teams. Years earlier, Red Bull had started by sponsoring a single racing driver. Now it was helping build the engines inside its cars.
+
+<figure><img src="/assets/images/red-bull/red-bull-today.jpg" alt="A modern Red Bull office team at work, a delivery man wheeling stacked cases of cans, and a Formula One car on the track, blended into one image"><figcaption>Today the drink sits inside a much bigger world: offices, deliveries, and its own Formula One engines.</figcaption></figure>
 
 <div class="lessons" markdown="1">
 ## What This Story Teaches Us
@@ -103,6 +144,10 @@ In 2025, the company sold almost fourteen billion cans in 178 countries, and nea
 
 The drink has changed. The company has changed. And the two men who built it are no longer here. But look at a can of Red Bull today. Those two red animals are still there, facing each other in front of the sun. They first appeared on a small glass bottle in Thailand, on a drink made for people who were tired and still had far to go.
 
-Maybe somewhere in your life, there is a small bottle like that too. Something simple you made for the people near you, something the world has not noticed yet. Chaleo's bottle waited years for its second man, the one who would carry it across the world. Small things do not stay small forever. Sometimes they only need time, and someone who believes in them.
+Maybe somewhere in your life, there is a small bottle like that too. Something simple you made for the people near you, something the world has not noticed yet.
+
+<figure><img src="/assets/images/red-bull/red-bull-two-founders.jpg" alt="Chaleo and Dietrich standing side by side in golden light, looking over a panorama that joins Bangkok temples, a racetrack and a modern city, with the small bottle on the table before them"><figcaption>Two quiet men, and the small bottle that outlived them both.</figcaption></figure>
+
+<figure><img src="/assets/images/red-bull/red-bull-can-and-bottle.jpg" alt="A hand holding a cold slim Red Bull can in the foreground, with the small original Thai glass bottle standing on a market stall behind it"><figcaption>The can the world knows today, and the little glass bottle where it all began.</figcaption></figure> Chaleo's bottle waited years for its second man, the one who would carry it across the world. Small things do not stay small forever. Sometimes they only need time, and someone who believes in them.
 
 And it all began with that little glass bottle. And now, my friend, tell me: what small thing are you building today, that nobody believes in yet?
