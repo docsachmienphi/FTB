@@ -12,6 +12,19 @@ cover_fate: "The drink nobody believed in"
 cover_class: "c-default"
 cover_thumb: /assets/images/red-bull/red-bull-thumbnail.jpg
 image: /assets/images/red-bull/red-bull-title-drop.jpg
+sources:
+  - title: "TCP Group — the history of Chaleo Yoovidhya's company"
+    url: "https://tcp.com/en/about-tcp/company-history"
+  - title: "Forbes — The Soda With Buzz, an early profile of Red Bull (2005)"
+    url: "https://www.forbes.com/forbes/2005/0328/126.html"
+  - title: "Red Bull — official company profile and figures"
+    url: "https://www.redbull.com/ca-en/energydrink/company-profile"
+  - title: "Harvard Digital Initiative — how Red Bull grew through grassroots marketing"
+    url: "https://d3.harvard.edu/platform-digit/submission/red-bull-soaring-into-pop-culture/"
+  - title: "Formula 1 — Red Bull Racing, year by year"
+    url: "https://www.formula1.com/en/information/red-bull-racing-year-by-year.5gsBMoMf3DhOSBOJ8Cx8Bi"
+  - title: "Smithsonian Air and Space Museum — ten years since the Red Bull Stratos jump"
+    url: "https://airandspace.si.edu/stories/editorial/decade-since-red-bull-stratos"
 redirect_from:
   - "/stories/entire-history-of-red-bull/"
 ---

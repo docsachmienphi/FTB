@@ -32,6 +32,15 @@ layout: default
   <h2>Watch the Full Story</h2>
   <p>Enjoyed this story? Watch the full video and more stories of how things began on <a href="{{ site.youtube_channel }}">From The Beginning</a>. The stories are told slowly, in simple and clear English.</p>
 
+  {% if page.sources %}
+  <section class="sources">
+    <h2>Sources &amp; Further Reading</h2>
+    <p>We told this story using the sources below. If you would like to read more, these are good places to begin.</p>
+    <ul>
+    {% for s in page.sources %}<li><a href="{{ s.url }}" target="_blank" rel="noopener">{{ s.title }}</a></li>{% endfor %}
+    </ul>
+  </section>
+  {% endif %}
   {% assign my_cluster = "" %}
   {% for pair in site.data.clusters %}{% if pair[1] contains page.slug %}{% assign my_cluster = pair[0] %}{% endif %}{% endfor %}
   {% assign rel = "" | split: "" %}
