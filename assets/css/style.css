@@ -32,6 +32,32 @@ h1{line-height:1.22;font-family:'Playfair Display',Georgia,serif}h2{margin-top:3
 .timeline .dot{text-align:center;flex:1;position:relative;color:#CBB586;font-size:.8rem}
 .timeline .dot::before{content:"";display:block;width:11px;height:11px;border-radius:50%;background:var(--gold2);margin:0 auto 7px;box-shadow:0 0 0 4px rgba(217,164,65,.18)}
 .timeline .dot:not(:last-child)::after{content:"";position:absolute;top:5px;left:calc(50% + 10px);right:calc(-50% + 10px);height:2px;background:linear-gradient(90deg,rgba(217,164,65,.7),rgba(217,164,65,.25))}
+/* Hero effects - same language as the article video facade + glance timeline */
+.btn{position:relative;overflow:hidden;transition:transform .25s ease,box-shadow .25s ease,color .25s ease,border-color .25s ease}
+.btn-yt{display:inline-flex;align-items:center;gap:10px}
+.btn-yt .yt-icw{position:relative;display:inline-flex;flex:none;z-index:1}
+.btn-yt .yt-icw svg{display:block;filter:drop-shadow(0 2px 5px rgba(0,0,0,.35));transition:transform .25s ease}
+.btn-yt .yt-icw::after{content:"";position:absolute;inset:-6px;border-radius:50%;border:2px solid rgba(255,70,45,.55);animation:gpulse 2.6s ease-out infinite;pointer-events:none}
+.btn-yt::before{content:"";position:absolute;top:0;left:-70%;width:45%;height:100%;background:linear-gradient(100deg,transparent,rgba(255,255,255,.55),transparent);transform:skewX(-18deg);transition:left .6s ease;pointer-events:none}
+.btn-yt:hover{transform:translateY(-2px);box-shadow:0 12px 26px rgba(217,164,65,.45)}
+.btn-yt:hover::before{left:118%}
+.btn-yt:hover .yt-icw svg{transform:scale(1.14)}
+.btn-read{z-index:0}
+.btn-read::before{content:"";position:absolute;inset:0;background:linear-gradient(180deg,var(--gold2),var(--gold));z-index:-1;transform:scaleX(0);transform-origin:left center;transition:transform .38s ease;pointer-events:none}
+.btn-read:hover{color:#1D150C;border-color:var(--gold2);transform:translateY(-2px);box-shadow:0 12px 26px rgba(217,164,65,.35)}
+.btn-read:hover::before{transform:scaleX(1)}
+.btn-read .arr{display:inline-block;transition:transform .3s ease}
+.btn-read:hover .arr{transform:translateX(5px)}
+.timeline{position:relative}
+.timeline::after{content:"";position:absolute;top:6px;left:-40%;width:35%;height:3px;border-radius:2px;background:linear-gradient(90deg,transparent,rgba(255,246,220,.9),transparent);animation:gshine 3.4s ease-in-out infinite;pointer-events:none;z-index:2}
+.timeline .dot{animation:gup .8s cubic-bezier(.2,.7,.3,1) both}
+.timeline .dot:nth-child(2){animation-delay:.1s}.timeline .dot:nth-child(3){animation-delay:.2s}.timeline .dot:nth-child(4){animation-delay:.3s}.timeline .dot:nth-child(5){animation-delay:.4s}.timeline .dot:nth-child(6){animation-delay:.5s}
+.timeline .dot::before{width:15px;height:15px;position:relative;z-index:1;background:radial-gradient(circle at 32% 30%,#F7DE9C,#D9A441 55%,#A96F14);animation:hhalo 2.8s ease-out infinite;transition:transform .25s ease}
+.timeline .dot:nth-child(2)::before{animation-delay:.45s}.timeline .dot:nth-child(3)::before{animation-delay:.9s}.timeline .dot:nth-child(4)::before{animation-delay:1.35s}.timeline .dot:nth-child(5)::before{animation-delay:1.8s}.timeline .dot:nth-child(6)::before{animation-delay:2.25s}
+.timeline .dot:hover::before{transform:scale(1.3)}
+.timeline .dot:not(:last-child)::after{top:7px}
+@keyframes hhalo{0%{box-shadow:0 2px 6px rgba(0,0,0,.4),inset 0 -2px 3px rgba(90,60,5,.45),0 0 0 3px rgba(217,164,65,.5)}70%{box-shadow:0 2px 6px rgba(0,0,0,.4),inset 0 -2px 3px rgba(90,60,5,.45),0 0 0 11px rgba(217,164,65,0)}100%{box-shadow:0 2px 6px rgba(0,0,0,.4),inset 0 -2px 3px rgba(90,60,5,.45),0 0 0 3px rgba(217,164,65,0)}}
+@media (prefers-reduced-motion: reduce){.timeline .dot,.timeline .dot::before,.timeline::after,.btn-yt .yt-icw::after{animation:none}}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:20px;margin:20px 0}
 .story{background:var(--card);border:1px solid var(--line);border-radius:16px;overflow:hidden;box-shadow:0 6px 22px rgba(60,42,10,.07);cursor:pointer;transition:transform .18s,box-shadow .18s}
 .story:hover{transform:translateY(-4px);box-shadow:0 14px 30px rgba(60,42,10,.13)}
