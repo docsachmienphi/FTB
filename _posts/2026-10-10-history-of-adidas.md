@@ -63,7 +63,8 @@ glance:
       alt: "Two old players shaking hands and laughing at the peace match"
     - year: "Today"
       text: "The three stripes are known around the world"
-      icon: "globe"
+      sticker: "/assets/images/adidas/stickers/world-shoe.webp"
+      alt: "A giant three-stripe shoe stepping from the stadium to the street"
 words:
   - word: "laundry"
     def: "a place where clothes are washed. Adi Dassler's mother ran a small laundry, and her laundry room became his first workshop."

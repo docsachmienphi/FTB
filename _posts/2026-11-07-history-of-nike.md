@@ -66,7 +66,8 @@ glance:
       alt: "A boy tying the laces of his red and white Air Jordan shoes"
     - year: "Today"
       text: "The Swoosh is known in almost every country"
-      icon: "globe"
+      sticker: "/assets/images/nike/stickers/runner.webp"
+      alt: "An 80-year-old runner still running in his Nikes by the sea"
 words:
   - word: "sole"
     def: "the bottom part of a shoe, the part that touches the ground. Bowerman spent years changing soles to make running easier."
