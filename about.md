@@ -13,7 +13,7 @@ Every famous company you know was once nothing. No big office. No famous name. J
 
 <figure class="host-photo"><img src="/assets/images/joseph.jpg" alt="Joseph, the host of From The Beginning, sitting at his podcast desk"><figcaption>Joseph - your host and storyteller</figcaption></figure>
 
-**From The Beginning** is a YouTube channel that goes back to that small place. We tell the story of how companies were built, from the very first day: the first product, the first failure, the first small win, and the moment everything changed.
+**From The Beginning** is a YouTube channel that goes back to that small place. We tell the stories of how companies were built, and of the people who built them, from the very first day: the first product, the first failure, the first small win, and the moment everything changed.
 
 ## Why beginnings?
 
@@ -33,7 +33,11 @@ And if you are learning English, you are very welcome here. Our stories use easy
 
 ## The stories you will find
 
-We follow the brands you see every day, back to their first days: Coca-Cola and Pepsi, Nike and Adidas, Toyota, Honda, Amazon, Starbucks, McDonald's, and many more. We also tell the stories of the people behind them, and of the inventions that quietly changed the world.
+Our stories come in three kinds - companies, people, and inventions - and they often belong together.
+
+- **Companies** - Coca-Cola, Nike, Adidas, Amazon, Toyota, Walmart, Tesla, Nvidia, Apple, and many more: the brands you see every day, followed back to their very first days.
+- **People** - the founders and dreamers behind the brands, like Elon Musk, Jensen Huang, and Steve Jobs. Behind every beginning, there is a person - and one person's story often leads to the companies they built. We are telling more and more of these.
+- **Inventions** - the ideas that quietly changed the world, and the hands that made them real.
 
 New stories are being prepared all the time - from Puma and Heinz to YouTube, TikTok, and eBay. Every story starts in the same place: the beginning.
 
