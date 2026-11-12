@@ -59,7 +59,8 @@ glance:
       icon: "can"
     - year: "Today"
       text: "Sold in almost every country on Earth"
-      icon: "globe"
+      sticker: "/assets/images/coca/stickers/bottle-today.webp"
+      alt: "The famous Coca-Cola bottle, still recognised everywhere today"
 words:
   - word: "pharmacist"
     def: "a person who makes and sells medicines. John Pemberton was a pharmacist in Atlanta, and his drink began as a kind of medicine."
