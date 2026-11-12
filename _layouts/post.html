@@ -3,6 +3,31 @@ layout: default
 ---
 <article class="post">
   <h1>{{ page.title }}</h1>
+  {% if page.glance %}
+  <section class="glance">
+    <div class="glance-orb o1"></div><div class="glance-orb o2"></div>
+    <h2>At a Glance</h2>
+    <div class="glance-rule"></div>
+    <div class="g-facts">
+    {% for f in page.glance.facts %}<p><span class="g-lab">{{ f.label }}</span><br>{{ f.text }}</p>{% endfor %}
+    </div>
+    <svg width="0" height="0" style="position:absolute"><defs>
+    <symbol id="ic-plane" viewBox="0 0 48 48"><path d="M6 27 L40 12 Q44 10 43 14 Q42 18 37 21 L24 29 L28 38 L23 39 L19 31 L12 34 L13 29 Z" fill="#C98F27"/><circle cx="35" cy="17" r="1.8" fill="#FFF3D6"/><path d="M8 38 Q14 35 20 38" stroke="#7FB2E5" stroke-width="2.4" fill="none" stroke-linecap="round"/><path d="M24 41 Q30 38 36 41" stroke="#7FB2E5" stroke-width="2.4" fill="none" stroke-linecap="round"/></symbol>
+    <symbol id="ic-globe" viewBox="0 0 48 48"><circle cx="24" cy="25" r="14" fill="#7FB2E5"/><path d="M14 20 Q20 14 26 19 Q21 23 15 23 Z M26 31 Q33 28 36 33 Q30 37 25 34 Z M16 31 Q19 36 24 36 Q19 39 15 35 Z" fill="#57A773"/><ellipse cx="24" cy="25" rx="20" ry="6.5" fill="none" stroke="#D9A441" stroke-width="2" transform="rotate(-16 24 25)"/><circle cx="41" cy="17" r="2.4" fill="#D43A2F"/></symbol>
+    </defs></svg>
+    <div class="gtl">
+    {% for m in page.glance.timeline %}
+    <div class="gtl-ms">
+      <div class="gtl-zone">{% if m.sticker %}<img class="gtl-img" src="{{ m.sticker }}" alt="{{ m.alt }}" loading="lazy">{% elsif m.icon %}<span class="gtl-stk"><svg class="gtl-ic"><use href="#ic-{{ m.icon }}"/></svg></span>{% endif %}</div>
+      {% unless forloop.last %}<span class="gtl-line"></span>{% endunless %}
+      <div class="gtl-txt"><span class="gtl-dot"></span>
+      <div class="gtl-yr">{{ m.year }}</div>
+      <div class="gtl-ev">{{ m.text }}</div></div>
+    </div>
+    {% endfor %}
+    </div>
+  </section>
+  {% endif %}
   {% if page.youtube_id %}
   <div class="video-wrap yt-facade" data-yt="{{ page.youtube_id }}" role="button" tabindex="0" aria-label="Play the video">
     <img src="https://i.ytimg.com/vi/{{ page.youtube_id }}/maxresdefault.jpg" alt="{{ page.title }}" loading="lazy">
@@ -28,10 +53,28 @@ layout: default
   <p class="watch-cta"><a class="btn" href="https://www.youtube.com/watch?v={{ page.youtube_id }}" target="_blank" rel="noopener">Watch on YouTube</a></p>
   {% endif %}
   {{ content }}
+  {% if page.words %}
+  <section class="words">
+    <h2>Words to Know</h2>
+    <ul>
+    {% for w in page.words %}<li><strong>{{ w.word }}</strong> — {{ w.def }}</li>{% endfor %}
+    </ul>
+  </section>
+  {% endif %}
   <hr>
   <h2>Watch the Full Story</h2>
   <p>Enjoyed this story? Watch the full video and more stories of how things began on <a href="{{ site.youtube_channel }}">From The Beginning</a>. The stories are told slowly, in simple and clear English.</p>
 
+  {% if page.faq %}
+  <section class="faq">
+    <h2>Questions People Ask</h2>
+    {% for item in page.faq %}<h3>{{ item.q }}</h3>
+    <p>{{ item.a }}</p>{% endfor %}
+  </section>
+  <script type="application/ld+json">
+  {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{% for item in page.faq %}{"@type":"Question","name":{{ item.q | jsonify }},"acceptedAnswer":{"@type":"Answer","text":{{ item.a | jsonify }}}}{% unless forloop.last %},{% endunless %}{% endfor %}]}
+  </script>
+  {% endif %}
   {% if page.sources %}
   <section class="sources">
     <h2>Sources &amp; Further Reading</h2>
