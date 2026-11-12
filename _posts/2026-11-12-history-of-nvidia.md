@@ -2,7 +2,7 @@
 layout: post
 title: "The ENTIRE History of NVIDIA: The Company That Had to Begin Again"
 description: "Founded at a Denny's table in 1993, NVIDIA almost died with its first chip. Then it bet on AI before anyone believed, and in 2026 its founder walked away."
-date: 2026-11-13
+date: 2026-11-12
 categories: [Company-History, Founder-Stories]
 tags: [NVIDIA, Jensen-Huang]
 cover_brand: "NVIDIA"
