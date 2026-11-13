@@ -97,7 +97,7 @@ What would you do if you had to start a new life in a new country? That is how t
 
 He was sent to America, a country where everything felt new and unfamiliar. Life was not easy for the young immigrant. He cleaned bathrooms at school, and later he washed dishes at a restaurant. He was simply trying to find his place in a new world. He had no idea that, years later, that same boy would help build NVIDIA into one of the most valuable companies on Earth.
 
-<figure><img src="/assets/images/jensen/jensen-three-eras.jpg" alt="Three moments blended into one image: a teenage Jensen washing dishes at Denny's, the three founders planning NVIDIA at a restaurant booth, and Jensen today above a glowing circuit city"><figcaption>A boy who washed dishes. Three men at a restaurant table. And the company that came from both.</figcaption></figure>
+<figure><img src="/assets/images/jensen/jensen-farewell.jpg" alt="A mother and father saying goodbye to their two young sons on a street, with worn suitcases at the boys' feet"><figcaption>The hardest goodbye: two parents send their sons across the ocean, hoping to follow one day.</figcaption></figure>
 
 ## A Boy Far From Home
 
@@ -107,11 +107,13 @@ Jensen Huang was born in Taiwan in 1963. When he was young, his family moved to 
 
 The brothers first stayed with relatives in Washington state.
 
-<figure><img src="/assets/images/jensen/jensen-airport-arrival.jpg" alt="Two young brothers with suitcases standing small in a bright American airport hall in 1972, surrounded by adult travellers"><figcaption>Two brothers arrive in America with their suitcases — a new country, a new language, a new life.</figcaption></figure> But they soon found themselves at Oneida Baptist Institute, a school in rural Kentucky. Their parents were far away. Everything around the boys was new — the language, the people, the rules of school life.
+<figure><img src="/assets/images/jensen/jensen-airport-arrival.jpg" alt="Two young brothers standing small with their suitcases in a bright American airport hall in 1972, with a close view of young Jensen's face looking at the new country"><figcaption>Two brothers arrive in America with their suitcases — a new country, a new language, a new life.</figcaption></figure> But they soon found themselves at Oneida Baptist Institute, a school in rural Kentucky. Their parents were far away. Everything around the boys was new — the language, the people, the rules of school life.
 
 Jensen was among the youngest children there. He shared a room with a boy of about seventeen, and something unusual grew between them: Jensen helped the older boy learn to read, and in return, the boy taught him how to lift weights.
 
-<figure><img src="/assets/images/jensen/jensen-teach-and-lift.jpg" alt="Two blended scenes in one dormitory: young Jensen guiding his roommate's finger along a line of a book, and the older boy spotting Jensen as he lifts a barbell"><figcaption>At school in Kentucky, Jensen taught an older boy to read — and the boy taught him to lift weights.</figcaption></figure> Two children, very different in age, found a way to help each other. Jensen also had work to do. He cleaned the bathrooms in the boys' dormitory. Life there was not easy for a child so far from home — but years later, he remembered not only the difficult moments. He remembered the people he met, and the things he learned.
+<figure><img src="/assets/images/jensen/jensen-teach-and-lift.jpg" alt="Two blended scenes in one dormitory: young Jensen guiding his roommate's finger along a line of a book, and the older boy spotting Jensen as he lifts a barbell"><figcaption>At school in Kentucky, Jensen taught an older boy to read — and the boy taught him to lift weights.</figcaption></figure> Two children, very different in age, found a way to help each other. Jensen also had work to do. He cleaned the bathrooms in the boys' dormitory.
+
+<figure><img src="/assets/images/jensen/jensen-first-jobs.jpg" alt="Two blended moments of work: a young Jensen scrubbing the dormitory floor on his knees at school, and the teenage Jensen washing dishes at a restaurant sink"><figcaption>Work that nobody noticed: scrubbing floors at school in Kentucky — and, a few years later, washing dishes at Denny's.</figcaption></figure> Life there was not easy for a child so far from home — but years later, he remembered not only the difficult moments. He remembered the people he met, and the things he learned.
 
 <figure><img src="/assets/images/jensen/jensen-hilltop.jpg" alt="A young boy standing alone on a grassy hill at dawn, looking over a sea of golden fog covering the Kentucky hills"><figcaption>Far from his parents, the young Jensen learned to carry on alone.</figcaption></figure>
 
@@ -119,9 +121,11 @@ Jensen was among the youngest children there. He shared a room with a boy of abo
 
 After some time, the family came together again in Oregon. Jensen made friends, enjoyed mathematics and electronics, played arcade games, and became a strong junior table-tennis player. As a teenager, he got a job at Denny's, an American restaurant. He started by washing dishes, and later he cleared tables.
 
+<figure><img src="/assets/images/jensen/jensen-walk-to-school.jpg" alt="A teenage Jensen walking at dusk from a small roadside restaurant toward a school building glowing on a hill"><figcaption>Between the restaurant and school: the young Jensen walks home through the Oregon dusk.</figcaption></figure>
+
 It was busy work, and much of it went unnoticed. But Jensen took it seriously. He planned his movements around the restaurant so he would work faster and never waste time walking back and forth. Even a simple job, he learned, could be done with care.
 
-<figure><img src="/assets/images/jensen/jensen-dennys-dishes.jpg" alt="Teenage Jensen in an apron carrying a tall stack of plates through the steaming kitchen of a Denny's restaurant"><figcaption>At Denny's, Jensen washed dishes — and planned every step so he would never waste a moment.</figcaption></figure> Years later, when people asked him about success, he still remembered those long hours at the sink.
+<figure><img src="/assets/images/jensen/jensen-dennys-dishes.jpg" alt="Teenage Jensen in an apron washing dishes at a steaming Denny's kitchen sink, with stacks of clean plates beside him"><figcaption>At Denny's, Jensen washed dishes — and planned every step so he would never waste a moment.</figcaption></figure> Years later, when people asked him about success, he still remembered those long hours at the sink.
 
 ## The Girl in the Engineering Lab
 
