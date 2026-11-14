@@ -63,7 +63,7 @@ image: /assets/images/jensen/jensen-title-drop.jpg
 
 <div class="tl-item"><span class="tl-dot"></span><div class="tl-card"><img class="tl-sticker" src="/assets/images/jensen/stickers/cuda.webp" alt="The glowing names NVIDIA and CUDA on a great dark screen" loading="lazy"><div class="tl-year">2006<span class="tl-age">Age 43</span></div><p>CUDA arrives. Graphics chips can now carry scientific computing too — planting the seed of the AI revolution.</p></div></div>
 
-<div class="tl-item"><span class="tl-dot"></span><div class="tl-card"><img class="tl-sticker" src="/assets/images/jensen/stickers/researchers.webp" alt="University researchers celebrating around a screen as AlexNet learns to see" loading="lazy"><div class="tl-year">2012<span class="tl-age">Age 49</span></div><p>AlexNet wins a breakthrough in deep learning, powered by NVIDIA GPUs. The bet Jensen held for years begins to show its value.</p></div></div>
+<div class="tl-item"><span class="tl-dot"></span><div class="tl-card"><img class="tl-img" src="/assets/images/jensen/jensen-tl-alexnet.jpg" alt="The AlexNet neural network at work — a picture passes through layer after layer until the machine can say what it sees" loading="lazy"><div class="tl-year">2012<span class="tl-age">Age 49</span></div><p>AlexNet wins a breakthrough in deep learning, powered by NVIDIA GPUs. The bet Jensen held for years begins to show its value.</p></div></div>
 
 <div class="tl-item"><span class="tl-dot"></span><div class="tl-card"><img class="tl-img" src="/assets/images/jensen/jensen-tl-dgx1-machine.jpg" alt="The DGX-1 supercomputer itself — a flat silver machine with the green NVIDIA eye" loading="lazy"><div class="tl-year">2016<span class="tl-age">Age 53</span></div><p>Jensen personally delivers the DGX-1 supercomputer to OpenAI, and NVIDIA keeps investing in AI infrastructure.</p></div></div>
 
@@ -137,4 +137,4 @@ document.querySelectorAll('.yt-facade').forEach(function(el){
 
 <p class="watch-cta"><a class="btn" href="https://www.youtube.com/watch?v=nXrJUFqDcDQ" target="_blank" rel="noopener">Watch on YouTube</a></p>
 
-<p style="font-size:.8rem;color:#8a7a5f;margin-top:2rem">Photo credits: the RIVA 128 chip — Raimond Spekking, CC BY-SA 4.0, and the chip-factory cleanroom — NASA Glenn Research Center (public domain), both via Wikimedia Commons. Every other illustration comes from the story itself.</p>
+<p style="font-size:.8rem;color:#8a7a5f;margin-top:2rem">Photo credits: the RIVA 128 chip — Raimond Spekking, CC BY-SA 4.0, and the chip-factory cleanroom — NASA Glenn Research Center (public domain), both via Wikimedia Commons; the AlexNet network illustration — via the 1AI blog. Every other illustration comes from the story itself.</p>
