@@ -19,6 +19,8 @@ sources:
     url: "https://corporate.walmart.com/about/history"
   - title: "Walmart — the official page about Sam Walton"
     url: "https://corporate.walmart.com/about/sam-walton"
+  - title: "Walmart — the Walmart Museum, in Sam Walton's original Walton's 5&10 store"
+    url: "https://corporate.walmart.com/about/walmart-museum/plan-your-visit"
   - title: "Walmart World — a second chance for Walmart in Newport"
     url: "https://www.walmartworld.com/content/walmart-world/en_us/articles/2022/07/a-second-chance-for-walmart-in-newport.html"
   - title: "Walmart — fiscal 2026 earnings release (SEC filing)"
@@ -130,6 +132,8 @@ Then came the problem he could not solve. Sam did not own the building. He was o
 ## Starting Again in Bentonville
 
 In 1950, Sam and Helen moved to Bentonville, Arkansas, and Sam opened a variety store called Walton's 5&10 on the town square. He did not arrive empty-handed. Newport had given him years of practice, and he kept visiting other stores, studying their ideas, and hunting for better prices.
+
+That little store is still standing today. It is the Walmart Museum now — and people still walk through its doors, free, to stand where Sam stood.
 
 <figure><img src="/assets/images/walmart/walmart-5and10.jpg" alt="Walton's 5&10 store on the town square of Bentonville, seen from across the street, with Sam Walton unlocking the door"><figcaption>Walton's 5&10 on the Bentonville square: a very small store in a very quiet town.</figcaption></figure>
 
