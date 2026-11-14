@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Jensen Huang Timeline: 63 Years in 18 Moments"
+title: "63 Years of Jensen Huang"
 description: "Jensen Huang's life, year by year — from the boy sent across the ocean at nine to the man who bet on AI before the world believed. Plus: his shock resignation in 2026, who might replace him at NVIDIA, and the petition — signed by Elon Musk — to bring him back."
 date: 2026-11-14
 categories: [Founder-Stories]
@@ -13,9 +13,9 @@ cover_thumb: /assets/images/jensen/jensen-title-drop.jpg
 image: /assets/images/jensen/jensen-title-drop.jpg
 ---
 
-This page is the companion to our story of Jensen Huang. Scroll down and walk through his life, year by year — from a small boy looking out of a window in Taiwan, to the man who waited decades for his idea's time to come.
+Jensen Huang has stepped down as the CEO of NVIDIA — and the world cannot stop talking about him. Elon Musk is signing a petition to bring him back. Everybody is asking who could possibly replace him.
 
-Every moment below carries an illustration from the story. And at the end of the timeline, we come to the question the whole world is asking now: after his shock resignation in 2026, who could ever replace him? For the full story, read [the complete article](/stories/history-of-jensen-huang/) — the video is waiting at the bottom of this page.
+But before that question, there is a life. Scroll down and walk through it, year by year: the boy sent across the ocean at nine, the teenager who cleaned bathrooms and washed dishes, the founder who waited thirty years for his idea's time to come. Every moment carries an illustration from his story — and at the end of the timeline, we return to the question of today, and the petition that wants him back. For the full story, read [the complete article](/stories/history-of-jensen-huang/) — the video is waiting at the bottom of this page.
 
 <style>
 .ftb-tl{position:relative;max-width:880px;margin:2.2rem auto 1rem;padding:6px 0 10px}
