@@ -44,7 +44,7 @@ glance:
     - label: "First jobs"
       text: "Cleaning school bathrooms, then washing dishes at a Denny's restaurant"
     - label: "Known for"
-      text: "Co-founding NVIDIA in 1993 and leading it ever since"
+      text: "Co-founding NVIDIA in 1993 and leading it for 33 years"
     - label: "The big bet"
       text: "CUDA — his belief that graphics chips could one day power science and AI"
   timeline:
