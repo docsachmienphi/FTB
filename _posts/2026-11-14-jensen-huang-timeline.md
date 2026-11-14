@@ -13,10 +13,6 @@ cover_thumb: /assets/images/jensen/jensen-title-drop.jpg
 image: /assets/images/jensen/jensen-title-drop.jpg
 ---
 
-Jensen Huang has stepped down as the CEO of NVIDIA — and the world cannot stop talking about him. Elon Musk is signing a petition to bring him back. Everybody is asking who could possibly replace him.
-
-But before that question, there is a life. Scroll down and walk through it, year by year: the boy sent across the ocean at nine, the teenager who cleaned bathrooms and washed dishes, the founder who waited thirty years for his idea's time to come. Every moment carries an illustration from his story — and at the end of the timeline, we return to the question of today, and the petition that wants him back. For the full story, read [the complete article](/stories/history-of-jensen-huang/) — the video is waiting at the bottom of this page.
-
 <style>
 .ftb-tl{position:relative;max-width:880px;margin:2.2rem auto 1rem;padding:6px 0 10px}
 .ftb-tl::before{content:"";position:absolute;top:0;bottom:0;left:50%;width:3px;margin-left:-1.5px;background:#e3d3ac;border-radius:2px}
