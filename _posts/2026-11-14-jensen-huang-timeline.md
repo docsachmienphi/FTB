@@ -44,11 +44,11 @@ image: /assets/images/jensen/jensen-title-drop.jpg
 
 <div class="tl-item"><span class="tl-dot"></span><div class="tl-card"><img class="tl-sticker" src="/assets/images/jensen/stickers/tl-scrub.webp" alt="The young Jensen on his knees, scrubbing the floor of the school dormitory" loading="lazy"><div class="tl-year">1973<span class="tl-age">Age 10</span></div><p>Bullied at the boarding school, and put in charge of cleaning the bathrooms. Nobody imagines this boy will become a giant of world technology.</p></div></div>
 
-<div class="tl-item"><span class="tl-dot"></span><div class="tl-card"><img class="tl-sticker" src="/assets/images/jensen/stickers/tl-walk.webp" alt="The teenage Jensen walking along a road at dusk, on his way home" loading="lazy"><div class="tl-year">1979<span class="tl-age">Age 16</span></div><p>Graduates from high school in America — and as a teenager, he is one of the country's top junior table tennis players.</p></div></div>
+<div class="tl-item"><span class="tl-dot"></span><div class="tl-card"><img class="tl-sticker" src="/assets/images/jensen/stickers/tl-bat.webp" alt="A table tennis bat — as a teenager, Jensen was one of the best young players in America" loading="lazy"><div class="tl-year">1979<span class="tl-age">Age 16</span></div><p>Graduates from high school in America — and as a teenager, he is one of the country's top junior table tennis players.</p></div></div>
 
 <div class="tl-item"><span class="tl-dot"></span><div class="tl-card"><img class="tl-sticker" src="/assets/images/jensen/stickers/tl-campus.webp" alt="The young Jensen carrying books across the Oregon State University campus" loading="lazy"><div class="tl-year">1984<span class="tl-age">Age 21</span></div><p>Graduates from Oregon State University in electrical engineering, then starts work at AMD.</p></div></div>
 
-<div class="tl-item"><span class="tl-dot"></span><div class="tl-card"><img class="tl-sticker" src="/assets/images/jensen/stickers/tl-cardbox.webp" alt="A personal computer of the 1980s, from the years Jensen spent designing chips" loading="lazy"><div class="tl-year">1985<span class="tl-age">Age 22</span></div><p>Joins LSI Logic, and begins years of deep experience in chip design and the semiconductor industry.</p></div></div>
+<div class="tl-item"><span class="tl-dot"></span><div class="tl-card"><img class="tl-sticker" src="/assets/images/jensen/stickers/tl-dip.webp" alt="A ceramic computer chip with gold pins, of the kind engineers worked with in the 1980s" loading="lazy"><div class="tl-year">1985<span class="tl-age">Age 22</span></div><p>Joins LSI Logic, and begins years of deep experience in chip design and the semiconductor industry.</p></div></div>
 
 <div class="tl-item"><span class="tl-dot"></span><div class="tl-card"><img class="tl-sticker" src="/assets/images/jensen/stickers/tl-stanford.webp" alt="Jensen studying in an evening class at Stanford University" loading="lazy"><div class="tl-year">1992<span class="tl-age">Age 29</span></div><p>Earns a master's degree in electrical engineering from Stanford University.</p></div></div>
 
@@ -56,7 +56,7 @@ image: /assets/images/jensen/jensen-title-drop.jpg
 
 <div class="tl-item"><span class="tl-dot"></span><div class="tl-card"><img class="tl-sticker" src="/assets/images/jensen/stickers/tl-nv1.webp" alt="Jensen holding up the green NV1 circuit board, NVIDIA's first product" loading="lazy"><div class="tl-year">1995<span class="tl-age">Age 32</span></div><p>NVIDIA's first product, the NV1, fails in the market. The young company faces a fight for survival.</p></div></div>
 
-<div class="tl-item"><span class="tl-dot"></span><div class="tl-card"><img class="tl-sticker" src="/assets/images/jensen/stickers/chip.webp" alt="A pair of graphics cards, like the RIVA 128 that saved NVIDIA" loading="lazy"><div class="tl-year">1997<span class="tl-age">Age 34</span></div><p>The RIVA 128 graphics card succeeds. NVIDIA finally stands on solid ground.</p></div></div>
+<div class="tl-item"><span class="tl-dot"></span><div class="tl-card"><img class="tl-sticker" src="/assets/images/jensen/stickers/chip.webp" alt="The real RIVA 128 chip of 1997 — its name etched into the black package" loading="lazy"><div class="tl-year">1997<span class="tl-age">Age 34</span></div><p>The RIVA 128 graphics card succeeds. NVIDIA finally stands on solid ground.</p></div></div>
 
 <div class="tl-item"><span class="tl-dot"></span><div class="tl-card"><img class="tl-sticker" src="/assets/images/jensen/stickers/tl-geforce.webp" alt="A hand holding up the GeForce 256 graphics card in 1999" loading="lazy"><div class="tl-year">1999<span class="tl-age">Age 36</span></div><p>NVIDIA goes public and launches the GeForce 256. The GPU era officially begins.</p></div></div>
 
@@ -135,3 +135,5 @@ document.querySelectorAll('.yt-facade').forEach(function(el){
 </script>
 
 <p class="watch-cta"><a class="btn" href="https://www.youtube.com/watch?v=nXrJUFqDcDQ" target="_blank" rel="noopener">Watch on YouTube</a></p>
+
+<p style="font-size:.8rem;color:#8a7a5f;margin-top:2rem">Photo credits: the RIVA 128 chip (1997) — Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons; the ceramic chip (1985) — ZyMOS, CC BY-SA / GFDL, via Wikimedia Commons; the table tennis bat (1979) — PJ &amp; Piko, CC BY-SA / GFDL, via Wikimedia Commons. Every other illustration comes from the story itself.</p>
