@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "The Jensen Huang Timeline: 63 Years in 18 Moments"
-description: "Jensen Huang's life, year by year — from the boy sent across the ocean at nine to the man who bet on AI before the world believed. A visual timeline, with an illustration for every moment."
+description: "Jensen Huang's life, year by year — from the boy sent across the ocean at nine to the man who bet on AI before the world believed. Plus: his shock resignation in 2026, who might replace him at NVIDIA, and the petition — signed by Elon Musk — to bring him back."
 date: 2026-11-14
-youtube_id: "nXrJUFqDcDQ"
 categories: [Founder-Stories]
 tags: [Jensen-Huang, NVIDIA]
 cover_brand: "JENSEN HUANG"
@@ -12,36 +11,11 @@ cover_fate: "His life, milestone by milestone"
 cover_class: "c-default"
 cover_thumb: /assets/images/jensen/jensen-title-drop.jpg
 image: /assets/images/jensen/jensen-title-drop.jpg
-sources:
-  - title: "Hoover Institution — Jensen Huang on vision, risk, and the GPU"
-    url: "https://www.hoover.org/plus/research/jensen-huang-vision-risk-and-gpu"
-  - title: "Stanford Graduate School of Business — how Jensen Huang uses first-principles thinking to make decisions"
-    url: "https://www.gsb.stanford.edu/insights/jensen-huang-how-use-first-principles-thinking-drive-decisions"
-  - title: "NVIDIA's official blog — Jensen Huang's commencement speech, on his early years and the lessons of failure"
-    url: "https://blogs.nvidia.com/blog/huang-ntu-commencement/"
-  - title: "Stripe Sessions — a long conversation with NVIDIA's Jensen Huang"
-    url: "https://stripe.com/se/sessions/2024/a-conversation-with-nvidias-jensen-huang"
-  - title: "NVIDIA Newsroom — NVIDIA completes its acquisition of Mellanox"
-    url: "https://nvidianews.nvidia.com/news/nvidia-completes-acquisition-of-mellanox-creating-major-force-driving-next-gen-data-centers"
-  - title: "NVIDIA — the official biography of Jensen Huang, founder and CEO"
-    url: "https://www.nvidia.com/en-us/about-nvidia/board-of-directors/jensen-huang/"
-  - title: "Oregon State University — Jensen Huang in the Engineering Hall of Fame"
-    url: "https://engineering.oregonstate.edu/alumni-partners/oregon-stater-awards/searchable-awards-database/jen-hsun-huang-engineering-hall"
-  - title: "Stanford Engineering — Jensen Huang among its heroes, on his years there"
-    url: "https://engineering.stanford.edu/about/history/heroes/2018-heroes/jensen-huang"
-  - title: "Computer History Museum — the life and career of Jensen Huang"
-    url: "https://computerhistory.org/profile/jensen-huang/"
-  - title: "NVIDIA's official blog — Jensen Huang's letter to employees as the Mellanox deal closed"
-    url: "https://blogs.nvidia.com/blog/building-the-new-NVIDIA-together/"
-  - title: "NVIDIA Investor Relations — statement from the Board of Directors, November 2026"
-    url: "https://investor.nvidia.com/news/press-release-details/2026/Statement-from-NVIDIA-Board-of-Directors/"
-  - title: "Reuters — reporting on NVIDIA and Jensen Huang, November 2026"
-    url: "https://www.reuters.com/technology/nvidia-is-preparing-oust-ceo-jensen-huang-wsj-reports-2026-11-11/"
 ---
 
 This page is the companion to our story of Jensen Huang. Scroll down and walk through his life, year by year — from a small boy looking out of a window in Taiwan, to the man who waited decades for his idea's time to come.
 
-Every moment below carries an illustration from the story. For the full story, watch the video above, or read [the complete article](/stories/history-of-jensen-huang/).
+Every moment below carries an illustration from the story. And at the end of the timeline, we come to the question the whole world is asking now: after his shock resignation in 2026, who could ever replace him? For the full story, read [the complete article](/stories/history-of-jensen-huang/) — the video is waiting at the bottom of this page.
 
 <style>
 .ftb-tl{position:relative;max-width:880px;margin:2.2rem auto 1rem;padding:6px 0 10px}
@@ -124,4 +98,44 @@ upd();
 
 From a boy cleaning bathrooms at a boarding school, to the man standing at the centre of the global AI wave. His story proves one thing: sometimes, the technology that truly changes the world must be pursued patiently for decades, before its time finally comes.
 
+## Who Will Replace Jensen Huang?
+
+Jensen stepped down in November 2026, after 33 years at the top of NVIDIA. For now, the company is in the hands of Colette Kress, its finance chief.
+
+And already, the world is asking one question: who can sit in his chair?
+
+Online, people are guessing names. Even Tim Cook — the man who leads Apple — has been mentioned. Nobody knows. These are only guesses.
+
+Many people, it seems, do not want a replacement at all. A petition asking NVIDIA to bring Jensen back is spreading fast. And it has reached the most famous name of all. Elon Musk [wrote on X](https://x.com/elonmusk/status/2121345211959804234): "A petition is underway to reinstate Jensen, and I'm signing it too." Millions of people read his words in a few hours.
+
+Maybe that is the real answer to the question. Some leaders can be replaced. But a man who began by cleaning bathrooms, and then waited thirty years for his idea's time to come — a CEO like Jensen may be impossible to replace.
+
+And you — who do you think could take his chair?
+
 Read the full story here: [The True Story of Jensen Huang — From Dishwasher to NVIDIA CEO](/stories/history-of-jensen-huang/). And for the company he built, see [The Entire History of NVIDIA](/stories/history-of-nvidia/).
+
+**Watch his full story:**
+
+<div class="video-wrap yt-facade" data-yt="nXrJUFqDcDQ" role="button" tabindex="0" aria-label="Play the video">
+  <img src="https://i.ytimg.com/vi/nXrJUFqDcDQ/maxresdefault.jpg" alt="The True Story of Jensen Huang: From Dishwasher to NVIDIA CEO" loading="lazy">
+  <span class="yt-play" aria-hidden="true"></span>
+</div>
+<noscript><div class="video-wrap"><iframe src="https://www.youtube.com/embed/nXrJUFqDcDQ" title="The True Story of Jensen Huang" frameborder="0" allowfullscreen></iframe></div></noscript>
+<script>
+document.querySelectorAll('.yt-facade').forEach(function(el){
+  function play(){
+    var f = document.createElement('iframe');
+    f.src = 'https://www.youtube-nocookie.com/embed/' + el.getAttribute('data-yt') + '?autoplay=1&rel=0';
+    f.title = 'YouTube video player';
+    f.setAttribute('allowfullscreen', '');
+    f.setAttribute('allow', 'accelerometer; autoplay; encrypted-media; picture-in-picture');
+    el.innerHTML = '';
+    el.classList.remove('yt-facade');
+    el.appendChild(f);
+  }
+  el.addEventListener('click', play);
+  el.addEventListener('keydown', function(e){ if(e.key === 'Enter' || e.key === ' '){ e.preventDefault(); play(); } });
+});
+</script>
+
+<p class="watch-cta"><a class="btn" href="https://www.youtube.com/watch?v=nXrJUFqDcDQ" target="_blank" rel="noopener">Watch on YouTube</a></p>
