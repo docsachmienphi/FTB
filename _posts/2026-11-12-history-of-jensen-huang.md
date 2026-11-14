@@ -208,3 +208,5 @@ When this story was researched in late 2026, there was a lot of personal news ab
 Maybe your dream also feels far away today. Jensen's story reminds us that great things can begin with small steps, hard work, and the courage to dream bigger. And you — what do you think about him?
 
 <figure><img src="/assets/images/jensen/jensen-today.jpg" alt="A portrait of Jensen Huang today in his black leather jacket, standing before the glass towers of NVIDIA in the morning light"><figcaption>Jensen Huang today, outside the glass towers of NVIDIA — still in the black leather jacket.</figcaption></figure>
+
+**His whole life on one page:** walk through [the Jensen Huang timeline](/stories/jensen-huang-timeline/) — 63 years in 18 illustrated moments, from the window in Taiwan to the centre of the AI age.
