@@ -71,9 +71,9 @@ image: /assets/images/jensen/jensen-title-drop.jpg
 
 <div class="tl-item"><span class="tl-dot"></span><div class="tl-card"><img class="tl-sticker" src="/assets/images/jensen/stickers/tl-arena.webp" alt="Jensen alone on a great arena stage, holding a graphics card toward the crowd" loading="lazy"><div class="tl-year">2023<span class="tl-age">Age 60</span></div><p>NVIDIA's market value passes 1 trillion dollars. The black leather jacket becomes one of the most recognisable symbols in technology.</p></div></div>
 
-<div class="tl-item"><span class="tl-dot"></span><div class="tl-card"><img class="tl-sticker" src="/assets/images/jensen/stickers/jensen-today.webp" alt="Jensen Huang today, in his black leather jacket" loading="lazy"><div class="tl-year">2024<span class="tl-age">Age 61</span></div><p>NVIDIA passes 3 trillion dollars. Jensen stands at the very centre of the global technology stage.</p></div></div>
+<div class="tl-item"><span class="tl-dot"></span><div class="tl-card"><img class="tl-img" src="/assets/images/jensen/jensen-today.jpg" alt="Jensen Huang in his black leather jacket, before the glass towers of NVIDIA" loading="lazy"><div class="tl-year">2024<span class="tl-age">Age 61</span></div><p>NVIDIA passes 3 trillion dollars. Jensen stands at the very centre of the global technology stage.</p></div></div>
 
-<div class="tl-item"><span class="tl-dot"></span><div class="tl-card"><img class="tl-sticker" src="/assets/images/jensen/stickers/tl-walkway.webp" alt="Jensen in profile, lit by the green light of the server halls" loading="lazy"><div class="tl-year">2026<span class="tl-age">Age 63</span></div><p>After 33 years, Jensen steps down as NVIDIA's CEO — one of the most influential figures of the AI computing era.</p></div></div>
+<div class="tl-item"><span class="tl-dot"></span><div class="tl-card"><img class="tl-img" src="/assets/images/jensen/jensen-house-to-servers.jpg" alt="From the house of his childhood to endless halls of servers — one long journey" loading="lazy"><div class="tl-year">2026<span class="tl-age">Age 63</span></div><p>After 33 years, Jensen steps down as NVIDIA's CEO — one of the most influential figures of the AI computing era.</p></div></div>
 
 </div>
 
