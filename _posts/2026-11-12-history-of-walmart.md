@@ -3,6 +3,7 @@ layout: post
 title: "The ENTIRE History of Walmart: The Store He Lost"
 description: "Sam Walton built a store in Newport, then lost it when his lease ended. He started again, and in 1962 he opened the first Walmart in Rogers, Arkansas."
 date: 2026-11-12
+youtube_id: "BAsD8caoDVw"
 categories: [Company-History, Founder-Stories]
 tags: [Walmart, Sam-Walton]
 cover_brand: "WALMART"
