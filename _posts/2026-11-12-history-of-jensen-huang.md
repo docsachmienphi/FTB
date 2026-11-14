@@ -67,7 +67,7 @@ glance:
       text: "ChatGPT reaches the world, and suddenly everyone needs the machines Jensen spent years building"
       sticker: "/assets/images/jensen/stickers/dgx1.webp"
     - year: "Today"
-      text: "He still leads NVIDIA, still wears the black leather jacket — and still speaks proudly of washing dishes"
+      text: "After thirty-three years leading NVIDIA, Jensen steps down — still in the black leather jacket, and still proud of washing dishes"
       sticker: "/assets/images/jensen/stickers/jensen-today.webp"
 words:
   - word: "immigrant"
@@ -88,7 +88,7 @@ faq:
   - q: "Did Jensen Huang really wash dishes at Denny's?"
     a: "Yes. After his family came together again in Oregon, the teenage Jensen worked at Denny's, an American restaurant chain. He started by washing dishes and later cleared tables. He took the job seriously — he planned his movements around the restaurant so he would never waste time walking back and forth. Years later, in 1993, NVIDIA itself was planned in a booth at another Denny's, in California."
   - q: "How did Jensen Huang start NVIDIA?"
-    a: "In the early 1990s, Jensen was an engineer with a stable career, a family, and a master's degree from Stanford. Two other engineers, Chris Malachowsky and Curtis Priem, shared his idea: personal computers needed much better graphics, especially for games. The three men talked it over at a Denny's restaurant, and on April 5, 1993, they founded NVIDIA, with Jensen as its chief executive — a job he still holds today."
+    a: "In the early 1990s, Jensen was an engineer with a stable career, a family, and a master's degree from Stanford. Two other engineers, Chris Malachowsky and Curtis Priem, shared his idea: personal computers needed much better graphics, especially for games. The three men talked it over at a Denny's restaurant, and on April 5, 1993, they founded NVIDIA, with Jensen as its chief executive — a job he held for thirty-three years, until he stepped down in November 2026."
   - q: "What was Jensen Huang's biggest bet?"
     a: "CUDA. In 2006, NVIDIA already sold successful graphics chips for games. But Jensen believed the same chips could do many calculations at once for scientists and researchers, so he spent years and a great deal of money teaching the world to use them — while CUDA made almost no money and shareholders asked hard questions. In 2012, researchers used NVIDIA chips to build AlexNet, a landmark in AI. A decade later, the age of ChatGPT arrived, and the world needed exactly the technology he had believed in."
 ---
