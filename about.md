@@ -52,8 +52,12 @@ Pick any story that makes you curious, and begin where it began.
 - [Browse all the stories](/stories/)
 - [Watch on YouTube](https://www.youtube.com/@FromTheBeginning9)
 
+## Say hello
+
+Questions, ideas for a story, or just a kind word — you can write to us at **FTB Media** — [media@fromthebeginning.xyz](mailto:media@fromthebeginning.xyz).
+
 Thank you for being here, at the beginning.
 
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"Organization","name":"From The Beginning","alternateName":"FTB","url":"https://fromthebeginning.xyz/","logo":"https://fromthebeginning.xyz/assets/images/logo.png","description":"From The Beginning tells the stories of how famous companies were built, how founders began, and how important inventions came to life, in slow and simple English.","sameAs":["https://www.youtube.com/@FromTheBeginning9"]}
+{"@context":"https://schema.org","@type":"Organization","name":"From The Beginning","alternateName":"FTB","url":"https://fromthebeginning.xyz/","email":"media@fromthebeginning.xyz","logo":"https://fromthebeginning.xyz/assets/images/logo.png","description":"From The Beginning tells the stories of how famous companies were built, how founders began, and how important inventions came to life, in slow and simple English.","sameAs":["https://www.youtube.com/@FromTheBeginning9"]}
 </script>

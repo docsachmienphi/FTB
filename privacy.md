@@ -7,7 +7,7 @@ permalink: /privacy/
 
 # Privacy Policy
 
-*Last updated: November 12, 2026*
+*Last updated: November 15, 2026*
 
 From The Beginning is a small storytelling website. We tell the stories of how companies, founders, and inventions began, in slow and simple English. This page explains, in plain words, what happens to your information when you visit.
 
@@ -48,6 +48,6 @@ If our practices ever change — for example, if we add a contact form, analytic
 
 ## How to reach us
 
-For now, the best way to reach From The Beginning is through our [YouTube channel](https://www.youtube.com/@FromTheBeginning9). We read our viewers' comments with warm hearts.
+You can write to us at **FTB Media** — [media@fromthebeginning.xyz](mailto:media@fromthebeginning.xyz). You can also reach From The Beginning through our [YouTube channel](https://www.youtube.com/@FromTheBeginning9). We read our viewers' comments with warm hearts.
 
 Thank you for reading, and for being here at the beginning.
