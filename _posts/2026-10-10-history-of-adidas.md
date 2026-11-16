@@ -3,6 +3,7 @@ layout: post
 title: "The ENTIRE History of Adidas: The Shoemaker Who Began Three Times"
 description: "How Adidas started in a German laundry room: Adi Dassler, Jesse Owens, three stripes bought with whiskey, and the quiet brother he lost to Puma."
 date: 2026-10-10
+last_modified_at: 2026-11-12
 youtube_id: "Vug0N9wfQUg"
 categories: [Company-History, Founder-Stories]
 tags: [Adidas, Adi-Dassler, Jesse-Owens]

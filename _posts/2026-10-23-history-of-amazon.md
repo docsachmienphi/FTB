@@ -3,6 +3,7 @@ layout: post
 title: "The ENTIRE History of Amazon: It Began With Doors"
 description: "How Amazon started: Jeff Bezos left a safe Wall Street job, drove west to Seattle, and opened a bookshop in a garage, with desks made of doors."
 date: 2026-10-23
+last_modified_at: 2026-11-12
 youtube_id: "Ir8K_mbwvvg"
 categories: [Company-History, Founder-Stories]
 tags: [Amazon, Jeff-Bezos]

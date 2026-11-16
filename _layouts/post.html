@@ -3,6 +3,11 @@ layout: default
 ---
 <article class="post">
   <h1>{{ page.title }}</h1>
+  {% assign pub = page.date | date: "%Y-%m-%d" %}{% assign upd = page.last_modified_at | default: page.date | date: "%Y-%m-%d" %}
+  <p class="post-meta">Published {{ page.date | date: "%d %B %Y" }}{% if upd != pub %} &middot; Updated {{ page.last_modified_at | date: "%d %B %Y" }}{% endif %}</p>
+  <script type="application/ld+json">
+  {"@context":"https://schema.org","@type":"Article","headline":{{ page.title | jsonify }},"description":{{ page.description | jsonify }},"datePublished":"{{ page.date | date_to_xmlschema }}","dateModified":"{{ page.last_modified_at | default: page.date | date_to_xmlschema }}","author":{"@type":"Organization","name":"From The Beginning","url":"https://fromthebeginning.xyz/"},"publisher":{"@type":"Organization","name":"From The Beginning"},"mainEntityOfPage":"{{ page.url | absolute_url }}"}
+  </script>
   {% if page.glance %}
   <section class="glance">
     <div class="glance-orb o1"></div><div class="glance-orb o2"></div>

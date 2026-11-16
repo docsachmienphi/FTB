@@ -3,6 +3,7 @@ layout: post
 title: "The ENTIRE History of Heinz: The Man Who Paid Everyone Back"
 description: "The entire history of Heinz, from horseradish in clear glass to a Christmas bankruptcy, and a little notebook of debts he repaid one by one."
 date: 2026-11-05
+last_modified_at: 2026-11-12
 youtube_id: "71ir3aLPz0g"
 categories: [Company-History, Founder-Stories]
 tags: [Heinz, Henry-Heinz]

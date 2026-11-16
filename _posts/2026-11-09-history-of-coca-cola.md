@@ -3,6 +3,7 @@ layout: post
 title: "The ENTIRE History of Coca-Cola: The Pharmacist Who Died Poor"
 description: "How Coca-Cola started in a backyard in Atlanta in 1886 - and how a wounded pharmacist's five-cent drink, sold for 2,300 dollars, travelled the whole world."
 date: 2026-10-21
+last_modified_at: 2026-11-12
 youtube_id: "YFsRb8SbN50"
 image: /assets/images/coca/coca-hands-bottle.jpg
 categories: [Company-History, Founder-Stories]

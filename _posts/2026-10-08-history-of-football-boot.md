@@ -3,6 +3,7 @@ layout: post
 title: "The History of the Football Boot: From a King's List to 99 Grams"
 description: "The history of the football boot, from Henry VIII's 1526 shopping list to the famous Miracle of Bern, Pele, the Predator, and boots of 99 grams."
 date: 2026-10-08
+last_modified_at: 2026-11-12
 youtube_id: "fZzNdmd1tZA"
 categories: [Invention-History]
 tags: [Football-Boot, World-Cup, Adidas-Predator]

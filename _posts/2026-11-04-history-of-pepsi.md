@@ -3,6 +3,7 @@ layout: post
 title: "The ENTIRE History of Pepsi: The Drink That Refused to Die"
 description: "How Pepsi started in a small North Carolina pharmacy in 1893, went bankrupt twice, lost its founder, and found its own road beside Coca-Cola."
 date: 2026-11-04
+last_modified_at: 2026-11-12
 youtube_id: "Ob-62tqcBzc"
 categories: [Company-History, Founder-Stories]
 tags: [Pepsi, Caleb-Bradham]

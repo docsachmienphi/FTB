@@ -3,6 +3,7 @@ layout: post
 title: "The ENTIRE History of Starbucks: The Man Who Saw More Than Coffee"
 description: "How Starbucks began in 1971 as a tiny Seattle bean shop, and how Howard Schultz turned coffee into a place to stay, in 41,607 stores by 2026."
 date: 2026-11-10
+last_modified_at: 2026-11-12
 youtube_id: "UNO6gZvVHNY"
 categories: [Company-History, Founder-Stories]
 tags: [Starbucks, Howard-Schultz]

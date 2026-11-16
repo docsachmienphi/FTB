@@ -3,6 +3,7 @@ layout: post
 title: "The True Story of Jensen Huang: From Dishwasher to NVIDIA CEO"
 description: "Sent to America at nine, Jensen Huang cleaned bathrooms and washed dishes at Denny's. Then he founded NVIDIA — and bet on AI long before the world believed."
 date: 2026-11-12
+last_modified_at: 2026-11-14
 youtube_id: "nXrJUFqDcDQ"
 categories: [Founder-Stories]
 tags: [Jensen-Huang, NVIDIA]

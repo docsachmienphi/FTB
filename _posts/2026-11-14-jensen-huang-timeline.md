@@ -3,6 +3,7 @@ layout: post
 title: "63 Years of Jensen Huang"
 description: "Jensen Huang's life, year by year — from the boy sent across the ocean at nine to the man who bet on AI before the world believed. Plus: his shock resignation in 2026, who might replace him at NVIDIA, and the petition — signed by Elon Musk — to bring him back."
 date: 2026-11-14
+last_modified_at: 2026-11-14
 categories: [Founder-Stories]
 tags: [Jensen-Huang, NVIDIA]
 cover_brand: "JENSEN HUANG"

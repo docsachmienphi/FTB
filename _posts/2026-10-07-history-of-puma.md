@@ -3,6 +3,7 @@ layout: post
 title: "The ENTIRE History of Puma: The Brother Across the River"
 description: "How Puma started in 1948, when Rudolf Dassler crossed a small river in Germany and built a rival shoe company to his own younger brother Adi's Adidas."
 date: 2026-10-07
+last_modified_at: 2026-11-12
 youtube_id: "k6R-OhuKB1M"
 categories: [Company-History, Founder-Stories]
 tags: [Puma, Rudolf-Dassler, Adidas]

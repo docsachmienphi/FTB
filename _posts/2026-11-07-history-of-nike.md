@@ -3,6 +3,7 @@ layout: post
 title: "The ENTIRE History of Nike: The Runner Who Sold Shoes From a Car"
 description: "How Nike started with 1,000 dollars, shoes sold from a car trunk, a ruined waffle iron, and a simple logo that cost just 35 dollars in 1971."
 date: 2026-11-07
+last_modified_at: 2026-11-12
 youtube_id: "fy7tz2ipupk"
 categories: [Company-History, Founder-Stories]
 tags: [Nike, Phil-Knight, Bill-Bowerman]

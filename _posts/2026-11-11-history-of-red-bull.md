@@ -3,6 +3,7 @@ layout: post
 title: "The ENTIRE History of Red Bull: The Drink Nobody Believed In"
 description: "How Red Bull began as Krating Daeng, a small glass bottle for tired Thai truck drivers, and how two quiet men turned it into almost fourteen billion cans a year."
 date: 2026-11-11
+last_modified_at: 2026-11-12
 youtube_id: "a2yw3yeiz44"
 categories: [Company-History, Founder-Stories]
 tags: [Red-Bull, Chaleo-Yoovidhya, Dietrich-Mateschitz]

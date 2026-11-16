@@ -3,6 +3,7 @@ layout: post
 title: "The Story of Elon Musk: The Year Everything Nearly Ended"
 description: "The story of Elon Musk: the bullied boy who sold a game for 500 dollars, lost his own company, and bet everything on rockets and cars in 2008."
 date: 2026-11-03
+last_modified_at: 2026-11-12
 youtube_id: "4Zi-YXhY2DY"
 categories: [Founder-Stories]
 tags: [Elon-Musk, SpaceX, Tesla]
