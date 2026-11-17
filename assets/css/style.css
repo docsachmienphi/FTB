@@ -191,3 +191,4 @@ h1{line-height:1.22;font-family:'Playfair Display',Georgia,serif}h2{margin-top:3
 .site-header nav .drop a{display:block;margin:0;padding:9px 12px;border-radius:9px;color:#3A2A12;font-size:.92rem;white-space:nowrap}
 .site-header nav .drop a:hover{background:#F6E7C3;color:#1D150C}
 @media(max-width:760px){.site-header{display:flex;justify-content:center}.site-header nav{justify-self:auto}}
+.site-header nav .yt-link{font-weight:bold;border-left:1px solid rgba(237,224,196,.35);padding-left:20px;margin-left:22px}
