@@ -14,7 +14,7 @@ Every story we tell is one of three kinds: the history of a company, the story o
 <div class="grid">
 {% assign n = site.categories["Company-History"] | size %}
 <div class="story" onclick="location.href='/company-history/'">
-<div class="cover cover-thumb"><img src="/assets/images/coca/coca-pemberton-lab.jpg" alt="" loading="lazy"></div>
+<div class="cover cover-thumb"><img src="/assets/images/topics/company-history-cover.jpg" alt="" loading="lazy"></div>
 <div class="story-body"><div class="meta">Topic &middot; {% if n == 1 %}1 story{% else %}{{ n }} stories{% endif %}</div><h3>Company History</h3><p>How famous companies were built, from the very first day: Coca-Cola, Nike, Amazon, Toyota, KFC and many more.</p></div>
 </div>
 {% assign n = site.categories["Founder-Stories"] | size %}
