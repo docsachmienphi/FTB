@@ -2,6 +2,7 @@
 layout: default
 title: Stories by Topic
 description: "Browse From The Beginning stories by topic: company history, founder stories, and invention history."
+image: /assets/images/topics/founder-stories-cover.jpg
 permalink: /topics/
 redirect_from:
   - /catalogue/

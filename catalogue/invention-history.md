@@ -2,6 +2,7 @@
 layout: default
 title: Invention History
 description: "From The Beginning invention history stories: how famous things were invented, beginning with the five-hundred-year story of the football boot. More invention stories are coming."
+image: /assets/images/topics/invention-history-cover.jpg
 permalink: /invention-history/
 redirect_from:
   - /topics/invention-history/

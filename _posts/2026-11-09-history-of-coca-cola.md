@@ -5,7 +5,7 @@ description: "How Coca-Cola started in a backyard in Atlanta in 1886 - and how a
 date: 2026-10-21
 last_modified_at: 2026-11-12
 youtube_id: "YFsRb8SbN50"
-image: /assets/images/coca/coca-hands-bottle.jpg
+image: /assets/images/coca/coca-thumbnail.jpg
 categories: [Company-History, Founder-Stories]
 tags: [Coca-Cola, John-Pemberton, Asa-Candler]
 cover_brand: "COCA-COLA"
