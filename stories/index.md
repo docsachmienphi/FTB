@@ -9,6 +9,8 @@ permalink: /stories/
 
 Company history, founder stories, and great inventions, from the very beginning.
 
+Prefer to browse by shelf? Visit the [Story Catalogue](/catalogue/) - drinks and food, sportswear and shoes, cars, tech and shopping, and the founders themselves.
+
 <div class="grid">
 {% for post in site.posts %}
 <div class="story" onclick="location.href='{{ post.url }}'">
