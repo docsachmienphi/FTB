@@ -2,8 +2,9 @@
 layout: default
 title: Founder Stories
 description: "From The Beginning founder stories: the people behind the brands - Elon Musk, Jensen Huang, Harland Sanders, Sam Walton and more."
-permalink: /topics/founder-stories/
+permalink: /founder-stories/
 redirect_from:
+  - /topics/founder-stories/
   - /catalogue/people/
   - /topics/people/
 ---

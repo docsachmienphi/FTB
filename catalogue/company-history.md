@@ -2,8 +2,9 @@
 layout: default
 title: Company History
 description: "From The Beginning company history stories: how famous companies were built, from the very first day - Coca-Cola, Nike, Adidas, Amazon, Toyota and more."
-permalink: /topics/company-history/
+permalink: /company-history/
 redirect_from:
+  - /topics/company-history/
   - /catalogue/drinks-and-food/
   - /catalogue/sportswear/
   - /catalogue/cars-tech-shopping/
