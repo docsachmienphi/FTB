@@ -2,7 +2,9 @@
 layout: default
 title: Cars, Tech & Shopping Stories
 description: "From The Beginning stories about how famous car, technology and shopping companies began: Toyota, Amazon, Walmart, NVIDIA, Elon Musk and Jensen Huang."
-permalink: /catalogue/cars-tech-shopping/
+permalink: /topics/cars-tech-shopping/
+redirect_from:
+  - /catalogue/cars-tech-shopping/
 ---
 
 # Cars, Tech & Shopping
@@ -19,4 +21,4 @@ Some beginnings change how the whole world moves, thinks, and shops. A loom make
 {% endif %}{% endfor %}
 </div>
 
-Looking for another shelf? Browse the [Story Catalogue](/catalogue/) or [all stories](/stories/).
+Looking for another topic? Browse [all topics](/topics/) or [all stories](/stories/).

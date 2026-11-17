@@ -2,7 +2,9 @@
 layout: default
 title: Drinks & Food Stories
 description: "From The Beginning stories about how famous drinks and food brands began: Coca-Cola, Pepsi, KFC, Starbucks, Heinz, Red Bull and Hershey."
-permalink: /catalogue/drinks-and-food/
+permalink: /topics/drinks-and-food/
+redirect_from:
+  - /catalogue/drinks-and-food/
 ---
 
 # Drinks & Food
@@ -19,4 +21,4 @@ The tastes the whole world knows began as one person's small experiment. A pharm
 {% endif %}{% endfor %}
 </div>
 
-Looking for another shelf? Browse the [Story Catalogue](/catalogue/) or [all stories](/stories/).
+Looking for another topic? Browse [all topics](/topics/) or [all stories](/stories/).

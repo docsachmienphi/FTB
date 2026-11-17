@@ -2,12 +2,14 @@
 layout: default
 title: People & Founder Stories
 description: "From The Beginning stories about the founders themselves: Elon Musk, Jensen Huang, and the people behind the brands. More founder stories are coming."
-permalink: /catalogue/people/
+permalink: /topics/people/
+redirect_from:
+  - /catalogue/people/
 ---
 
 # People - The Founders
 
-Behind every beginning, there is a person. This shelf is for the founders themselves: the dishwasher who became a CEO, the young man who crossed an ocean with almost nothing, and the dreamers who kept going when it would have been easier to stop. We are telling more and more of these stories, and this shelf will keep growing.
+Behind every beginning, there is a person. These stories are about the founders themselves: the dishwasher who became a CEO, the young man who crossed an ocean with almost nothing, and the dreamers who kept going when it would have been easier to stop. We are telling more and more of these stories, and this topic will keep growing.
 
 {% assign slugs = site.data.catalogue["people"] %}
 <div class="grid">
@@ -19,4 +21,4 @@ Behind every beginning, there is a person. This shelf is for the founders themse
 {% endif %}{% endfor %}
 </div>
 
-Looking for another shelf? Browse the [Story Catalogue](/catalogue/) or [all stories](/stories/).
+Looking for another topic? Browse [all topics](/topics/) or [all stories](/stories/).

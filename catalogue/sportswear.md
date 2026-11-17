@@ -2,7 +2,9 @@
 layout: default
 title: Sportswear & Shoes Stories
 description: "From The Beginning stories about how famous sportswear brands began: Nike, Adidas, Puma, and the history of the football boot."
-permalink: /catalogue/sportswear/
+permalink: /topics/sportswear/
+redirect_from:
+  - /catalogue/sportswear/
 ---
 
 # Sportswear & Shoes
@@ -19,4 +21,4 @@ Every famous shoe began in a small room. Two brothers making shoes in their moth
 {% endif %}{% endfor %}
 </div>
 
-Looking for another shelf? Browse the [Story Catalogue](/catalogue/) or [all stories](/stories/).
+Looking for another topic? Browse [all topics](/topics/) or [all stories](/stories/).
