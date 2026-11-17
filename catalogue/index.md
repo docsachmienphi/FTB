@@ -1,41 +1,36 @@
 ---
 layout: default
-title: Story Topics
-description: "Browse From The Beginning stories by topic: drinks and food, sportswear and shoes, cars, tech and shopping, and the founders themselves."
+title: Stories by Topic
+description: "Browse From The Beginning stories by topic: company history, founder stories, and invention history."
 permalink: /topics/
 redirect_from:
   - /catalogue/
 ---
 
-# Browse Stories by Topic
+# Stories by Topic
 
-Every story we tell, sorted by topic. Some topics hold the brands you see every day. One topic holds the people behind them. Pick a topic that makes you curious, and begin where it began.
+Every story we tell is one of three kinds: the history of a company, the story of its founder, or the history of an invention. Most stories are two at once, a company and the person who began it. Choose the kind you love most, and begin where it began.
 
 <div class="grid">
-{% assign p = site.posts | where: "slug", "history-of-kfc" | first %}
-<div class="story" onclick="location.href='/topics/drinks-and-food/'">
+{% assign p = site.posts | where: "slug", "history-of-kfc" | first %}{% assign n = site.categories["Company-History"] | size %}
+<div class="story" onclick="location.href='/topics/company-history/'">
 <div class="cover cover-thumb"><img src="{{ p.cover_thumb }}" alt="" loading="lazy"></div>
-<div class="story-body"><div class="meta">Topic &middot; {{ site.data.catalogue["drinks-food"] | size }} stories</div><h3>Drinks & Food</h3><p>Coca-Cola, Pepsi, KFC, Starbucks and more: the tastes the whole world knows, from the very first day.</p></div>
+<div class="story-body"><div class="meta">Topic &middot; {% if n == 1 %}1 story{% else %}{{ n }} stories{% endif %}</div><h3>Company History</h3><p>How famous companies were built, from the very first day: Coca-Cola, Nike, Amazon, Toyota, KFC and many more.</p></div>
 </div>
-{% assign p = site.posts | where: "slug", "history-of-nike" | first %}
-<div class="story" onclick="location.href='/topics/sportswear/'">
+{% assign p = site.posts | where: "slug", "history-of-elon-musk" | first %}{% assign n = site.categories["Founder-Stories"] | size %}
+<div class="story" onclick="location.href='/topics/founder-stories/'">
 <div class="cover cover-thumb"><img src="{{ p.cover_thumb }}" alt="" loading="lazy"></div>
-<div class="story-body"><div class="meta">Shelf &middot; {{ site.data.catalogue["sportswear"] | size }} stories</div><h3>Sportswear & Shoes</h3><p>Nike, Adidas, Puma and the football boot: the shoes the world runs in, and the brothers who split them in two.</p></div>
+<div class="story-body"><div class="meta">Topic &middot; {% if n == 1 %}1 story{% else %}{{ n }} stories{% endif %}</div><h3>Founder Stories</h3><p>The founders and dreamers behind the brands: Elon Musk, Jensen Huang, Harland Sanders and many more.</p></div>
 </div>
-{% assign p = site.posts | where: "slug", "history-of-jensen-huang" | first %}
-<div class="story" onclick="location.href='/topics/cars-tech-shopping/'">
+{% assign p = site.posts | where: "slug", "history-of-football-boot" | first %}{% assign n = site.categories["Invention-History"] | size %}
+<div class="story" onclick="location.href='/topics/invention-history/'">
 <div class="cover cover-thumb"><img src="{{ p.cover_thumb }}" alt="" loading="lazy"></div>
-<div class="story-body"><div class="meta">Shelf &middot; {{ site.data.catalogue["cars-tech"] | size }} stories</div><h3>Cars, Tech & Shopping</h3><p>Toyota, Amazon, Walmart and NVIDIA: the machines and marketplaces that changed modern life.</p></div>
-</div>
-{% assign p = site.posts | where: "slug", "history-of-elon-musk" | first %}
-<div class="story" onclick="location.href='/topics/people/'">
-<div class="cover cover-thumb"><img src="{{ p.cover_thumb }}" alt="" loading="lazy"></div>
-<div class="story-body"><div class="meta">Shelf &middot; {{ site.data.catalogue["people"] | size }} stories</div><h3>People - The Founders</h3><p>Elon Musk, Jensen Huang and more: the founders and dreamers behind the brands. This topic keeps growing.</p></div>
+<div class="story-body"><div class="meta">Topic &middot; {% if n == 1 %}1 story{% else %}{{ n }} stories{% endif %}</div><h3>Invention History</h3><p>How famous things were invented, and the hands that made them real. More invention stories are coming.</p></div>
 </div>
 </div>
 
 Or simply browse [all the stories](/stories/) in one long list.
 
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"ItemList","name":"From The Beginning Story Topics","itemListElement":[{"@type":"ListItem","position":1,"name":"Drinks & Food","url":"https://fromthebeginning.xyz/topics/drinks-and-food/"},{"@type":"ListItem","position":2,"name":"Sportswear & Shoes","url":"https://fromthebeginning.xyz/topics/sportswear/"},{"@type":"ListItem","position":3,"name":"Cars, Tech & Shopping","url":"https://fromthebeginning.xyz/topics/cars-tech-shopping/"},{"@type":"ListItem","position":4,"name":"People - The Founders","url":"https://fromthebeginning.xyz/topics/people/"}]}
+{"@context":"https://schema.org","@type":"ItemList","name":"From The Beginning Stories by Topic","itemListElement":[{"@type":"ListItem","position":1,"name":"Company History","url":"https://fromthebeginning.xyz/topics/company-history/"},{"@type":"ListItem","position":2,"name":"Founder Stories","url":"https://fromthebeginning.xyz/topics/founder-stories/"},{"@type":"ListItem","position":3,"name":"Invention History","url":"https://fromthebeginning.xyz/topics/invention-history/"}]}
 </script>

@@ -9,7 +9,7 @@ permalink: /stories/
 
 Company history, founder stories, and great inventions, from the very beginning.
 
-Prefer to browse by topic? Visit [Story Topics](/topics/) - drinks and food, sportswear and shoes, cars, tech and shopping, and the founders themselves.
+Prefer to browse by topic? Visit [Stories by Topic](/topics/) - company history, founder stories, and invention history.
 
 <div class="grid">
 {% for post in site.posts %}

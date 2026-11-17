@@ -1,24 +1,29 @@
 ---
 layout: default
-title: Drinks & Food Stories
-description: "From The Beginning stories about how famous drinks and food brands began: Coca-Cola, Pepsi, KFC, Starbucks, Heinz, Red Bull and Hershey."
-permalink: /topics/drinks-and-food/
+title: Company History
+description: "From The Beginning company history stories: how famous companies were built, from the very first day - Coca-Cola, Nike, Adidas, Amazon, Toyota and more."
+permalink: /topics/company-history/
 redirect_from:
   - /catalogue/drinks-and-food/
+  - /catalogue/sportswear/
+  - /catalogue/cars-tech-shopping/
+  - /topics/drinks-and-food/
+  - /topics/sportswear/
+  - /topics/cars-tech-shopping/
 ---
 
-# Drinks & Food
+# Company History
 
-The tastes the whole world knows began as one person's small experiment. A pharmacist stirring syrup in a backyard. A drink mixed at a small-town pharmacy counter. Fried chicken cooked at a gas station, and an energy drink from Thailand that nobody believed in. These are the stories of the drinks and foods on every table today, followed back to the first day.
+Every famous company was once nothing. No big office. No famous name. Just a small idea, in a small place, and a long road ahead. Here are the stories of how those companies were built, told from the very first day: the first product, the first failure, the first small win, and the moment everything changed.
 
-{% assign slugs = site.data.catalogue["drinks-food"] %}
+{% assign posts = site.categories["Company-History"] %}
 <div class="grid">
-{% for post in site.posts %}{% if slugs contains post.slug %}
+{% for post in posts %}
 <div class="story" onclick="location.href='{{ post.url }}'">
 {% if post.cover_thumb %}<div class="cover cover-thumb"><img src="{{ post.cover_thumb }}" alt="" loading="lazy"></div>{% else %}<div class="cover {{ post.cover_class | default: 'c-default' }}{% if post.cover_image %} has-img{% endif %}">{% if post.cover_image %}<img class="cover-img" src="{{ post.cover_image }}" alt="" loading="lazy">{% endif %}<div class="years">{{ post.cover_years }}</div><div class="brand">{{ post.cover_brand | default: post.title }}</div>{% if post.cover_fate %}<div class="fate">{{ post.cover_fate }}</div>{% endif %}</div>{% endif %}
 <div class="story-body"><div class="meta">{{ post.categories | first | replace: '-', ' ' }}</div><h3>{{ post.title }}</h3><p>{{ post.description }}</p></div>
 </div>
-{% endif %}{% endfor %}
+{% endfor %}
 </div>
 
-Looking for another topic? Browse [all topics](/topics/) or [all stories](/stories/).
+Looking for another topic? Browse [Stories by Topic](/topics/) or [all stories](/stories/).
