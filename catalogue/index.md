@@ -19,12 +19,12 @@ Every story we tell is one of three kinds: the history of a company, the story o
 </div>
 {% assign n = site.categories["Founder-Stories"] | size %}
 <div class="story" onclick="location.href='/founder-stories/'">
-<div class="cover cover-thumb"><img src="/assets/images/elon/elon-hero.jpg" alt="" loading="lazy"></div>
+<div class="cover cover-thumb"><img src="/assets/images/topics/founder-stories-cover.jpg" alt="" loading="lazy"></div>
 <div class="story-body"><div class="meta">Topic &middot; {% if n == 1 %}1 story{% else %}{{ n }} stories{% endif %}</div><h3>Founder Stories</h3><p>The founders and dreamers behind the brands: Elon Musk, Jensen Huang, Harland Sanders and many more.</p></div>
 </div>
 {% assign n = site.categories["Invention-History"] | size %}
 <div class="story" onclick="location.href='/invention-history/'">
-<div class="cover cover-thumb"><img src="/assets/images/boot/boot-lineup.jpg" alt="" loading="lazy"></div>
+<div class="cover cover-thumb"><img src="/assets/images/topics/invention-history-cover.jpg" alt="" loading="lazy"></div>
 <div class="story-body"><div class="meta">Topic &middot; {% if n == 1 %}1 story{% else %}{{ n }} stories{% endif %}</div><h3>Invention History</h3><p>How famous things were invented, and the hands that made them real. More invention stories are coming.</p></div>
 </div>
 </div>
