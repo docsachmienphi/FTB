@@ -54,7 +54,7 @@ glance:
       sticker: "/assets/images/hershey/stickers/boy.webp"
     - year: "1886"
       text: "After two failed shops, he starts the Lancaster Caramel Company, saved by a bank worker's signature on his loan"
-      sticker: "/assets/images/hershey/stickers/pushcart.webp"
+      sticker: "/assets/images/hershey/stickers/bank.webp"
     - year: "1900"
       text: "Milton sells his successful caramel company for 1 million dollars and bets his future on milk chocolate"
       sticker: "/assets/images/hershey/stickers/milton.webp"
