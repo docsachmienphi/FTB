@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "The ENTIRE History of Hershey: The Man Who Gave His Company to a School"
+title: "How Milton Hershey Built a Chocolate Empire, a Town, and a School"
 description: "Milton Hershey left school as a boy in 1870s Pennsylvania and failed twice. Then he built a chocolate company, and quietly gave it to a school."
 date: 2026-11-16
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-23
+youtube_id: "cIMy1j8vMcQ"
 categories: [Company-History, Founder-Stories]
 tags: [Hershey, Milton-Hershey]
 cover_brand: "HERSHEY"
 cover_years: "1894 - 2026"
 cover_fate: "The man who gave his company to a school"
 cover_class: "c-default"
+cover_thumb: /assets/images/hershey/hershey-thumbnail.jpg
+image: /assets/images/hershey/hershey-thumbnail.jpg
 sources:
   - title: "Hershey Community Archives: Milton Snavely Hershey, his life from 1857 to 1945"
     url: "https://hersheyarchives.org/encyclopedia/hershey-milton-snavely-1857-1945/"
@@ -48,18 +51,25 @@ glance:
   timeline:
     - year: "1857"
       text: "Milton Hershey is born in a small farmhouse in Derry Township, Pennsylvania"
+      sticker: "/assets/images/hershey/stickers/boy.webp"
     - year: "1886"
       text: "After two failed shops, he starts the Lancaster Caramel Company, saved by a bank worker's signature on his loan"
+      sticker: "/assets/images/hershey/stickers/pushcart.webp"
     - year: "1900"
       text: "Milton sells his successful caramel company for 1 million dollars and bets his future on milk chocolate"
+      sticker: "/assets/images/hershey/stickers/milton.webp"
     - year: "1909"
       text: "Milton and his wife Catherine open a school for boys who had lost their parents"
+      sticker: "/assets/images/hershey/stickers/boys.webp"
     - year: "1918"
       text: "He signs all his company shares, worth about 60 million dollars, over to a trust for the school, and tells almost no one"
+      sticker: "/assets/images/hershey/stickers/signing.webp"
     - year: "1945"
       text: "Milton dies at 88, leaving behind a factory, a town, and a school"
+      sticker: "/assets/images/hershey/stickers/portrait.webp"
     - year: "1976"
       text: "Bill Dearden, who arrived at Milton's school as a boy in 1935, becomes the CEO of Hershey"
+      sticker: "/assets/images/hershey/stickers/bill.webp"
 words:
   - word: "caramel"
     def: "a sweet, soft candy made with sugar and milk. In Denver, Milton learned to make caramel with fresh milk, and that lesson built his first successful company."
@@ -88,11 +98,15 @@ faq:
 
 Think of the last time you shared a chocolate bar with someone you love. You break it into small pieces. You keep one piece for yourself, and you offer them another. It is such a simple moment of happiness.
 
+<figure><img src="/assets/images/hershey/hershey-sharing.jpg" alt="A couple at a wooden table breaking a chocolate bar to share"><figcaption>A simple moment of happiness: a chocolate bar, broken and shared.</figcaption></figure>
+
 For a young boy in Pennsylvania, sharing would come to mean much more. His name was Milton Hershey. He built one of the most famous chocolate companies in the world, and then, quietly, he gave it away to children he would never meet. More than 130 years later, we can still taste the chocolate that carries his name. This is the entire history of Hershey, from the very beginning.
 
 ## A Boy Who Left School
 
 Milton Snavely Hershey was born in 1857, in a small farmhouse in Derry Township, Pennsylvania. His family moved often, so Milton changed schools many times, and in the end he left school at a young age. His days in the classroom were over. Few people could have guessed that education would become the centre of his life.
+
+<figure><img src="/assets/images/hershey/hershey-boy-hill.jpg" alt="A young boy standing on a Pennsylvania hill at sunset, looking over farms and fields"><figcaption>Derry Township, Pennsylvania: the farmland where Milton's story began.</figcaption></figure>
 
 First he tried working for a printer, but it was not the work for him. His mother helped him find a place to learn a real skill. In 1872, at only 14, Milton went to Lancaster to work for a candy maker named Joseph Royer. Milton spent 4 years there, learning how candy was made and how a shop was run.
 
@@ -100,21 +114,43 @@ First he tried working for a printer, but it was not the work for him. His mothe
 
 Making candy was one thing. Selling enough of it to pay the bills was another. In 1876, at 18, Milton opened his own candy business in Philadelphia. After several years of hard work, it failed. He travelled west to Denver, where in 1882 he learned something that stayed with him for life: how to make caramel with fresh milk, for a richer taste and a softer bite. In 1883 he tried again in New York. By 1886, that business had failed too.
 
+<figure><img src="/assets/images/hershey/hershey-philadelphia.jpg" alt="A busy Philadelphia street in the 1870s, full of shops, carts and people"><figcaption>Philadelphia: a busy city, full of shops and people, and a young man's first candy business.</figcaption></figure>
+
+<figure><img src="/assets/images/hershey/hershey-locking-door.jpg" alt="A young man locking the door of his failed candy shop at dusk, his suitcase on the pavement"><figcaption>New York, 1886: the second business had failed too. Milton locked the door and went home.</figcaption></figure>
+
 Milton came home to Lancaster with almost nothing, selling homemade caramel from a pushcart. That same year, he started the Lancaster Caramel Company. Then a big order arrived from a candy buyer in England, and Milton had a problem: he did not have enough money to buy the ingredients. He went to a bank and asked for a loan. A man at the bank believed in him, and signed his own name to help him get the money. With that one signature, Milton could fill the order. Sometimes, all we need is one person who believes in us.
+
+<figure><img src="/assets/images/hershey/hershey-pushcart.jpg" alt="Young Milton selling caramels from a wooden pushcart on a Lancaster street"><figcaption>Back in Lancaster, Milton sold his homemade caramels from a pushcart.</figcaption></figure>
+
+<figure><img src="/assets/images/hershey/hershey-bank.jpg" alt="Young Milton standing outside a bank, holding the loan paper that saved his business"><figcaption>One man at the bank signed his own name, and Milton could fill the order.</figcaption></figure>
 
 ## The Caramel Maker Bets on Chocolate
 
 The caramel business grew, and Milton's sweets travelled across America and overseas. Then, in 1893, he visited the World's Fair in Chicago and watched machines making chocolate in large amounts, far more than workers could make by hand. In those days, milk chocolate was still too expensive for many families. Milton began to wonder: what if a factory could make good chocolate in great numbers, so that every family could afford it?
 
+<figure><img src="/assets/images/hershey/hershey-worlds-fair.jpg" alt="Milton at the 1893 Chicago World's Fair, watching machines pour chocolate into a copper vat"><figcaption>Chicago, 1893: machines making chocolate in amounts no hands could match.</figcaption></figure>
+
 In 1894, while the caramel company was still running well, he started the Hershey Chocolate Company. Making milk chocolate that tasted right every time took years of testing. Milton could have stayed safe with caramel. Instead, in 1900, he sold the Lancaster Caramel Company for 1 million dollars and put his future into chocolate. Twice in his life, Milton had lost a business. This time, he was leaving a successful one by choice.
+
+<figure><img src="/assets/images/hershey/hershey-first-products.jpg" alt="A worker's hands setting down a tray of chocolate-coated caramels in Milton's first chocolate workshop"><figcaption>The first Hershey chocolate: coatings, cocoa, and small pieces, made beside the caramels.</figcaption></figure>
+
+<figure><img src="/assets/images/hershey/hershey-cheque.jpg" alt="A hand signing the paper beside a bank cheque for 1,000,000 dollars"><figcaption>In 1900, Milton sold his successful caramel company for 1 million dollars.</figcaption></figure>
 
 ## A Factory, and a Town Made of Chocolate
 
 Milton needed fresh milk, open land, and trains to carry his chocolate to stores, so he looked back toward the countryside where he had grown up. Construction began in 1903 near Derry Church, and 2 years later the new factory came to life. Machines turned milk, sugar, and cocoa into thousands of chocolate bars, and the scale changed everything: chocolate no longer had to wait for a special day. It could become a small part of everyday happiness.
 
+<figure><img src="/assets/images/hershey/hershey-farmland.jpg" alt="Milton standing on open farmland with his factory plans, looking over the countryside"><figcaption>He chose the countryside where he had grown up: fresh milk, open land, and trains.</figcaption></figure>
+
+<figure><img src="/assets/images/hershey/hershey-family-shop.jpg" alt="A working family buying chocolate for their children in a small sweet shop, while Milton watches from the doorway"><figcaption>Now a working family could buy chocolate on an ordinary day, not only on a special one.</figcaption></figure>
+
 A town grew around the factory, with new streets and houses, electric trolleys, and, in 1906, a park where workers and their families could spend their days off. Today you can still find that town on a map of Pennsylvania. Its name is Hershey. In 1907, the factory introduced Hershey's Kisses, little pieces of chocolate with a pointed top, each wrapped by hand in shiny foil.
 
+<figure><img src="/assets/images/hershey/hershey-kisses.jpg" alt="Three Hershey's Kisses on a factory table, two wrapped in silver foil and one unwrapped"><figcaption>1907: Hershey's Kisses, each little piece wrapped by hand in shiny foil.</figcaption></figure>
+
 Away from the factory, Milton shared his life with his wife, Catherine. They had married in 1898, and they had no children of their own. Together, they were about to create a home for children who had nowhere else to go.
+
+<figure><img src="/assets/images/hershey/hershey-wedding.jpg" alt="Milton and Catherine on their wedding day in a small church in 1898"><figcaption>In 1898, Milton married Catherine. They had no children of their own.</figcaption></figure>
 
 <div class="lessons" markdown="1">
 ## What This Story Teaches Us
@@ -128,7 +164,13 @@ Away from the factory, Milton shared his life with his wife, Catherine. They had
 
 Milton had left school young, and he and Catherine knew that many children had no safe home and little chance of a good education. In 1909, they opened the Hershey Industrial School for boys who had lost their parents. It was more than a school: it was a home, and a place to prepare for a better future. When the first boys arrived in 1910, they lived in the little farmhouse where Milton himself was born. The house where his story began was now giving other children a new beginning.
 
+<figure><img src="/assets/images/hershey/hershey-first-boys.jpg" alt="The first schoolboys walking up a long farm path with small suitcases toward the farmhouse school"><figcaption>The first boys arrived at the farmhouse where Milton himself was born.</figcaption></figure>
+
 In 1915, Catherine died. The home they had created together was still there, full of children who needed care. Then, on November 13, 1918, Milton made a surprising decision. He signed over all his shares in the chocolate company to a trust that would support the school. The shares were worth around 60 million dollars. He had not simply given the school money. He had given away his ownership of the company itself, so the gift could support children for generations. And for 5 years, he told almost no one. People only discovered the gift in 1923.
+
+<figure><img src="/assets/images/hershey/hershey-catherine.jpg" alt="Milton sitting beside Catherine's bed, holding her hand in the lamplight"><figcaption>In 1915, Catherine died. The home they built together was still full of children.</figcaption></figure>
+
+<figure><img src="/assets/images/hershey/hershey-signing-gift.jpg" alt="An elderly Milton signing the paper that gave his company shares to the school trust"><figcaption>November 13, 1918: one signature gave his whole company to the school.</figcaption></figure>
 
 Think back to the man at the bank, whose signature once changed Milton's life. Now Milton's own signature would change the lives of thousands of children.
 
@@ -136,18 +178,40 @@ Think back to the man at the bank, whose signature once changed Milton's life. N
 
 The company behind that promise still had to survive. From 1916, Milton bought sugar mills and farms in Cuba, because sugar was hard to find during World War I. A few years later he made a costly mistake, agreeing to buy large amounts of sugar at a set price just before sugar prices fell. Hershey lost a great deal of money, and the bank even sent someone to watch over the business. By June 1922, the debt was paid.
 
+<figure><img src="/assets/images/hershey/hershey-cuba.jpg" alt="Milton walking through sugarcane fields in Cuba, with the sugar mill behind him"><figcaption>Central Hershey, Cuba: sugar mills and farms, bought when sugar was hard to find.</figcaption></figure>
+
 Then came the Great Depression in 1929, when people across America were losing their jobs. In Hershey, Milton kept building: a hotel, a theatre, and a large sports arena rose in the town, giving people work when they needed it most. During World War II, his chocolate found a very different purpose. The company made emergency food bars for American soldiers, bars that had to survive heat and give plenty of energy. The army even asked for a taste only a little better than a boiled potato, so that soldiers would save them for real emergencies. The little pleasure he had made for families was now helping men far from home.
 
 On October 13, 1945, Milton Hershey died at the age of 88. He left behind a factory, a town, and a school.
+
+<figure><img src="/assets/images/hershey/hershey-building.jpg" alt="Milton talking with workers as a hotel and a large arena rise behind them during the Great Depression"><figcaption>While America lost jobs, Hershey kept building, and kept people working.</figcaption></figure>
+
+<figure><img src="/assets/images/hershey/hershey-war-factory.jpg" alt="Workers packing Hershey emergency ration bars into wooden crates during World War II"><figcaption>World War II: emergency bars for soldiers, made to survive heat and give energy.</figcaption></figure>
+
+<figure><img src="/assets/images/hershey/hershey-last-days.jpg" alt="Milton Hershey in his last days, resting in bed beside a window overlooking his factory and town"><figcaption>October 13, 1945: he left behind a factory, a town, and a school.</figcaption></figure>
 
 ## A New Generation, and a Boy Who Came Back
 
 After Milton's death, the company kept growing, and one part of its future came from a man named Harry Burnett Reese. Reese had once worked on a Hershey dairy farm, and in 1923 he began making candy in the basement of his home. In 1928 he introduced round pieces of chocolate with peanut butter inside, buying his chocolate from Hershey. After Reese died, his sons sold the family company to Hershey in 1963, and Reese's Peanut Butter Cups became part of the Hershey family. Milton's dream had made room for another man's dream.
 
+<figure><img src="/assets/images/hershey/hershey-reese-boy.jpg" alt="A young schoolboy with a suitcase looking into a candy workshop where Harry Reese works at copper kettles"><figcaption>Two stories meet in one place: a candy maker named Reese, and the schoolboys Milton's gift would carry.</figcaption></figure>
+
+<figure><img src="/assets/images/hershey/hershey-reese-family.jpg" alt="Harry Reese standing at the head of a crowded family table with his wife and children"><figcaption>Reese and his wife had 16 children. He needed to find a way to support his large family.</figcaption></figure>
+
 In 1973, Hershey opened Chocolate World, where families could take a ride and watch milk, sugar, and cocoa become chocolate. You can still visit it today.
+
+<figure><img src="/assets/images/hershey/hershey-chocolate-world.jpg" alt="Families walking toward the entrance of Hershey's Chocolate World in the present day"><figcaption>Hershey's Chocolate World, opened in 1973. You can still visit it today.</figcaption></figure>
 
 And then there is Bill Dearden. In 1935, Bill arrived at Milton's school at 13, after his mother died and his father struggled to find work. He studied there, worked in the fields, and learned to milk cows. He graduated in 1940, served in the Navy, and later joined the chocolate company. In 1976, Bill Dearden became the CEO of Hershey. The boy who once milked cows at Milton's school was now running his company. The gift had come full circle.
 
+<figure><img src="/assets/images/hershey/hershey-bill-leaves.jpg" alt="An older Bill Dearden with a briefcase pausing at the factory gate, looking back as workers watch"><figcaption>The boy who arrived with a small suitcase in 1935 became the CEO of Hershey in 1976.</figcaption></figure>
+
 Today, Milton Hershey School is still teaching. Children from families with little money live and learn there, with meals, education, and medical care all provided free of charge. In June 2025, its students gathered for graduation, and among them was the school's 12,000th graduate. The chocolate company continues to support the school through the trust Milton created more than 100 years ago.
 
+<figure><img src="/assets/images/hershey/hershey-school-today.jpg" alt="Students walking across the green campus of Milton Hershey School in the present day"><figcaption>Milton Hershey School today: a home and a school for children who need both.</figcaption></figure>
+
+<figure><img src="/assets/images/hershey/hershey-nurse.jpg" alt="A nurse gently checking a young student's forehead in the school medical room"><figcaption>Meals, education, and medical care, all free of charge to their families.</figcaption></figure>
+
 Milton's name now lives in two very different places: on the chocolate bars we enjoy, and at the school where children build their future. The next time you break a chocolate bar into small pieces, remember him. Perhaps someone once believed in you when you needed it most, the way a man at a bank once believed in Milton. And perhaps the best way to thank them is to give someone else a chance.
+
+<figure><img src="/assets/images/hershey/hershey-today-sharing.jpg" alt="People sharing Hershey chocolate today: in a supermarket, at a family table, and on a park bench"><figcaption>More than 130 years later, we can still taste the chocolate that carries his name.</figcaption></figure>
