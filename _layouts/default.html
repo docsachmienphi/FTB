@@ -18,6 +18,9 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;800&family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/assets/css/style.css?v=17">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"{{ site.url }}/#organization","name":"{{ site.title }}","url":"{{ site.url }}/","logo":"{{ '/assets/images/logo-header.png' | absolute_url }}","description":"{{ site.description }}","sameAs":["{{ site.youtube_channel }}"]},{"@type":"WebSite","@id":"{{ site.url }}/#website","name":"{{ site.title }}","url":"{{ site.url }}/","publisher":{"@id":"{{ site.url }}/#organization"}}]}
+</script>
 {% if page.youtube_id %}
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"VideoObject","name":"{{ page.title }}","description":"{{ page.description }}","thumbnailUrl":"https://i.ytimg.com/vi/{{ page.youtube_id }}/maxresdefault.jpg","uploadDate":"{{ page.date | date_to_xmlschema }}","embedUrl":"https://www.youtube.com/embed/{{ page.youtube_id }}","url":"https://www.youtube.com/watch?v={{ page.youtube_id }}"}
