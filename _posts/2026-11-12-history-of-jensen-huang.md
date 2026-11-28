@@ -3,7 +3,7 @@ layout: post
 title: "The True Story of Jensen Huang: From Dishwasher to NVIDIA CEO"
 description: "Sent to America at nine, Jensen Huang cleaned bathrooms and washed dishes at Denny's. Then he founded NVIDIA — and bet on AI long before the world believed."
 date: 2026-11-12
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-28
 youtube_id: "nXrJUFqDcDQ"
 categories: [Founder-Stories]
 tags: [Jensen-Huang, NVIDIA]
@@ -36,6 +36,8 @@ sources:
     url: "https://blogs.nvidia.com/blog/building-the-new-NVIDIA-together/"
   - title: "NVIDIA Investor Relations — statement from the Board of Directors, November 2026"
     url: "https://investor.nvidia.com/news/press-release-details/2026/Statement-from-NVIDIA-Board-of-Directors/"
+  - title: "NVIDIA Newsroom — NVIDIA Board reinstates Jensen Huang as President, CEO and Board Director (November 23, 2026)"
+    url: "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director/"
   - title: "Reuters — reporting on NVIDIA and Jensen Huang, November 2026"
     url: "https://www.reuters.com/technology/nvidia-is-preparing-oust-ceo-jensen-huang-wsj-reports-2026-11-11/"
 glance:
@@ -45,7 +47,7 @@ glance:
     - label: "First jobs"
       text: "Cleaning school bathrooms, then washing dishes at a Denny's restaurant"
     - label: "Known for"
-      text: "Co-founding NVIDIA in 1993 and leading it for 33 years"
+      text: "Co-founding NVIDIA in 1993 and leading it for 33 years — and returning as CEO in 2026"
     - label: "The big bet"
       text: "CUDA — his belief that graphics chips could one day power science and AI"
   timeline:
@@ -68,7 +70,7 @@ glance:
       text: "ChatGPT reaches the world, and suddenly everyone needs the machines Jensen spent years building"
       sticker: "/assets/images/jensen/stickers/dgx1.webp"
     - year: "Today"
-      text: "After thirty-three years leading NVIDIA, Jensen steps down — still in the black leather jacket, and still proud of washing dishes"
+      text: "After thirty-three years leading NVIDIA, Jensen steps down — and eleven days later, the board brings him back as CEO"
       sticker: "/assets/images/jensen/stickers/jensen-today.webp"
 words:
   - word: "immigrant"
@@ -89,9 +91,11 @@ faq:
   - q: "Did Jensen Huang really wash dishes at Denny's?"
     a: "Yes. After his family came together again in Oregon, the teenage Jensen worked at Denny's, an American restaurant chain. He started by washing dishes and later cleared tables. He took the job seriously — he planned his movements around the restaurant so he would never waste time walking back and forth. Years later, in 1993, NVIDIA itself was planned in a booth at another Denny's, in California."
   - q: "How did Jensen Huang start NVIDIA?"
-    a: "In the early 1990s, Jensen was an engineer with a stable career, a family, and a master's degree from Stanford. Two other engineers, Chris Malachowsky and Curtis Priem, shared his idea: personal computers needed much better graphics, especially for games. The three men talked it over at a Denny's restaurant, and on April 5, 1993, they founded NVIDIA, with Jensen as its chief executive — a job he held for thirty-three years, until he stepped down in November 2026."
+    a: "In the early 1990s, Jensen was an engineer with a stable career, a family, and a master's degree from Stanford. Two other engineers, Chris Malachowsky and Curtis Priem, shared his idea: personal computers needed much better graphics, especially for games. The three men talked it over at a Denny's restaurant, and on April 5, 1993, they founded NVIDIA, with Jensen as its chief executive — a job he held for thirty-three years. He stepped down in November 2026, and eleven days later, NVIDIA's board brought him back."
   - q: "What was Jensen Huang's biggest bet?"
     a: "CUDA. In 2006, NVIDIA already sold successful graphics chips for games. But Jensen believed the same chips could do many calculations at once for scientists and researchers, so he spent years and a great deal of money teaching the world to use them — while CUDA made almost no money and shareholders asked hard questions. In 2012, researchers used NVIDIA chips to build AlexNet, a landmark in AI. A decade later, the age of ChatGPT arrived, and the world needed exactly the technology he had believed in."
+  - q: "Is Jensen Huang the CEO of NVIDIA again?"
+    a: "Yes. Jensen stepped down as chief executive in November 2026, after thirty-three years. Colette Kress, NVIDIA's finance chief, led the company for a short time. Then, on November 23, 2026, NVIDIA announced that its board had voted unanimously to bring Jensen back as president, chief executive and board director, effective immediately. The board said it was satisfied with his candor and his ability to lead NVIDIA. Kress continues as the company's finance chief, and the board's independent investigation will continue."
 ---
 
 What would you do if you had to start a new life in a new country? That is how the story of Jensen Huang begins — with a nine-year-old boy who had to leave his parents behind.
@@ -209,5 +213,11 @@ When this story was researched in late 2026, there was a lot of personal news ab
 Maybe your dream also feels far away today. Jensen's story reminds us that great things can begin with small steps, hard work, and the courage to dream bigger. And you — what do you think about him?
 
 <figure><img src="/assets/images/jensen/jensen-today.jpg" alt="A portrait of Jensen Huang today in his black leather jacket, standing before the glass towers of NVIDIA in the morning light"><figcaption>Jensen Huang today, outside the glass towers of NVIDIA — still in the black leather jacket.</figcaption></figure>
+
+## Update: He Is Back
+
+In November 2026, Jensen stepped down as NVIDIA's chief executive, after thirty-three years. For a short time, the company was led by Colette Kress, its finance chief — and the world asked who could ever sit in Jensen's chair.
+
+Then the story turned one more time. On November 23, 2026, [NVIDIA announced](https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director/) that its board had voted unanimously to bring Jensen back as president, chief executive and board director, effective immediately. The board said it was satisfied with his candor and his ability to lead the company. Kress continues as finance chief, and the board's independent investigation will continue. "I am honored to return to NVIDIA," Jensen said. "I can't wait to get back to work."
 
 **His whole life on one page:** walk through [the Jensen Huang timeline](/stories/jensen-huang-timeline/) — 63 years in 18 illustrated moments, from the window in Taiwan to the centre of the AI age.

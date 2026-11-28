@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "63 Years of Jensen Huang"
-description: "Jensen Huang's life, year by year — from the boy sent across the ocean at nine to the man who bet on AI before the world believed. Plus: his shock resignation in 2026, who might replace him at NVIDIA, and the petition — signed by Elon Musk — to bring him back."
+description: "Jensen Huang's life, year by year — from the boy sent across the ocean at nine to the man who bet on AI before the world believed. Plus: his shock resignation in 2026, the petition — signed by Elon Musk — to bring him back, and the board's decision to make him CEO again."
 date: 2026-11-14
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-28
 categories: [Founder-Stories]
 tags: [Jensen-Huang, NVIDIA]
 cover_brand: "JENSEN HUANG"
@@ -74,7 +74,7 @@ image: /assets/images/jensen/jensen-title-drop.jpg
 
 <div class="tl-item"><span class="tl-dot"></span><div class="tl-card"><img class="tl-img" src="/assets/images/jensen/jensen-today.jpg" alt="Jensen Huang in his black leather jacket, before the glass towers of NVIDIA" loading="lazy"><div class="tl-year">2024<span class="tl-age">Age 61</span></div><p>NVIDIA passes 3 trillion dollars. Jensen stands at the very centre of the global technology stage.</p></div></div>
 
-<div class="tl-item"><span class="tl-dot"></span><div class="tl-card"><img class="tl-img" src="/assets/images/jensen/jensen-house-to-servers.jpg" alt="From the house of his childhood to endless halls of servers — one long journey" loading="lazy"><div class="tl-year">2026<span class="tl-age">Age 63</span></div><p>After 33 years, Jensen steps down as NVIDIA's CEO — one of the most influential figures of the AI computing era.</p></div></div>
+<div class="tl-item"><span class="tl-dot"></span><div class="tl-card"><img class="tl-img" src="/assets/images/jensen/jensen-house-to-servers.jpg" alt="From the house of his childhood to endless halls of servers — one long journey" loading="lazy"><div class="tl-year">2026<span class="tl-age">Age 63</span></div><p>After 33 years, Jensen steps down as NVIDIA's CEO — and eleven days later, the board brings him back. One of the most influential figures of the AI computing era is in the chair again.</p></div></div>
 
 </div>
 
@@ -96,19 +96,21 @@ upd();
 
 From a boy cleaning bathrooms at a boarding school, to the man standing at the centre of the global AI wave. His story proves one thing: sometimes, the technology that truly changes the world must be pursued patiently for decades, before its time finally comes.
 
-## Who Will Replace Jensen Huang?
+## The Chair Is His Again
 
-Jensen stepped down in November 2026, after 33 years at the top of NVIDIA. For now, the company is in the hands of Colette Kress, its finance chief.
+Jensen stepped down in November 2026, after 33 years at the top of NVIDIA. For a short time, the company was in the hands of Colette Kress, its finance chief.
 
-And already, the world is asking one question: who can sit in his chair?
+And already, the world was asking one question: who can sit in his chair?
 
-Online, people are guessing names. Even Tim Cook — the man who leads Apple — has been mentioned. Nobody knows. These are only guesses.
+Online, people guessed names. Even Tim Cook — the man who leads Apple — was mentioned. Nobody knew. These were only guesses.
 
-Many people, it seems, do not want a replacement at all. A petition asking NVIDIA to bring Jensen back is spreading fast. And it has reached the most famous name of all. Elon Musk [wrote on X](https://x.com/elonmusk/status/2121345211959804234): "A petition is underway to reinstate Jensen, and I'm signing it too." Millions of people read his words in a few hours.
+Many people, it seems, did not want a replacement at all. A petition asking NVIDIA to bring Jensen back spread fast. And it reached the most famous name of all. Elon Musk [wrote on X](https://x.com/elonmusk/status/2121345211959804234): "A petition is underway to reinstate Jensen, and I'm signing it too." Millions of people read his words in a few hours.
 
-Maybe that is the real answer to the question. Some leaders can be replaced. But a man who began by cleaning bathrooms, and then waited thirty years for his idea's time to come — a CEO like Jensen may be impossible to replace.
+Then, on November 23, 2026, the question was answered. [NVIDIA announced](https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director/) that its board had voted unanimously to bring Jensen back as president, chief executive and board director, effective immediately. The board said it was satisfied with his candor and his ability to lead NVIDIA. Board chair Harvey C. Jones said: "The Board believes Jensen is the right person to lead NVIDIA." Colette Kress continues as the company's finance chief.
 
-And you — who do you think could take his chair?
+So the empty chair was filled by the man who had sat in it for thirty-three years. Maybe that was the real answer all along. Some leaders can be replaced. But a man who began by cleaning bathrooms, and then waited thirty years for his idea's time to come — in the end, NVIDIA chose Jensen himself.
+
+And you — do you think NVIDIA made the right choice?
 
 Read the full story here: [The True Story of Jensen Huang — From Dishwasher to NVIDIA CEO](/stories/history-of-jensen-huang/). And for the company he built, see [The Entire History of NVIDIA](/stories/history-of-nvidia/).
 

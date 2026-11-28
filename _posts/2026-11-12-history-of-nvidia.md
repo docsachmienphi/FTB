@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "The ENTIRE History of NVIDIA: The Company That Had to Begin Again"
-description: "Founded at a Denny's table in 1993, NVIDIA almost died with its first chip. Then it bet on AI before anyone believed, and in 2026 its founder walked away."
+description: "Founded at a Denny's table in 1993, NVIDIA almost died with its first chip. Then it bet on AI before anyone believed — and in 2026, its founder walked away, and came back."
 date: 2026-11-12
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-28
 categories: [Company-History, Founder-Stories]
 tags: [NVIDIA, Jensen-Huang]
 cover_brand: "NVIDIA"
@@ -25,6 +25,8 @@ sources:
     url: "https://engineering.stanford.edu/about/history/heroes/2018-heroes/jensen-huang"
   - title: "TechCrunch — Jensen Huang resigns as NVIDIA's chief executive, and CFO Colette Kress becomes interim CEO (November 2026)"
     url: "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/"
+  - title: "NVIDIA Newsroom — NVIDIA Board reinstates Jensen Huang as President, CEO and Board Director (November 23, 2026)"
+    url: "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director/"
 glance:
   facts:
     - label: "Founded"
@@ -34,7 +36,7 @@ glance:
     - label: "The rescue"
       text: "A five million dollar investment from Sega, in the company's hardest hour"
     - label: "Today"
-      text: "The most valuable company in the world and the engine of the AI age, beginning again without its founder"
+      text: "The most valuable company in the world and the engine of the AI age — led once again by its founder"
   timeline:
     - year: "1993"
       text: "Three engineers found NVIDIA after talking at a Denny's restaurant in California"
@@ -49,12 +51,12 @@ glance:
     - year: "2022"
       text: "ChatGPT reaches the public, and the whole world needs NVIDIA's machines"
     - year: "2026"
-      text: "Jensen Huang resigns as chief executive after thirty-three years; Colette Kress leads for now"
+      text: "Jensen Huang resigns as chief executive after thirty-three years — and returns eleven days later"
 words:
   - word: "GPU"
     def: "short for graphics processing unit: the chip that draws the pictures, games, and worlds on a computer screen. NVIDIA gave it this name with the GeForce 256 in 1999, and the same kind of chip later learned to do AI work."
   - word: "founder"
-    def: "a person who starts a company. NVIDIA had three founders, and Jensen Huang led the company from its first day in 1993 until 2026."
+    def: "a person who starts a company. NVIDIA had three founders, and Jensen Huang has led the company from its first day in 1993, with a short break of eleven days in November 2026."
   - word: "investment"
     def: "money that someone puts into a company, hoping the company will grow. Sega's investment of five million dollars kept NVIDIA alive in its hardest hour."
   - word: "bet"
@@ -62,7 +64,7 @@ words:
   - word: "data center"
     def: "a large building full of computers that work together to store and process huge amounts of information. AI systems learn inside data centers, on machines built with NVIDIA chips."
   - word: "resign"
-    def: "to leave your job by your own decision. In November 2026, Jensen Huang resigned as NVIDIA's chief executive, after thirty-three years in the job."
+    def: "to leave your job by your own decision. In November 2026, Jensen Huang resigned as NVIDIA's chief executive, after thirty-three years in the job — and returned eleven days later."
 faq:
   - q: "Who founded NVIDIA?"
     a: "NVIDIA was founded by three engineers: Jensen Huang, Chris Malachowsky, and Curtis Priem. The three men talked their idea over at a Denny's restaurant in California, and on April 5, 1993, they started the company, with Jensen Huang as its chief executive."
@@ -71,7 +73,9 @@ faq:
   - q: "What is CUDA, and why did it matter?"
     a: "CUDA is a system NVIDIA introduced in 2006. It let programmers use graphics chips for much more than games, for example for scientific research that needs millions of calculations at the same time. For years, CUDA brought little money. Then, in 2012, researchers trained an AI system called AlexNet on NVIDIA chips and achieved remarkable results. Ten years later, the age of ChatGPT arrived, and the world needed exactly the technology NVIDIA had been building."
   - q: "Why did Jensen Huang resign as NVIDIA's CEO?"
-    a: "In November 2026, NVIDIA announced that Jensen Huang had resigned as its chief executive, and had also left the company's board, after thirty-three years. The company did not give a reason for his decision. Colette Kress, NVIDIA's finance chief, became interim chief executive while the board looks for a permanent successor. The days before the announcement carried a lot of hard news about his personal life. That part of his story is his own, and this article does not judge it."
+    a: "In November 2026, NVIDIA announced that Jensen Huang had resigned as its chief executive, and had also left the company's board, after thirty-three years. The company did not give a reason for his decision. Colette Kress, NVIDIA's finance chief, became interim chief executive. Eleven days later, on November 23, the board voted unanimously to bring Jensen back as chief executive and board director, and Kress continues as finance chief. The days before the first announcement carried a lot of hard news about his personal life. That part of his story is his own, and this article does not judge it."
+  - q: "Who is NVIDIA's CEO now?"
+    a: "Jensen Huang. NVIDIA announced on November 23, 2026 that its board had voted unanimously to reinstate him as president, chief executive officer and board director, effective immediately. Colette Kress, who led the company as interim chief executive for eleven days, continues as chief financial officer."
 ---
 
 In the 1990s, NVIDIA was a small company trying to make better computer chips for video games. But it had chosen the wrong technology. The computer industry was moving in another direction, customers were not buying enough of its chips, and the company was running out of money. Years of hard work were falling apart.
@@ -130,6 +134,6 @@ A month earlier, in July 2026, Jensen Huang had visited an arcade in Tokyo. Ther
 
 That second chance was only the beginning. Over the years, Chris, Curtis, and many engineers helped Jensen build NVIDIA, and researchers found new ways to use its chips. Sometimes, the hardest part of a dream is knowing when to begin again. And sometimes, that new beginning takes us somewhere we never imagined.
 
-By the time this story was finished, the story had changed one more time. In November 2026, NVIDIA announced that Jensen Huang had resigned as its chief executive, after thirty-three years. He also left the company's board. Colette Kress, NVIDIA's finance chief, is leading the company for now, while the board looks for a new chief executive. The company gave no reason for his decision. There has been a lot of hard news about his personal life, and that part of his life is not for us to judge. What no one can take away is the work itself: three engineers once met in a small restaurant and dreamed of a new kind of computer, and their dream changed the world.
+By the time this story was finished, the story had changed one more time. In November 2026, NVIDIA announced that Jensen Huang had resigned as its chief executive, after thirty-three years. He also left the company's board. Colette Kress, NVIDIA's finance chief, led the company as interim chief executive for eleven days. Then, on November 23, NVIDIA announced that its board had voted unanimously to bring Jensen back as president, chief executive and board director. The board said it was satisfied with his candor and his ability to lead NVIDIA. The company gave no reason for his resignation. There has been a lot of hard news about his personal life, and that part of his life is not for us to judge. What no one can take away is the work itself: three engineers once met in a small restaurant and dreamed of a new kind of computer, and their dream changed the world.
 
-Now NVIDIA must begin again, without the man who led it from its very first day. Maybe somewhere in your life, there is also something you built with all your heart that is not working anymore. NVIDIA's story asks a quiet question: do you have the courage to leave it behind, and begin again?
+So NVIDIA begins again — with the man who led it from its very first day back in the chair. Maybe somewhere in your life, there is also something you built with all your heart that is not working anymore. NVIDIA's story asks a quiet question: do you have the courage to leave it behind, and begin again?
