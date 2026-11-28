@@ -69,9 +69,12 @@ glance:
     - year: "2022"
       text: "ChatGPT reaches the world, and suddenly everyone needs the machines Jensen spent years building"
       sticker: "/assets/images/jensen/stickers/dgx1.webp"
-    - year: "Today"
+    - year: "11/2026"
       text: "After thirty-three years leading NVIDIA, Jensen steps down — and eleven days later, the board brings him back as CEO"
       sticker: "/assets/images/jensen/stickers/jensen-today.webp"
+    - year: "Today"
+      text: "He is back as CEO of NVIDIA — and his story is still being written"
+      sticker: "/assets/images/jensen/stickers/tl-arena.webp"
 words:
   - word: "immigrant"
     def: "a person who moves to a new country to live there. At nine years old, Jensen became a young immigrant in America, far from his parents."
@@ -97,6 +100,8 @@ faq:
   - q: "Is Jensen Huang the CEO of NVIDIA again?"
     a: "Yes. Jensen stepped down as chief executive in November 2026, after thirty-three years. Colette Kress, NVIDIA's finance chief, led the company for a short time. Then, on November 23, 2026, NVIDIA announced that its board had voted unanimously to bring Jensen back as president, chief executive and board director, effective immediately. The board said it was satisfied with his candor and his ability to lead NVIDIA. Kress continues as the company's finance chief, and the board's independent investigation will continue."
 ---
+
+<div style="background:#FFF8E7;border:1px solid #E7DCC3;border-left:4px solid #C8A165;border-radius:10px;padding:12px 16px;margin:0 0 20px;font-size:.98rem;line-height:1.55"><strong>Updated on November 28, 2026:</strong> He is back. Eleven days after Jensen Huang stepped down, NVIDIA's board voted unanimously to bring him back as president, CEO and board director. Colette Kress continues as finance chief. The full update is at the end of this story — and here is <a href="https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director/" target="_blank" rel="noopener">NVIDIA's official announcement</a>.</div>
 
 What would you do if you had to start a new life in a new country? That is how the story of Jensen Huang begins — with a nine-year-old boy who had to leave his parents behind.
 

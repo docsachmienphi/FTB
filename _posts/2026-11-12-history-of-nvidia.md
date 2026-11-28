@@ -50,8 +50,10 @@ glance:
       text: "Researchers train AlexNet on NVIDIA chips, and the AI future suddenly becomes real"
     - year: "2022"
       text: "ChatGPT reaches the public, and the whole world needs NVIDIA's machines"
-    - year: "2026"
+    - year: "11/2026"
       text: "Jensen Huang resigns as chief executive after thirty-three years — and returns eleven days later"
+    - year: "Today"
+      text: "NVIDIA begins its next chapter with its founder back as CEO and its full leadership team in place"
 words:
   - word: "GPU"
     def: "short for graphics processing unit: the chip that draws the pictures, games, and worlds on a computer screen. NVIDIA gave it this name with the GeForce 256 in 1999, and the same kind of chip later learned to do AI work."
@@ -77,6 +79,8 @@ faq:
   - q: "Who is NVIDIA's CEO now?"
     a: "Jensen Huang. NVIDIA announced on November 23, 2026 that its board had voted unanimously to reinstate him as president, chief executive officer and board director, effective immediately. Colette Kress, who led the company as interim chief executive for eleven days, continues as chief financial officer."
 ---
+
+<div style="background:#FFF8E7;border:1px solid #E7DCC3;border-left:4px solid #C8A165;border-radius:10px;padding:12px 16px;margin:0 0 20px;font-size:.98rem;line-height:1.55"><strong>Updated on November 28, 2026:</strong> NVIDIA has its founder back. On November 23, the company's board voted unanimously to reinstate Jensen Huang as president, CEO and board director — eleven days after his resignation. Colette Kress, who led the company as interim CEO, continues as chief financial officer. The board said it was satisfied with his candor and his ability to lead NVIDIA, and its independent investigation will continue. <a href="https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director/" target="_blank" rel="noopener">Read NVIDIA's official announcement</a>.</div>
 
 In the 1990s, NVIDIA was a small company trying to make better computer chips for video games. But it had chosen the wrong technology. The computer industry was moving in another direction, customers were not buying enough of its chips, and the company was running out of money. Years of hard work were falling apart.
 
